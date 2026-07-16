@@ -1,229 +1,1329 @@
 {
   "generated": [
     {
-      "uuid": "d08454ab-e3eb-497e-a288-8c2cb4ea97d8",
-      "text": "めーる",
-      "file": "d08454ab-e3eb-497e-a288-8c2cb4ea97d8.mp3"
+      "uuid": "4073edc6-aae4-4973-8105-2bded5a654fd",
+      "text": "こし",
+      "file": "4073edc6-aae4-4973-8105-2bded5a654fd.mp3"
     },
     {
-      "uuid": "ecfbacb5-baa4-46ba-bd98-e61e015e8360",
-      "text": "ぶか",
-      "file": "ecfbacb5-baa4-46ba-bd98-e61e015e8360.mp3"
+      "uuid": "67dd5170-3def-4acb-b2b6-9bb9d561d0de",
+      "text": "~てはいけない",
+      "file": "67dd5170-3def-4acb-b2b6-9bb9d561d0de.mp3"
     },
     {
-      "uuid": "3583859d-34a3-42a0-bf07-da76b4f22ed2",
-      "text": "ざんぎょう",
-      "file": "3583859d-34a3-42a0-bf07-da76b4f22ed2.mp3"
+      "uuid": "a838f9e7-3e66-4b69-92d3-d773829bb711",
+      "text": "えいぎょうじかん",
+      "file": "a838f9e7-3e66-4b69-92d3-d773829bb711.mp3"
     },
     {
-      "uuid": "6bcaaa84-24e4-4a18-8f5e-066db604c901",
-      "text": "けいり",
-      "file": "6bcaaa84-24e4-4a18-8f5e-066db604c901.mp3"
+      "uuid": "ebeceec3-ad09-41b0-b0d9-90ed939472b2",
+      "text": "べっど",
+      "file": "ebeceec3-ad09-41b0-b0d9-90ed939472b2.mp3"
     },
     {
-      "uuid": "5b882267-4d05-4586-9ba2-fee67d3db513",
-      "text": "しごと",
-      "file": "5b882267-4d05-4586-9ba2-fee67d3db513.mp3"
+      "uuid": "6dd04d6e-58d2-4342-b8da-0ae04d8f860e",
+      "text": "しゅくはく",
+      "file": "6dd04d6e-58d2-4342-b8da-0ae04d8f860e.mp3"
     },
     {
-      "uuid": "8195d225-3a55-4afc-b9f2-f0a32e8dd1ab",
-      "text": "ぶしょ",
-      "file": "8195d225-3a55-4afc-b9f2-f0a32e8dd1ab.mp3"
+      "uuid": "bbaba4c7-382a-4084-b76c-adf906634fb8",
+      "text": "あかるい",
+      "file": "bbaba4c7-382a-4084-b76c-adf906634fb8.mp3"
     },
     {
-      "uuid": "316e9015-5865-4fe0-ae0f-79f4ab93e059",
-      "text": "どうりょう",
-      "file": "316e9015-5865-4fe0-ae0f-79f4ab93e059.mp3"
+      "uuid": "218d2825-4652-4a39-9f7d-f8165df14053",
+      "text": "おつり",
+      "file": "218d2825-4652-4a39-9f7d-f8165df14053.mp3"
     },
     {
-      "uuid": "8cb1122b-a913-4744-b833-2aef13aecf6f",
-      "text": "ゆうきゅうきゅうか",
-      "file": "8cb1122b-a913-4744-b833-2aef13aecf6f.mp3"
+      "uuid": "b7bcdd47-0a59-4f43-a515-b87945ce759a",
+      "text": "あんない",
+      "file": "b7bcdd47-0a59-4f43-a515-b87945ce759a.mp3"
     },
     {
-      "uuid": "1780ac58-c864-4623-b693-6b62c5571302",
-      "text": "しりょう",
-      "file": "1780ac58-c864-4623-b693-6b62c5571302.mp3"
+      "uuid": "367ab151-e789-4ced-84bf-4309d08112e3",
+      "text": "すもう",
+      "file": "367ab151-e789-4ced-84bf-4309d08112e3.mp3"
     },
     {
-      "uuid": "f21c712f-d1c4-4a11-b033-da315924000a",
-      "text": "じんじ",
-      "file": "f21c712f-d1c4-4a11-b033-da315924000a.mp3"
+      "uuid": "e50a2701-2da6-4f4c-96bf-ec3738b1e0ac",
+      "text": "だるい",
+      "file": "e50a2701-2da6-4f4c-96bf-ec3738b1e0ac.mp3"
     },
     {
-      "uuid": "0b136fff-07e3-4f54-9223-ee163d538d15",
-      "text": "ほうこく",
-      "file": "0b136fff-07e3-4f54-9223-ee163d538d15.mp3"
+      "uuid": "e8eec478-511a-4898-8359-7ba6eca7046a",
+      "text": "おおみそか",
+      "file": "e8eec478-511a-4898-8359-7ba6eca7046a.mp3"
     },
     {
-      "uuid": "7d6df39a-fc42-463e-87e0-4e71a33e4bfc",
-      "text": "しめきり",
-      "file": "7d6df39a-fc42-463e-87e0-4e71a33e4bfc.mp3"
+      "uuid": "75e043e6-89d2-4e97-9538-81c0bbb3ac36",
+      "text": "たんざく",
+      "file": "75e043e6-89d2-4e97-9538-81c0bbb3ac36.mp3"
     },
     {
-      "uuid": "b465db19-3286-4377-90d3-36a6ee126bbb",
-      "text": "めんせつ",
-      "file": "b465db19-3286-4377-90d3-36a6ee126bbb.mp3"
+      "uuid": "67c9c0aa-4442-4429-90e1-722bb15504d7",
+      "text": "はや",
+      "file": "67c9c0aa-4442-4429-90e1-722bb15504d7.mp3"
     },
     {
-      "uuid": "dc21973c-2163-4197-9cbd-1fa26aa12d72",
-      "text": "えいぎょう",
-      "file": "dc21973c-2163-4197-9cbd-1fa26aa12d72.mp3"
+      "uuid": "8035ac45-3dc9-49ca-a949-3e5a120883fd",
+      "text": "~ばかり",
+      "file": "8035ac45-3dc9-49ca-a949-3e5a120883fd.mp3"
     },
     {
-      "uuid": "3d73b839-3043-4cb1-bfca-7554c63a4c17",
-      "text": "たのむ",
-      "file": "3d73b839-3043-4cb1-bfca-7554c63a4c17.mp3"
+      "uuid": "c5e3beaa-c3f5-4570-8b7d-a0c155f72863",
+      "text": "ぜんぜん",
+      "file": "c5e3beaa-c3f5-4570-8b7d-a0c155f72863.mp3"
     },
     {
-      "uuid": "133ad7c4-9ab2-4fa0-b6e1-0bc42176d75d",
-      "text": "しゃちょう",
-      "file": "133ad7c4-9ab2-4fa0-b6e1-0bc42176d75d.mp3"
+      "uuid": "cb498039-1e63-4e06-b4c3-0693eb1f58ab",
+      "text": "こいのぼり",
+      "file": "cb498039-1e63-4e06-b4c3-0693eb1f58ab.mp3"
     },
     {
-      "uuid": "01ec61a7-f7cd-46c4-b9da-e0524825e84c",
-      "text": "じょうし",
-      "file": "01ec61a7-f7cd-46c4-b9da-e0524825e84c.mp3"
+      "uuid": "7f3698a6-da82-4fe2-bec4-ebb2095c13c4",
+      "text": "せまい",
+      "file": "7f3698a6-da82-4fe2-bec4-ebb2095c13c4.mp3"
     },
     {
-      "uuid": "7f7d86c0-2307-4bcf-836a-1cb039aab535",
-      "text": "じむしょ",
-      "file": "7f7d86c0-2307-4bcf-836a-1cb039aab535.mp3"
+      "uuid": "bee77d6d-6c12-44e2-94e8-4219728de7b2",
+      "text": "きれい",
+      "file": "bee77d6d-6c12-44e2-94e8-4219728de7b2.mp3"
     },
     {
-      "uuid": "9157a6cf-9c59-41d5-9f1c-0350ccfd9e37",
-      "text": "でんわ",
-      "file": "9157a6cf-9c59-41d5-9f1c-0350ccfd9e37.mp3"
+      "uuid": "871c5c5e-b8a5-48cc-bb1e-de813f839599",
+      "text": "~のほう",
+      "file": "871c5c5e-b8a5-48cc-bb1e-de813f839599.mp3"
     },
     {
-      "uuid": "70973876-4028-402d-b0ee-2c9e11cf42b2",
-      "text": "てんしょく",
-      "file": "70973876-4028-402d-b0ee-2c9e11cf42b2.mp3"
+      "uuid": "b239b3d3-8b53-4a4d-8e95-492ee5e2966a",
+      "text": "にもつ",
+      "file": "b239b3d3-8b53-4a4d-8e95-492ee5e2966a.mp3"
     },
     {
-      "uuid": "8b6edb39-ba37-496b-a2da-d6ddc6ef6602",
-      "text": "けいやく",
-      "file": "8b6edb39-ba37-496b-a2da-d6ddc6ef6602.mp3"
+      "uuid": "57aa67a8-ffe1-4903-92c1-f9b55440d01e",
+      "text": "いたい",
+      "file": "57aa67a8-ffe1-4903-92c1-f9b55440d01e.mp3"
     },
     {
-      "uuid": "e51f9d00-ec2c-4be6-88b7-2533c054748c",
-      "text": "たいきん",
-      "file": "e51f9d00-ec2c-4be6-88b7-2533c054748c.mp3"
+      "uuid": "60ab0d30-1d61-42d9-8bce-99d6e8d4dc8f",
+      "text": "あそぶ",
+      "file": "60ab0d30-1d61-42d9-8bce-99d6e8d4dc8f.mp3"
     },
     {
-      "uuid": "06530d3b-e53e-4f7e-9ef1-a8352571831c",
-      "text": "しゅっせき",
-      "file": "06530d3b-e53e-4f7e-9ef1-a8352571831c.mp3"
+      "uuid": "abfb7383-0b5c-4ceb-9642-5e55b5970c41",
+      "text": "がす",
+      "file": "abfb7383-0b5c-4ceb-9642-5e55b5970c41.mp3"
     },
     {
-      "uuid": "06920f04-7e01-4015-8da0-41c1cbc95071",
-      "text": "けっせき",
-      "file": "06920f04-7e01-4015-8da0-41c1cbc95071.mp3"
+      "uuid": "cba599d9-8007-49cb-9eb4-523dae100e57",
+      "text": "つめ",
+      "file": "cba599d9-8007-49cb-9eb4-523dae100e57.mp3"
     },
     {
-      "uuid": "703604cf-3d89-43f9-92ea-0be34db245af",
-      "text": "ひしょ",
-      "file": "703604cf-3d89-43f9-92ea-0be34db245af.mp3"
+      "uuid": "05b7287c-01cc-4f73-b4af-817c8ada5137",
+      "text": "れいぞうこ",
+      "file": "05b7287c-01cc-4f73-b4af-817c8ada5137.mp3"
     },
     {
-      "uuid": "1d7c2f65-0adf-4ee2-8d45-8ef59774df72",
-      "text": "かいぎしつ",
-      "file": "1d7c2f65-0adf-4ee2-8d45-8ef59774df72.mp3"
+      "uuid": "88b6f486-18de-4e31-ac91-c405196aa5d9",
+      "text": "わしょく",
+      "file": "88b6f486-18de-4e31-ac91-c405196aa5d9.mp3"
     },
     {
-      "uuid": "e1f6c115-d3ed-4a6f-b4dd-97e12f0399fd",
-      "text": "しゅっちょう",
-      "file": "e1f6c115-d3ed-4a6f-b4dd-97e12f0399fd.mp3"
+      "uuid": "f8b53c76-cea2-4f6e-81db-0328929305f9",
+      "text": "へんぴん",
+      "file": "f8b53c76-cea2-4f6e-81db-0328929305f9.mp3"
     },
     {
-      "uuid": "42797806-b898-4d34-9243-b901232140f8",
-      "text": "ひるやすみ",
-      "file": "42797806-b898-4d34-9243-b901232140f8.mp3"
+      "uuid": "5bb1697f-8704-4419-8dd7-cbf193628765",
+      "text": "~あいだに",
+      "file": "5bb1697f-8704-4419-8dd7-cbf193628765.mp3"
     },
     {
-      "uuid": "cc758f9b-3d92-4958-a49a-09e008ea3e0b",
-      "text": "たいしょく",
-      "file": "cc758f9b-3d92-4958-a49a-09e008ea3e0b.mp3"
+      "uuid": "786fc175-53c9-40f9-8eb8-09251c6a8a13",
+      "text": "~べき",
+      "file": "786fc175-53c9-40f9-8eb8-09251c6a8a13.mp3"
     },
     {
-      "uuid": "b0beffc1-5c23-41a8-b9a6-b9acc26c74db",
-      "text": "さいよう",
-      "file": "b0beffc1-5c23-41a8-b9a6-b9acc26c74db.mp3"
+      "uuid": "c33442bc-1b34-4fec-8f62-eec68b3e162a",
+      "text": "せき",
+      "file": "c33442bc-1b34-4fec-8f62-eec68b3e162a.mp3"
     },
     {
-      "uuid": "574749aa-b32b-4051-a50b-8ded605ada68",
-      "text": "りれきしょ",
-      "file": "574749aa-b32b-4051-a50b-8ded605ada68.mp3"
+      "uuid": "f41bcb28-1ecd-4de3-9765-e5dcc192ee7b",
+      "text": "ちか",
+      "file": "f41bcb28-1ecd-4de3-9765-e5dcc192ee7b.mp3"
     },
     {
-      "uuid": "709df839-1ad0-41c7-a85a-b0f8473278bc",
-      "text": "とりひきさき",
-      "file": "709df839-1ad0-41c7-a85a-b0f8473278bc.mp3"
+      "uuid": "487b71b1-7e69-46d4-b53b-4f2ca2af833e",
+      "text": "かーど",
+      "file": "487b71b1-7e69-46d4-b53b-4f2ca2af833e.mp3"
     },
     {
-      "uuid": "a57cd5a8-0875-41c4-8a5b-8a9a21045fbc",
-      "text": "かちょう",
-      "file": "a57cd5a8-0875-41c4-8a5b-8a9a21045fbc.mp3"
+      "uuid": "cbf2b36c-f883-4886-9dda-d024c9e1fde8",
+      "text": "きゃく",
+      "file": "cbf2b36c-f883-4886-9dda-d024c9e1fde8.mp3"
     },
     {
-      "uuid": "392f6ace-8413-454e-a2a8-043d659787d5",
-      "text": "ぶちょう",
-      "file": "392f6ace-8413-454e-a2a8-043d659787d5.mp3"
+      "uuid": "6d6dfb05-6fbd-457e-b2d1-884aace85723",
+      "text": "がいこくじん",
+      "file": "6d6dfb05-6fbd-457e-b2d1-884aace85723.mp3"
     },
     {
-      "uuid": "68eef68d-c3f3-4517-8505-a849c0a6de45",
-      "text": "かいぎ",
-      "file": "68eef68d-c3f3-4517-8505-a849c0a6de45.mp3"
+      "uuid": "86848524-0802-4d54-a9fd-abf5a83d9047",
+      "text": "はじ",
+      "file": "86848524-0802-4d54-a9fd-abf5a83d9047.mp3"
     },
     {
-      "uuid": "6a3d06ac-df3a-4093-b1fd-7d8029e38660",
-      "text": "きゅうりょう",
-      "file": "6a3d06ac-df3a-4093-b1fd-7d8029e38660.mp3"
+      "uuid": "edbdb93e-dd87-471a-be0a-7ef7edb21ca0",
+      "text": "か",
+      "file": "edbdb93e-dd87-471a-be0a-7ef7edb21ca0.mp3"
     },
     {
-      "uuid": "43d81bf0-3efb-4d05-930c-236a5fa5a68c",
-      "text": "きゅうけい",
-      "file": "43d81bf0-3efb-4d05-930c-236a5fa5a68c.mp3"
+      "uuid": "8d4dcfdc-aefe-44f8-9858-cff8de2bc164",
+      "text": "か",
+      "file": "8d4dcfdc-aefe-44f8-9858-cff8de2bc164.mp3"
     },
     {
-      "uuid": "ad5ff632-f849-4e71-aa57-0ec80cab79a3",
-      "text": "かいしゃいん",
-      "file": "ad5ff632-f849-4e71-aa57-0ec80cab79a3.mp3"
+      "uuid": "71357f87-fbf1-427d-b128-d6519973aa8f",
+      "text": "たいいんする",
+      "file": "71357f87-fbf1-427d-b128-d6519973aa8f.mp3"
     },
     {
-      "uuid": "daa57393-335a-46c2-b160-7708a8d346c3",
-      "text": "うちあわせ",
-      "file": "daa57393-335a-46c2-b160-7708a8d346c3.mp3"
+      "uuid": "2c953bcd-6dc0-428e-a02a-1de73230864f",
+      "text": "おなか",
+      "file": "2c953bcd-6dc0-428e-a02a-1de73230864f.mp3"
     },
     {
-      "uuid": "7cc6f45e-fad4-4ae9-b4f1-9c6f9c8c8b97",
-      "text": "しゅっきん",
-      "file": "7cc6f45e-fad4-4ae9-b4f1-9c6f9c8c8b97.mp3"
+      "uuid": "d3c0c3ef-35dc-47b4-9b7e-3a1f22e4bc9e",
+      "text": "~てくれる",
+      "file": "d3c0c3ef-35dc-47b4-9b7e-3a1f22e4bc9e.mp3"
     },
     {
-      "uuid": "53edbadf-8a3f-4528-b800-034088b496c1",
-      "text": "しょうしん",
-      "file": "53edbadf-8a3f-4528-b800-034088b496c1.mp3"
+      "uuid": "0be5f7fa-7932-47a4-948d-2dfb2a55f5d2",
+      "text": "~まま",
+      "file": "0be5f7fa-7932-47a4-948d-2dfb2a55f5d2.mp3"
     },
     {
-      "uuid": "0be97277-b2b3-4380-b46c-94788bc0a34f",
-      "text": "めいし",
-      "file": "0be97277-b2b3-4380-b46c-94788bc0a34f.mp3"
+      "uuid": "593097e5-3e12-442b-b4e6-ec3d78b6d107",
+      "text": "せつぶん",
+      "file": "593097e5-3e12-442b-b4e6-ec3d78b6d107.mp3"
     },
     {
-      "uuid": "c41045e3-8264-4f8f-a6c4-512abe62d6a8",
-      "text": "はっぴょう",
-      "file": "c41045e3-8264-4f8f-a6c4-512abe62d6a8.mp3"
+      "uuid": "9c274992-5b4d-49b0-a62f-255afe2e28c3",
+      "text": "お",
+      "file": "9c274992-5b4d-49b0-a62f-255afe2e28c3.mp3"
     },
     {
-      "uuid": "cc98289b-a002-483c-af5f-25f52f4644e7",
-      "text": "たんとう",
-      "file": "cc98289b-a002-483c-af5f-25f52f4644e7.mp3"
+      "uuid": "b1a096a1-df24-4d58-92fd-de93dead8bb9",
+      "text": "ふくつう",
+      "file": "b1a096a1-df24-4d58-92fd-de93dead8bb9.mp3"
     },
     {
-      "uuid": "e08fc4a3-a4db-4481-b882-d8b111393782",
-      "text": "よてい",
-      "file": "e08fc4a3-a4db-4481-b882-d8b111393782.mp3"
+      "uuid": "2614ad6a-06fe-434a-ae9d-9116829f3916",
+      "text": "ねつ",
+      "file": "2614ad6a-06fe-434a-ae9d-9116829f3916.mp3"
+    },
+    {
+      "uuid": "acda456b-82ef-4238-8aa0-43eae14159b3",
+      "text": "まつり",
+      "file": "acda456b-82ef-4238-8aa0-43eae14159b3.mp3"
+    },
+    {
+      "uuid": "decdaef0-1edb-4b0c-afaa-5feaa546c837",
+      "text": "たなばた",
+      "file": "decdaef0-1edb-4b0c-afaa-5feaa546c837.mp3"
+    },
+    {
+      "uuid": "8bc026e8-cf79-4e47-8665-1d3d08b2b64d",
+      "text": "すく",
+      "file": "8bc026e8-cf79-4e47-8665-1d3d08b2b64d.mp3"
+    },
+    {
+      "uuid": "f1ecd3fa-f480-4ea3-ae77-8de5063b1043",
+      "text": "~とおり",
+      "file": "f1ecd3fa-f480-4ea3-ae77-8de5063b1043.mp3"
+    },
+    {
+      "uuid": "00182569-505b-448b-a08c-7dd7e0b505ff",
+      "text": "おせちりょうり",
+      "file": "00182569-505b-448b-a08c-7dd7e0b505ff.mp3"
+    },
+    {
+      "uuid": "50e5a362-2470-4ffb-95c2-88ee189e7963",
+      "text": "けしき",
+      "file": "50e5a362-2470-4ffb-95c2-88ee189e7963.mp3"
+    },
+    {
+      "uuid": "494a557f-0d82-4c7b-b306-370c6c7af791",
+      "text": "かーてん",
+      "file": "494a557f-0d82-4c7b-b306-370c6c7af791.mp3"
+    },
+    {
+      "uuid": "9804d52b-b730-432b-abb1-f93d490ad86a",
+      "text": "さくら",
+      "file": "9804d52b-b730-432b-abb1-f93d490ad86a.mp3"
+    },
+    {
+      "uuid": "3d160a7f-0246-4bac-a658-13592e1819d2",
+      "text": "ごみだし",
+      "file": "3d160a7f-0246-4bac-a658-13592e1819d2.mp3"
+    },
+    {
+      "uuid": "0fc4b57e-92d4-471f-ac7b-8b97fd33ef08",
+      "text": "えま",
+      "file": "0fc4b57e-92d4-471f-ac7b-8b97fd33ef08.mp3"
+    },
+    {
+      "uuid": "7f5b3fea-0b2c-4db1-8e07-5b053bdfaa6e",
+      "text": "かんこうあんないじょ",
+      "file": "7f5b3fea-0b2c-4db1-8e07-5b053bdfaa6e.mp3"
+    },
+    {
+      "uuid": "d11f34a0-065f-488a-bc8c-60c8422a50e5",
+      "text": "しちゃく",
+      "file": "d11f34a0-065f-488a-bc8c-60c8422a50e5.mp3"
+    },
+    {
+      "uuid": "59e90b7c-694f-4979-81a1-83cdd6409aad",
+      "text": "おわ",
+      "file": "59e90b7c-694f-4979-81a1-83cdd6409aad.mp3"
+    },
+    {
+      "uuid": "a3fd80d2-3f90-4b13-9556-721cf88ef36e",
+      "text": "~にもかかわらず",
+      "file": "a3fd80d2-3f90-4b13-9556-721cf88ef36e.mp3"
+    },
+    {
+      "uuid": "39df5abd-b0d3-4925-9e48-d552a37e076b",
+      "text": "はいしゃ",
+      "file": "39df5abd-b0d3-4925-9e48-d552a37e076b.mp3"
+    },
+    {
+      "uuid": "6a82ccf7-493e-464c-8180-7b7524a98067",
+      "text": "びょうき",
+      "file": "6a82ccf7-493e-464c-8180-7b7524a98067.mp3"
+    },
+    {
+      "uuid": "9ea44eab-20e8-4294-a61c-470a2b45c564",
+      "text": "~ことになる",
+      "file": "9ea44eab-20e8-4294-a61c-470a2b45c564.mp3"
+    },
+    {
+      "uuid": "70fd5dd9-d922-42a6-b5f2-9b1afdb5aed5",
+      "text": "ほね",
+      "file": "70fd5dd9-d922-42a6-b5f2-9b1afdb5aed5.mp3"
+    },
+    {
+      "uuid": "de1574eb-5d2c-441e-9496-dbd7db07c3b2",
+      "text": "せーる",
+      "file": "de1574eb-5d2c-441e-9496-dbd7db07c3b2.mp3"
+    },
+    {
+      "uuid": "196cd990-e02a-448b-9751-3186185e94b6",
+      "text": "おまもり",
+      "file": "196cd990-e02a-448b-9751-3186185e94b6.mp3"
+    },
+    {
+      "uuid": "10360bd4-f8a4-43ea-8f5a-4c3f4b8361c3",
+      "text": "~ことにする",
+      "file": "10360bd4-f8a4-43ea-8f5a-4c3f4b8361c3.mp3"
+    },
+    {
+      "uuid": "5fca9005-a2cf-48a7-bc75-019718e29d42",
+      "text": "ひふ",
+      "file": "5fca9005-a2cf-48a7-bc75-019718e29d42.mp3"
+    },
+    {
+      "uuid": "d5bde6d9-c1ca-4ea6-af92-0640efe5869c",
+      "text": "~わけだ",
+      "file": "d5bde6d9-c1ca-4ea6-af92-0640efe5869c.mp3"
+    },
+    {
+      "uuid": "ba607963-b7ed-4fbd-930e-aed48f32d7b7",
+      "text": "そうじする",
+      "file": "ba607963-b7ed-4fbd-930e-aed48f32d7b7.mp3"
+    },
+    {
+      "uuid": "f933294f-8630-442a-b529-ffb864c0d736",
+      "text": "でんとう",
+      "file": "f933294f-8630-442a-b529-ffb864c0d736.mp3"
+    },
+    {
+      "uuid": "954ec3b2-448e-4dec-a7cc-7ec2f34318eb",
+      "text": "とる",
+      "file": "954ec3b2-448e-4dec-a7cc-7ec2f34318eb.mp3"
+    },
+    {
+      "uuid": "313fa653-41c6-441c-88da-c5ffbf54062c",
+      "text": "かぎをかける",
+      "file": "313fa653-41c6-441c-88da-c5ffbf54062c.mp3"
+    },
+    {
+      "uuid": "3c595e5a-2b7d-4f2d-be50-c077d746f72b",
+      "text": "~ば",
+      "file": "3c595e5a-2b7d-4f2d-be50-c077d746f72b.mp3"
+    },
+    {
+      "uuid": "590c141e-d18c-47df-a252-ccedc0ab3a35",
+      "text": "~てもいい",
+      "file": "590c141e-d18c-47df-a252-ccedc0ab3a35.mp3"
+    },
+    {
+      "uuid": "92e4d973-7ccb-4dc5-9178-b51335d4932f",
+      "text": "ねむい",
+      "file": "92e4d973-7ccb-4dc5-9178-b51335d4932f.mp3"
+    },
+    {
+      "uuid": "88af0478-ea26-44e7-8c87-949323a357b0",
+      "text": "ゆうりょう",
+      "file": "88af0478-ea26-44e7-8c87-949323a357b0.mp3"
+    },
+    {
+      "uuid": "a21a7f38-3162-42d6-8916-bc79bac22521",
+      "text": "とお",
+      "file": "a21a7f38-3162-42d6-8916-bc79bac22521.mp3"
+    },
+    {
+      "uuid": "47e82c53-5f88-4c16-b856-21204e829031",
+      "text": "~とか",
+      "file": "47e82c53-5f88-4c16-b856-21204e829031.mp3"
+    },
+    {
+      "uuid": "f12c175e-dac6-4440-bdc7-5649f84378ca",
+      "text": "れじ",
+      "file": "f12c175e-dac6-4440-bdc7-5649f84378ca.mp3"
+    },
+    {
+      "uuid": "160dd88d-feb9-42c8-a639-6c92ccff9672",
+      "text": "はし",
+      "file": "160dd88d-feb9-42c8-a639-6c92ccff9672.mp3"
+    },
+    {
+      "uuid": "be7b67e7-49f9-46ec-96fb-7e7669aed4e7",
+      "text": "~はず",
+      "file": "be7b67e7-49f9-46ec-96fb-7e7669aed4e7.mp3"
+    },
+    {
+      "uuid": "4f359540-8c9b-44e2-94d9-8557658c79c3",
+      "text": "りょうりする",
+      "file": "4f359540-8c9b-44e2-94d9-8557658c79c3.mp3"
+    },
+    {
+      "uuid": "1f343270-e8a4-4ef0-8742-a7f022890549",
+      "text": "かみ",
+      "file": "1f343270-e8a4-4ef0-8742-a7f022890549.mp3"
+    },
+    {
+      "uuid": "ea8001c7-a4c1-4c07-b5b9-7de4c0efc1be",
+      "text": "ぼんちょうちん",
+      "file": "ea8001c7-a4c1-4c07-b5b9-7de4c0efc1be.mp3"
+    },
+    {
+      "uuid": "252905f4-afd0-44e8-8d67-dfbe4c933b4f",
+      "text": "ち",
+      "file": "252905f4-afd0-44e8-8d67-dfbe4c933b4f.mp3"
+    },
+    {
+      "uuid": "580f7721-3846-4c5f-b6bf-a7cf44df6fab",
+      "text": "しんしつ",
+      "file": "580f7721-3846-4c5f-b6bf-a7cf44df6fab.mp3"
+    },
+    {
+      "uuid": "b375b718-4fd7-4d2b-83a4-b911cfb4c583",
+      "text": "とまる",
+      "file": "b375b718-4fd7-4d2b-83a4-b911cfb4c583.mp3"
+    },
+    {
+      "uuid": "8bbc93dd-50ab-44f8-ada7-d8ff3b4b66fc",
+      "text": "やす",
+      "file": "8bbc93dd-50ab-44f8-ada7-d8ff3b4b66fc.mp3"
+    },
+    {
+      "uuid": "b3435244-f7d2-4863-b1f3-8b7b04c7cc8e",
+      "text": "~つつ",
+      "file": "b3435244-f7d2-4863-b1f3-8b7b04c7cc8e.mp3"
+    },
+    {
+      "uuid": "ade851bd-6b7d-4a1c-9065-2d27176ad49d",
+      "text": "~ままに",
+      "file": "ade851bd-6b7d-4a1c-9065-2d27176ad49d.mp3"
+    },
+    {
+      "uuid": "bfe7837a-d41f-4cae-b59d-32cd8d2755ea",
+      "text": "りょかん",
+      "file": "bfe7837a-d41f-4cae-b59d-32cd8d2755ea.mp3"
+    },
+    {
+      "uuid": "f29ca0dd-de6b-4b9b-bfd2-f212f5a67aeb",
+      "text": "よやく",
+      "file": "f29ca0dd-de6b-4b9b-bfd2-f212f5a67aeb.mp3"
+    },
+    {
+      "uuid": "3ffb6c77-b05c-491a-a5c1-9368c807502e",
+      "text": "むりょう",
+      "file": "3ffb6c77-b05c-491a-a5c1-9368c807502e.mp3"
+    },
+    {
+      "uuid": "878144c9-b39c-4a43-9252-32cd57d92d82",
+      "text": "おそ",
+      "file": "878144c9-b39c-4a43-9252-32cd57d92d82.mp3"
+    },
+    {
+      "uuid": "9fe83c31-2d7d-4b46-b13a-bcbb4d558634",
+      "text": "なおす",
+      "file": "9fe83c31-2d7d-4b46-b13a-bcbb4d558634.mp3"
+    },
+    {
+      "uuid": "fba803b4-0c8c-4d1c-86ce-2b223703232d",
+      "text": "ますく",
+      "file": "fba803b4-0c8c-4d1c-86ce-2b223703232d.mp3"
+    },
+    {
+      "uuid": "dae7033e-eb1c-44d7-8231-ac5858fefc4d",
+      "text": "けいろうのひ",
+      "file": "dae7033e-eb1c-44d7-8231-ac5858fefc4d.mp3"
+    },
+    {
+      "uuid": "a519a50d-be14-4fb9-979f-c41e3d238946",
+      "text": "もみじ",
+      "file": "a519a50d-be14-4fb9-979f-c41e3d238946.mp3"
+    },
+    {
+      "uuid": "2862e473-3e10-49a4-9b7d-4d3d21c9c8a9",
+      "text": "ふる",
+      "file": "2862e473-3e10-49a4-9b7d-4d3d21c9c8a9.mp3"
+    },
+    {
+      "uuid": "433500b1-7ea8-4b7e-92f2-3acdcba1215b",
+      "text": "じんじゃへさんぱいする",
+      "file": "433500b1-7ea8-4b7e-92f2-3acdcba1215b.mp3"
+    },
+    {
+      "uuid": "d0b8161b-94ae-4d0a-80de-edb2d16492ff",
+      "text": "いそ",
+      "file": "d0b8161b-94ae-4d0a-80de-edb2d16492ff.mp3"
+    },
+    {
+      "uuid": "34222fc9-6183-43b2-aaa8-3f6fe117af1b",
+      "text": "だいどころ",
+      "file": "34222fc9-6183-43b2-aaa8-3f6fe117af1b.mp3"
+    },
+    {
+      "uuid": "a0092245-15fe-4ac4-9ace-32c1b35658aa",
+      "text": "あか",
+      "file": "a0092245-15fe-4ac4-9ace-32c1b35658aa.mp3"
+    },
+    {
+      "uuid": "aab7f0c1-e3fc-451b-b29d-a059d64a6cdc",
+      "text": "ゆかた",
+      "file": "aab7f0c1-e3fc-451b-b29d-a059d64a6cdc.mp3"
+    },
+    {
+      "uuid": "08d0f3dd-151a-4c60-90bb-dd71dd61ada2",
+      "text": "~つもり",
+      "file": "08d0f3dd-151a-4c60-90bb-dd71dd61ada2.mp3"
+    },
+    {
+      "uuid": "31301d14-b99d-41b1-bc1d-1a729266c6a7",
+      "text": "べん",
+      "file": "31301d14-b99d-41b1-bc1d-1a729266c6a7.mp3"
+    },
+    {
+      "uuid": "99112728-da4f-412e-85c3-39ef8dcd6a61",
+      "text": "たな",
+      "file": "99112728-da4f-412e-85c3-39ef8dcd6a61.mp3"
+    },
+    {
+      "uuid": "ee02dea6-c3a5-4f48-8970-b7be705dc0fb",
+      "text": "めまい",
+      "file": "ee02dea6-c3a5-4f48-8970-b7be705dc0fb.mp3"
+    },
+    {
+      "uuid": "8340e550-41d6-437f-b21f-39b7e09e81f6",
+      "text": "かがみもち",
+      "file": "8340e550-41d6-437f-b21f-39b7e09e81f6.mp3"
+    },
+    {
+      "uuid": "92eedef0-3d24-4258-987a-044bd495a1ab",
+      "text": "つける",
+      "file": "92eedef0-3d24-4258-987a-044bd495a1ab.mp3"
+    },
+    {
+      "uuid": "1af8e02d-383f-467b-8423-9f15d5edad82",
+      "text": "い",
+      "file": "1af8e02d-383f-467b-8423-9f15d5edad82.mp3"
+    },
+    {
+      "uuid": "8c53a5cb-e032-45b1-81d0-c11be9e6f010",
+      "text": "でんしれんじ",
+      "file": "8c53a5cb-e032-45b1-81d0-c11be9e6f010.mp3"
+    },
+    {
+      "uuid": "36945f49-5da5-483a-9314-672711b13cf1",
+      "text": "くら",
+      "file": "36945f49-5da5-483a-9314-672711b13cf1.mp3"
+    },
+    {
+      "uuid": "afd562f3-41f5-4e94-a3a8-5325b0f92f53",
+      "text": "おも",
+      "file": "afd562f3-41f5-4e94-a3a8-5325b0f92f53.mp3"
+    },
+    {
+      "uuid": "b7b1862c-980a-4bcf-946d-8283d70a7f35",
+      "text": "~に加えて",
+      "file": "b7b1862c-980a-4bcf-946d-8283d70a7f35.mp3"
+    },
+    {
+      "uuid": "6c17d7e6-78bb-4496-b365-d3e0c5424a17",
+      "text": "しゅるい",
+      "file": "6c17d7e6-78bb-4496-b365-d3e0c5424a17.mp3"
+    },
+    {
+      "uuid": "5f52b1dd-78c5-449c-bb96-fb487d9a12f5",
+      "text": "まめまき",
+      "file": "5f52b1dd-78c5-449c-bb96-fb487d9a12f5.mp3"
+    },
+    {
+      "uuid": "b665c7ce-d88b-4a58-98d4-a9b6a5b181c8",
+      "text": "がいこく",
+      "file": "b665c7ce-d88b-4a58-98d4-a9b6a5b181c8.mp3"
+    },
+    {
+      "uuid": "cf39a2ae-35fd-458c-b635-f51eadac8214",
+      "text": "はつもうで",
+      "file": "cf39a2ae-35fd-458c-b635-f51eadac8214.mp3"
+    },
+    {
+      "uuid": "464fdd44-b5f0-4a4e-b243-8249a0df8c59",
+      "text": "こうかん",
+      "file": "464fdd44-b5f0-4a4e-b243-8249a0df8c59.mp3"
+    },
+    {
+      "uuid": "d6f08ec5-feaa-4b86-9ddb-db641ec7ff62",
+      "text": "かじ",
+      "file": "d6f08ec5-feaa-4b86-9ddb-db641ec7ff62.mp3"
+    },
+    {
+      "uuid": "f585cf8f-d9c3-4854-a1ec-02a2edc6ce3f",
+      "text": "きゅうきゅうしゃ",
+      "file": "f585cf8f-d9c3-4854-a1ec-02a2edc6ce3f.mp3"
+    },
+    {
+      "uuid": "9c18440c-0dbf-4157-991f-efb951acda40",
+      "text": "ふろ",
+      "file": "9c18440c-0dbf-4157-991f-efb951acda40.mp3"
+    },
+    {
+      "uuid": "da1acc44-69b5-4874-8c18-9e6b98976016",
+      "text": "つつむ",
+      "file": "da1acc44-69b5-4874-8c18-9e6b98976016.mp3"
+    },
+    {
+      "uuid": "26356d76-1d89-4ec5-a11c-32133758e44e",
+      "text": "~にかんして",
+      "file": "26356d76-1d89-4ec5-a11c-32133758e44e.mp3"
+    },
+    {
+      "uuid": "96655ef5-5b1c-475a-8b67-410bcdaa0fe5",
+      "text": "かお",
+      "file": "96655ef5-5b1c-475a-8b67-410bcdaa0fe5.mp3"
+    },
+    {
+      "uuid": "51beafbd-c8d4-49eb-93dd-7afa9059c4db",
+      "text": "じんじゃ",
+      "file": "51beafbd-c8d4-49eb-93dd-7afa9059c4db.mp3"
+    },
+    {
+      "uuid": "556a61a0-597d-4ad2-a487-ba47dbebee85",
+      "text": "としこしそば",
+      "file": "556a61a0-597d-4ad2-a487-ba47dbebee85.mp3"
+    },
+    {
+      "uuid": "23039ac0-03d7-4089-a337-070b34c4aa40",
+      "text": "~かわりに",
+      "file": "23039ac0-03d7-4089-a337-070b34c4aa40.mp3"
+    },
+    {
+      "uuid": "2363bfd9-1edf-4dde-a53f-786f60c7e80e",
+      "text": "~に比べて",
+      "file": "2363bfd9-1edf-4dde-a53f-786f60c7e80e.mp3"
+    },
+    {
+      "uuid": "c653acf7-afea-4fc4-ac4a-9a3406963b09",
+      "text": "かん",
+      "file": "c653acf7-afea-4fc4-ac4a-9a3406963b09.mp3"
+    },
+    {
+      "uuid": "0fc1435b-8e19-4e9d-9e8b-10794ddd97d8",
+      "text": "りょこう",
+      "file": "0fc1435b-8e19-4e9d-9e8b-10794ddd97d8.mp3"
+    },
+    {
+      "uuid": "0794f008-7ba2-4c72-8d55-cead0863d826",
+      "text": "ちゅうしゃ",
+      "file": "0794f008-7ba2-4c72-8d55-cead0863d826.mp3"
+    },
+    {
+      "uuid": "3a20f853-5522-43fb-902f-7ec2b0adc802",
+      "text": "かぶき",
+      "file": "3a20f853-5522-43fb-902f-7ec2b0adc802.mp3"
+    },
+    {
+      "uuid": "5ac471ee-ab96-4697-8e8f-0ef96e257767",
+      "text": "のど",
+      "file": "5ac471ee-ab96-4697-8e8f-0ef96e257767.mp3"
+    },
+    {
+      "uuid": "ac07cb32-c67f-4aae-8b6e-80ffd4fce751",
+      "text": "~うちに",
+      "file": "ac07cb32-c67f-4aae-8b6e-80ffd4fce751.mp3"
+    },
+    {
+      "uuid": "710fcf39-c365-4fe3-9c5f-bde63f2b5c70",
+      "text": "しゃ",
+      "file": "710fcf39-c365-4fe3-9c5f-bde63f2b5c70.mp3"
+    },
+    {
+      "uuid": "47e00a12-b088-44fa-9abe-8eb07f6c57e3",
+      "text": "けんこう",
+      "file": "47e00a12-b088-44fa-9abe-8eb07f6c57e3.mp3"
+    },
+    {
+      "uuid": "67c73f6d-ed2f-401a-a048-dca2844119cc",
+      "text": "しょうがつ",
+      "file": "67c73f6d-ed2f-401a-a048-dca2844119cc.mp3"
+    },
+    {
+      "uuid": "06eb3062-db31-427a-9327-d19262fa1132",
+      "text": "えいよう",
+      "file": "06eb3062-db31-427a-9327-d19262fa1132.mp3"
+    },
+    {
+      "uuid": "ae3924ba-f5ee-4ed2-aeaa-bb59759a8f4b",
+      "text": "かどう",
+      "file": "ae3924ba-f5ee-4ed2-aeaa-bb59759a8f4b.mp3"
+    },
+    {
+      "uuid": "193188d2-813f-48d9-b801-8cfe74e66b09",
+      "text": "わりびき",
+      "file": "193188d2-813f-48d9-b801-8cfe74e66b09.mp3"
+    },
+    {
+      "uuid": "525d28dd-60f9-42a1-b8cd-2526225f61d3",
+      "text": "~てあげる",
+      "file": "525d28dd-60f9-42a1-b8cd-2526225f61d3.mp3"
+    },
+    {
+      "uuid": "453e3dca-7469-4c81-933d-371ba5526999",
+      "text": "ぼんおどり",
+      "file": "453e3dca-7469-4c81-933d-371ba5526999.mp3"
+    },
+    {
+      "uuid": "7f05745d-1ea0-42b5-9210-1923027122c4",
+      "text": "しゃしん",
+      "file": "7f05745d-1ea0-42b5-9210-1923027122c4.mp3"
+    },
+    {
+      "uuid": "55f19fc6-4440-466f-b138-02b922991f78",
+      "text": "てんいん",
+      "file": "55f19fc6-4440-466f-b138-02b922991f78.mp3"
+    },
+    {
+      "uuid": "e08d6b55-b224-4250-a9b3-79efd017e0ac",
+      "text": "~てもらう",
+      "file": "e08d6b55-b224-4250-a9b3-79efd017e0ac.mp3"
+    },
+    {
+      "uuid": "9ff6ee07-8911-400e-bbc4-15177a04ce41",
+      "text": "みじか",
+      "file": "9ff6ee07-8911-400e-bbc4-15177a04ce41.mp3"
+    },
+    {
+      "uuid": "642760b9-acb1-4868-b692-1d2cb3dc7ca7",
+      "text": "ふとん",
+      "file": "642760b9-acb1-4868-b692-1d2cb3dc7ca7.mp3"
+    },
+    {
+      "uuid": "b48d2c90-099c-45e8-a2a5-581c9f076843",
+      "text": "かいてん",
+      "file": "b48d2c90-099c-45e8-a2a5-581c9f076843.mp3"
+    },
+    {
+      "uuid": "f168f4ee-9582-45b9-8861-3d760bf31ba0",
+      "text": "かえ",
+      "file": "f168f4ee-9582-45b9-8861-3d760bf31ba0.mp3"
+    },
+    {
+      "uuid": "671619ad-0d8b-47d5-a576-9d409f7521c2",
+      "text": "~ながら",
+      "file": "671619ad-0d8b-47d5-a576-9d409f7521c2.mp3"
+    },
+    {
+      "uuid": "3a6118d8-057b-4749-a407-53dc890bdd51",
+      "text": "しはらう",
+      "file": "3a6118d8-057b-4749-a407-53dc890bdd51.mp3"
+    },
+    {
+      "uuid": "f4c4ba98-d1e5-4dbb-ad9e-b603bef50873",
+      "text": "~にかけて",
+      "file": "f4c4ba98-d1e5-4dbb-ad9e-b603bef50873.mp3"
+    },
+    {
+      "uuid": "b270e867-8e14-4523-9477-a09a041bcddb",
+      "text": "~みたい",
+      "file": "b270e867-8e14-4523-9477-a09a041bcddb.mp3"
+    },
+    {
+      "uuid": "d954a220-603d-4f3c-9c7b-fa2a37d4106b",
+      "text": "~に対して",
+      "file": "d954a220-603d-4f3c-9c7b-fa2a37d4106b.mp3"
+    },
+    {
+      "uuid": "c86f967e-4063-46db-bf90-2be4abe61dab",
+      "text": "ぶんか",
+      "file": "c86f967e-4063-46db-bf90-2be4abe61dab.mp3"
+    },
+    {
+      "uuid": "c5b66694-a69d-4b35-9399-df80287650ef",
+      "text": "つか",
+      "file": "c5b66694-a69d-4b35-9399-df80287650ef.mp3"
+    },
+    {
+      "uuid": "71be4f22-b762-4278-9060-7ce833bcea4a",
+      "text": "~のなかで",
+      "file": "71be4f22-b762-4278-9060-7ce833bcea4a.mp3"
+    },
+    {
+      "uuid": "dab07ba0-b08f-4b4a-b1b0-cf9e2e82d5f4",
+      "text": "おんせん",
+      "file": "dab07ba0-b08f-4b4a-b1b0-cf9e2e82d5f4.mp3"
+    },
+    {
+      "uuid": "ba922ba7-2578-44d1-8274-f6aac0d05265",
+      "text": "かぜ",
+      "file": "ba922ba7-2578-44d1-8274-f6aac0d05265.mp3"
+    },
+    {
+      "uuid": "7a65893b-e069-4642-8d67-555e2dc37b25",
+      "text": "いしゃ",
+      "file": "7a65893b-e069-4642-8d67-555e2dc37b25.mp3"
+    },
+    {
+      "uuid": "385c1e8d-0109-4eeb-b609-253da5921562",
+      "text": "はなび",
+      "file": "385c1e8d-0109-4eeb-b609-253da5921562.mp3"
+    },
+    {
+      "uuid": "e6c1970c-10ad-4881-a387-3d89da2250a6",
+      "text": "ひっこし",
+      "file": "e6c1970c-10ad-4881-a387-3d89da2250a6.mp3"
+    },
+    {
+      "uuid": "914277bd-c918-456e-9aaf-729dbe9c9533",
+      "text": "むね",
+      "file": "914277bd-c918-456e-9aaf-729dbe9c9533.mp3"
+    },
+    {
+      "uuid": "90f2be8b-ce87-4d03-aab7-56c5ace1180a",
+      "text": "いん",
+      "file": "90f2be8b-ce87-4d03-aab7-56c5ace1180a.mp3"
+    },
+    {
+      "uuid": "81c70427-a57f-418d-8755-556a6b874ce1",
+      "text": "しょうひん",
+      "file": "81c70427-a57f-418d-8755-556a6b874ce1.mp3"
+    },
+    {
+      "uuid": "05ed6a5d-8578-4a2c-8956-22b55000f143",
+      "text": "えほうまき",
+      "file": "05ed6a5d-8578-4a2c-8956-22b55000f143.mp3"
+    },
+    {
+      "uuid": "1330285c-7f40-4476-bb92-89559d295218",
+      "text": "すいどう",
+      "file": "1330285c-7f40-4476-bb92-89559d295218.mp3"
+    },
+    {
+      "uuid": "0d8af7b9-b416-4d91-93d3-8797d91f65eb",
+      "text": "はたら",
+      "file": "0d8af7b9-b416-4d91-93d3-8797d91f65eb.mp3"
+    },
+    {
+      "uuid": "d324fec9-cccf-46d5-8e36-31ec4776a3ff",
+      "text": "~かた",
+      "file": "d324fec9-cccf-46d5-8e36-31ec4776a3ff.mp3"
+    },
+    {
+      "uuid": "73b11ac1-4a51-4548-b4f4-6e9fe889f30b",
+      "text": "~だけ",
+      "file": "73b11ac1-4a51-4548-b4f4-6e9fe889f30b.mp3"
+    },
+    {
+      "uuid": "2447905b-742d-4a85-a188-fa18b96a2029",
+      "text": "でんき",
+      "file": "2447905b-742d-4a85-a188-fa18b96a2029.mp3"
+    },
+    {
+      "uuid": "aaf7f9be-925d-4d5d-ac24-e60e4b21ce3f",
+      "text": "はな",
+      "file": "aaf7f9be-925d-4d5d-ac24-e60e4b21ce3f.mp3"
+    },
+    {
+      "uuid": "b2a9d095-0d44-4731-8fca-60890991183c",
+      "text": "うた",
+      "file": "b2a9d095-0d44-4731-8fca-60890991183c.mp3"
+    },
+    {
+      "uuid": "d87c5013-fc25-4bf8-aea6-a3d2ecd29f47",
+      "text": "~わけではない",
+      "file": "d87c5013-fc25-4bf8-aea6-a3d2ecd29f47.mp3"
+    },
+    {
+      "uuid": "c44667f0-53b9-4bf9-b48e-0edd6611d6db",
+      "text": "せんたくする",
+      "file": "c44667f0-53b9-4bf9-b48e-0edd6611d6db.mp3"
+    },
+    {
+      "uuid": "662b95f8-4356-4f3c-956e-15b59705c07e",
+      "text": "の",
+      "file": "662b95f8-4356-4f3c-956e-15b59705c07e.mp3"
+    },
+    {
+      "uuid": "5c9ddc9e-42a7-415b-b4ff-2f460b33850a",
+      "text": "だす",
+      "file": "5c9ddc9e-42a7-415b-b4ff-2f460b33850a.mp3"
+    },
+    {
+      "uuid": "06876b4e-6b98-4f71-9450-169547582965",
+      "text": "しょどう",
+      "file": "06876b4e-6b98-4f71-9450-169547582965.mp3"
+    },
+    {
+      "uuid": "efe80e65-b71f-4b5b-9057-c9572ec81359",
+      "text": "おお",
+      "file": "efe80e65-b71f-4b5b-9057-c9572ec81359.mp3"
+    },
+    {
+      "uuid": "86a07bd1-be06-4512-bee8-b41159e0bd25",
+      "text": "さどう",
+      "file": "86a07bd1-be06-4512-bee8-b41159e0bd25.mp3"
+    },
+    {
+      "uuid": "ff77027d-d814-45fd-a501-fc4341535304",
+      "text": "~において",
+      "file": "ff77027d-d814-45fd-a501-fc4341535304.mp3"
+    },
+    {
+      "uuid": "4fb2bc49-99f9-46a7-9090-998c83a780fc",
+      "text": "~までに",
+      "file": "4fb2bc49-99f9-46a7-9090-998c83a780fc.mp3"
+    },
+    {
+      "uuid": "956356e9-766a-4179-b83d-caf5ed111036",
+      "text": "~きり",
+      "file": "956356e9-766a-4179-b83d-caf5ed111036.mp3"
+    },
+    {
+      "uuid": "7534d8d8-ed45-4697-b2da-b52b6a7689af",
+      "text": "しゅじゅつ",
+      "file": "7534d8d8-ed45-4697-b2da-b52b6a7689af.mp3"
+    },
+    {
+      "uuid": "913f5b5d-4222-4de1-9772-38b553a1f433",
+      "text": "ひろい",
+      "file": "913f5b5d-4222-4de1-9772-38b553a1f433.mp3"
+    },
+    {
+      "uuid": "63cba0ca-8822-4a56-9cb5-6c7a6a580c6b",
+      "text": "からだ",
+      "file": "63cba0ca-8822-4a56-9cb5-6c7a6a580c6b.mp3"
+    },
+    {
+      "uuid": "6ffebcd4-74c9-4f88-8f6c-d557c8fe79f9",
+      "text": "たか",
+      "file": "6ffebcd4-74c9-4f88-8f6c-d557c8fe79f9.mp3"
+    },
+    {
+      "uuid": "9cc39e61-2091-452d-8e70-31139d1b9515",
+      "text": "くすり",
+      "file": "9cc39e61-2091-452d-8e70-31139d1b9515.mp3"
+    },
+    {
+      "uuid": "2b64ab0b-df73-49be-b552-48ba99c1065a",
+      "text": "しょうひぜい",
+      "file": "2b64ab0b-df73-49be-b552-48ba99c1065a.mp3"
+    },
+    {
+      "uuid": "b4d23756-2d1d-42c2-a1be-6395ea1d9c09",
+      "text": "たたみ",
+      "file": "b4d23756-2d1d-42c2-a1be-6395ea1d9c09.mp3"
+    },
+    {
+      "uuid": "791c5993-7488-4adb-ad39-8a1103ad9f29",
+      "text": "ひなまつり",
+      "file": "791c5993-7488-4adb-ad39-8a1103ad9f29.mp3"
+    },
+    {
+      "uuid": "78c8afa9-c776-4d44-b48d-d7228e57bd6d",
+      "text": "おとしだま",
+      "file": "78c8afa9-c776-4d44-b48d-d7228e57bd6d.mp3"
+    },
+    {
+      "uuid": "a166666d-f5df-48ea-a852-0ebd4374e27f",
+      "text": "かしわもち",
+      "file": "a166666d-f5df-48ea-a852-0ebd4374e27f.mp3"
+    },
+    {
+      "uuid": "52605ab1-d95a-4495-9cbf-c7e8040665a2",
+      "text": "ごしゅいん",
+      "file": "52605ab1-d95a-4495-9cbf-c7e8040665a2.mp3"
+    },
+    {
+      "uuid": "bd0c8a20-c7f7-47ee-811d-b716368e0f49",
+      "text": "はきけ",
+      "file": "bd0c8a20-c7f7-47ee-811d-b716368e0f49.mp3"
+    },
+    {
+      "uuid": "617b44d2-a1ca-4264-a293-779593afe7e8",
+      "text": "きんにく",
+      "file": "617b44d2-a1ca-4264-a293-779593afe7e8.mp3"
+    },
+    {
+      "uuid": "8b9fab3f-9065-4d23-a226-69382ffe4804",
+      "text": "しょくよく",
+      "file": "8b9fab3f-9065-4d23-a226-69382ffe4804.mp3"
+    },
+    {
+      "uuid": "005fb9d2-a373-45c1-8e3b-b2b58fe5386c",
+      "text": "せいじんしき",
+      "file": "005fb9d2-a373-45c1-8e3b-b2b58fe5386c.mp3"
+    },
+    {
+      "uuid": "9f9f7c5d-9c4e-4717-b68f-28124e096233",
+      "text": "かぎ",
+      "file": "9f9f7c5d-9c4e-4717-b68f-28124e096233.mp3"
+    },
+    {
+      "uuid": "3403cc52-f878-4e6a-9092-99ba322e49c2",
+      "text": "つよ",
+      "file": "3403cc52-f878-4e6a-9092-99ba322e49c2.mp3"
+    },
+    {
+      "uuid": "97305097-9d73-47a1-83d6-2fbf1a48cd29",
+      "text": "~にくい",
+      "file": "97305097-9d73-47a1-83d6-2fbf1a48cd29.mp3"
+    },
+    {
+      "uuid": "f16bbc31-5988-4d4e-8ac6-99addbe936ed",
+      "text": "~たほうがいい",
+      "file": "f16bbc31-5988-4d4e-8ac6-99addbe936ed.mp3"
+    },
+    {
+      "uuid": "be13b2b8-3f92-4f77-be74-54a69033d201",
+      "text": "しょほうせん",
+      "file": "be13b2b8-3f92-4f77-be74-54a69033d201.mp3"
+    },
+    {
+      "uuid": "6af2910f-8b2e-4116-97b4-a32745befcee",
+      "text": "ふくろ",
+      "file": "6af2910f-8b2e-4116-97b4-a32745befcee.mp3"
+    },
+    {
+      "uuid": "40ed395b-0a99-4502-9fb6-40db878516a7",
+      "text": "しんぞう",
+      "file": "40ed395b-0a99-4502-9fb6-40db878516a7.mp3"
+    },
+    {
+      "uuid": "66f6c79b-ff56-46d3-b97f-c84abf0f9ba3",
+      "text": "りょうがえ",
+      "file": "66f6c79b-ff56-46d3-b97f-c84abf0f9ba3.mp3"
+    },
+    {
+      "uuid": "7af0721e-f9c1-4283-b300-96076b512794",
+      "text": "なが",
+      "file": "7af0721e-f9c1-4283-b300-96076b512794.mp3"
+    },
+    {
+      "uuid": "269b610c-c696-4513-be4a-72c3b9101221",
+      "text": "もん",
+      "file": "269b610c-c696-4513-be4a-72c3b9101221.mp3"
+    },
+    {
+      "uuid": "4b6d7af6-cc41-4151-b094-2fd2b9c3abef",
+      "text": "かいだん",
+      "file": "4b6d7af6-cc41-4151-b094-2fd2b9c3abef.mp3"
+    },
+    {
+      "uuid": "53e1bdc9-ec05-4ce2-89f6-2073aeed425e",
+      "text": "~やすい",
+      "file": "53e1bdc9-ec05-4ce2-89f6-2073aeed425e.mp3"
+    },
+    {
+      "uuid": "7074f075-4c23-43b0-8594-6f0aa3dac0f6",
+      "text": "はいたつ",
+      "file": "7074f075-4c23-43b0-8594-6f0aa3dac0f6.mp3"
+    },
+    {
+      "uuid": "9df69dfe-1618-4c03-8a70-68767f9c2d2c",
+      "text": "あまり",
+      "file": "9df69dfe-1618-4c03-8a70-68767f9c2d2c.mp3"
+    },
+    {
+      "uuid": "14d0d663-d607-4e00-8055-514b4bcf8aa7",
+      "text": "にれいにはくしゅいちれい",
+      "file": "14d0d663-d607-4e00-8055-514b4bcf8aa7.mp3"
+    },
+    {
+      "uuid": "3fcb6abb-f98e-48fd-ad51-206e5425cb6b",
+      "text": "~なら",
+      "file": "3fcb6abb-f98e-48fd-ad51-206e5425cb6b.mp3"
+    },
+    {
+      "uuid": "2ee389d4-a935-4463-8e49-639b49e04371",
+      "text": "けす",
+      "file": "2ee389d4-a935-4463-8e49-639b49e04371.mp3"
+    },
+    {
+      "uuid": "a0661d59-3fab-47d9-97b7-d98ba8ae7a4e",
+      "text": "かた",
+      "file": "a0661d59-3fab-47d9-97b7-d98ba8ae7a4e.mp3"
+    },
+    {
+      "uuid": "6d352091-d72b-450d-a447-7aae134163ab",
+      "text": "あたら",
+      "file": "6d352091-d72b-450d-a447-7aae134163ab.mp3"
+    },
+    {
+      "uuid": "0aa6dc52-0bd8-48bf-84bc-392af73649e8",
+      "text": "たび",
+      "file": "0aa6dc52-0bd8-48bf-84bc-392af73649e8.mp3"
+    },
+    {
+      "uuid": "2aaadf87-9c3f-4078-bc3b-d7ed1875efce",
+      "text": "おく",
+      "file": "2aaadf87-9c3f-4078-bc3b-d7ed1875efce.mp3"
+    },
+    {
+      "uuid": "308cf8ef-8dc1-4175-8094-eb60ac647fcd",
+      "text": "けが",
+      "file": "308cf8ef-8dc1-4175-8094-eb60ac647fcd.mp3"
+    },
+    {
+      "uuid": "d5d910d7-2b24-4dc0-9f67-26049f722065",
+      "text": "おさいせん",
+      "file": "d5d910d7-2b24-4dc0-9f67-26049f722065.mp3"
+    },
+    {
+      "uuid": "c2c8fb3b-264e-4a2f-9abb-652f0ccc39cb",
+      "text": "せなか",
+      "file": "c2c8fb3b-264e-4a2f-9abb-652f0ccc39cb.mp3"
+    },
+    {
+      "uuid": "88376b63-140d-43b2-a80b-72743358c7ba",
+      "text": "じ",
+      "file": "88376b63-140d-43b2-a80b-72743358c7ba.mp3"
+    },
+    {
+      "uuid": "133112c2-194f-4901-8546-af157d751888",
+      "text": "~ために",
+      "file": "133112c2-194f-4901-8546-af157d751888.mp3"
+    },
+    {
+      "uuid": "8ed0ed66-6980-4e7f-a063-c8319804e6b7",
+      "text": "もの",
+      "file": "8ed0ed66-6980-4e7f-a063-c8319804e6b7.mp3"
+    },
+    {
+      "uuid": "b9ea1d07-c2f9-4897-8e83-f9d92acc710d",
+      "text": "かんこうち",
+      "file": "b9ea1d07-c2f9-4897-8e83-f9d92acc710d.mp3"
+    },
+    {
+      "uuid": "d910e0cd-e605-47b8-8d0c-a2220055c86a",
+      "text": "あたま",
+      "file": "d910e0cd-e605-47b8-8d0c-a2220055c86a.mp3"
+    },
+    {
+      "uuid": "84febedf-d900-40f1-8b11-1a59946c5bc8",
+      "text": "~ようだ",
+      "file": "84febedf-d900-40f1-8b11-1a59946c5bc8.mp3"
+    },
+    {
+      "uuid": "777f62ed-e568-4d95-a561-429acc529e6d",
+      "text": "ぶどう",
+      "file": "777f62ed-e568-4d95-a561-429acc529e6d.mp3"
+    },
+    {
+      "uuid": "54dfa8bd-6447-40e9-a394-c1c93605a177",
+      "text": "こんびに",
+      "file": "54dfa8bd-6447-40e9-a394-c1c93605a177.mp3"
+    },
+    {
+      "uuid": "7191b2da-b659-415a-b601-5c74d3098e02",
+      "text": "へいてん",
+      "file": "7191b2da-b659-415a-b601-5c74d3098e02.mp3"
+    },
+    {
+      "uuid": "cd1d9f3b-5688-48f5-aa4d-a7934d9e68f3",
+      "text": "きもの",
+      "file": "cd1d9f3b-5688-48f5-aa4d-a7934d9e68f3.mp3"
+    },
+    {
+      "uuid": "8ea95069-f4be-494d-9edb-8f1bca921d6a",
+      "text": "かどまつ",
+      "file": "8ea95069-f4be-494d-9edb-8f1bca921d6a.mp3"
+    },
+    {
+      "uuid": "4d22b9af-77a8-41f6-9e6f-538d5794545f",
+      "text": "~のに",
+      "file": "4d22b9af-77a8-41f6-9e6f-538d5794545f.mp3"
+    },
+    {
+      "uuid": "ea31233b-27ba-40ce-a829-66e4320f8a4c",
+      "text": "くらい",
+      "file": "ea31233b-27ba-40ce-a829-66e4320f8a4c.mp3"
+    },
+    {
+      "uuid": "d0c0551f-1020-4ba4-9768-c977abdf1d14",
+      "text": "よわ",
+      "file": "d0c0551f-1020-4ba4-9768-c977abdf1d14.mp3"
+    },
+    {
+      "uuid": "918885c8-85e1-4d0e-a1aa-41a0cb86152b",
+      "text": "みちにまよう",
+      "file": "918885c8-85e1-4d0e-a1aa-41a0cb86152b.mp3"
+    },
+    {
+      "uuid": "38a5efed-c567-4399-9683-ad570f19c3fa",
+      "text": "ゆび",
+      "file": "38a5efed-c567-4399-9683-ad570f19c3fa.mp3"
+    },
+    {
+      "uuid": "f73b2c86-9f2f-4496-baf4-905626434de0",
+      "text": "~によって",
+      "file": "f73b2c86-9f2f-4496-baf4-905626434de0.mp3"
+    },
+    {
+      "uuid": "494da3ae-7576-498b-b22d-7dab992a504d",
+      "text": "ときどき",
+      "file": "494da3ae-7576-498b-b22d-7dab992a504d.mp3"
+    },
+    {
+      "uuid": "045eacb9-700e-4b7f-a20b-d5d7e4358ca9",
+      "text": "こどものひ",
+      "file": "045eacb9-700e-4b7f-a20b-d5d7e4358ca9.mp3"
+    },
+    {
+      "uuid": "6d708352-02bd-451d-8fd9-11d038253544",
+      "text": "~たら",
+      "file": "6d708352-02bd-451d-8fd9-11d038253544.mp3"
+    },
+    {
+      "uuid": "f00dde3c-cf15-45ae-b627-ce48ef0f6070",
+      "text": "かんこう",
+      "file": "f00dde3c-cf15-45ae-b627-ce48ef0f6070.mp3"
+    },
+    {
+      "uuid": "9b3c3253-ba0a-4ba0-9de8-14ff1053d3ba",
+      "text": "~ところ",
+      "file": "9b3c3253-ba0a-4ba0-9de8-14ff1053d3ba.mp3"
+    },
+    {
+      "uuid": "a4777b12-2681-4059-8aa7-c8b6c11e8105",
+      "text": "しんさつ",
+      "file": "a4777b12-2681-4059-8aa7-c8b6c11e8105.mp3"
+    },
+    {
+      "uuid": "722ac45d-d203-47b5-b5f2-5624964440c4",
+      "text": "かる",
+      "file": "722ac45d-d203-47b5-b5f2-5624964440c4.mp3"
+    },
+    {
+      "uuid": "f22bda07-aaf4-4cc7-b49b-c8f9c53c4953",
+      "text": "~たばかり",
+      "file": "f22bda07-aaf4-4cc7-b49b-c8f9c53c4953.mp3"
+    },
+    {
+      "uuid": "4c4b4aa4-29f2-4764-a1a9-58e1a9dadcfb",
+      "text": "にゅういんする",
+      "file": "4c4b4aa4-29f2-4764-a1a9-58e1a9dadcfb.mp3"
+    },
+    {
+      "uuid": "1fd329bc-dd75-4b24-829d-d632cee397ab",
+      "text": "おぼん",
+      "file": "1fd329bc-dd75-4b24-829d-d632cee397ab.mp3"
+    },
+    {
+      "uuid": "e4daa7a4-e24f-4674-a56a-c322cdea5ca5",
+      "text": "てら",
+      "file": "e4daa7a4-e24f-4674-a56a-c322cdea5ca5.mp3"
+    },
+    {
+      "uuid": "7d2e04e2-f135-4020-acaa-90bef428c8ef",
+      "text": "ぱすぽーと",
+      "file": "7d2e04e2-f135-4020-acaa-90bef428c8ef.mp3"
+    },
+    {
+      "uuid": "e6eedd3c-78b2-4576-826a-43752ed373c1",
+      "text": "~について",
+      "file": "e6eedd3c-78b2-4576-826a-43752ed373c1.mp3"
+    },
+    {
+      "uuid": "0cc19bc0-7f44-4db6-9cfb-2d8e8ac2ed74",
+      "text": "なんじ",
+      "file": "0cc19bc0-7f44-4db6-9cfb-2d8e8ac2ed74.mp3"
+    },
+    {
+      "uuid": "555be201-f204-415b-8017-8eebebc8a231",
+      "text": "まど",
+      "file": "555be201-f204-415b-8017-8eebebc8a231.mp3"
+    },
+    {
+      "uuid": "1b1c5289-8324-4a91-ad3b-882e29e40beb",
+      "text": "しずか",
+      "file": "1b1c5289-8324-4a91-ad3b-882e29e40beb.mp3"
+    },
+    {
+      "uuid": "5878e8ee-bf75-48a4-b89d-728940cafafa",
+      "text": "おみくじ",
+      "file": "5878e8ee-bf75-48a4-b89d-728940cafafa.mp3"
+    },
+    {
+      "uuid": "43763910-54b3-4921-822e-6f59a18765d5",
+      "text": "げんかん",
+      "file": "43763910-54b3-4921-822e-6f59a18765d5.mp3"
+    },
+    {
+      "uuid": "3fc958fb-3f15-48c8-bb72-399c102226ca",
+      "text": "ろうか",
+      "file": "3fc958fb-3f15-48c8-bb72-399c102226ca.mp3"
+    },
+    {
+      "uuid": "ef4bd9e7-f5e9-4d9e-9dd6-25ddc3031886",
+      "text": "ずつう",
+      "file": "ef4bd9e7-f5e9-4d9e-9dd6-25ddc3031886.mp3"
+    },
+    {
+      "uuid": "53dd803c-12bb-47f2-a85d-0f9ba9ab1d7c",
+      "text": "やちん",
+      "file": "53dd803c-12bb-47f2-a85d-0f9ba9ab1d7c.mp3"
+    },
+    {
+      "uuid": "b79e789f-61b8-4357-9b81-7e7e1f246d06",
+      "text": "りょうしゅうしょ",
+      "file": "b79e789f-61b8-4357-9b81-7e7e1f246d06.mp3"
+    },
+    {
+      "uuid": "9371858f-795f-4f6b-aa56-d75a30ea014f",
+      "text": "かたづける",
+      "file": "9371858f-795f-4f6b-aa56-d75a30ea014f.mp3"
+    },
+    {
+      "uuid": "042b622d-60b3-4fe2-95d0-5e6393918f79",
+      "text": "~そう",
+      "file": "042b622d-60b3-4fe2-95d0-5e6393918f79.mp3"
     }
   ],
   "skipped": [],
