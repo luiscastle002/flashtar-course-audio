@@ -1,0 +1,1886 @@
+{
+  "generated": [
+    {
+      "uuid": "27a15c8e-a5ba-423d-acad-25dbe9ffa875",
+      "text": "Mi familia es grande",
+      "file": "27a15c8e-a5ba-423d-acad-25dbe9ffa875.mp3"
+    },
+    {
+      "uuid": "52072f7e-f1fe-4ec8-a8a0-57ed5d7e4809",
+      "text": "Amarillo",
+      "file": "52072f7e-f1fe-4ec8-a8a0-57ed5d7e4809.mp3"
+    },
+    {
+      "uuid": "b01e1961-72d0-4455-8dd2-a149e0da43b9",
+      "text": "Marrón",
+      "file": "b01e1961-72d0-4455-8dd2-a149e0da43b9.mp3"
+    },
+    {
+      "uuid": "4b9fc0c1-b75d-49fd-8412-4ca62c97826d",
+      "text": "La boca",
+      "file": "4b9fc0c1-b75d-49fd-8412-4ca62c97826d.mp3"
+    },
+    {
+      "uuid": "c0000000-0000-0000-0000-000000000008",
+      "text": "Sí / No",
+      "file": "c0000000-0000-0000-0000-000000000008.mp3"
+    },
+    {
+      "uuid": "e655347d-a51a-4e8d-8c53-dec6a4355e26",
+      "text": "Lavabo",
+      "file": "e655347d-a51a-4e8d-8c53-dec6a4355e26.mp3"
+    },
+    {
+      "uuid": "8778761b-6ef2-4224-b2f7-c7993bd9dfa8",
+      "text": "El café",
+      "file": "8778761b-6ef2-4224-b2f7-c7993bd9dfa8.mp3"
+    },
+    {
+      "uuid": "c7310c6b-b44e-4d0e-b11d-0fbe03fc4f99",
+      "text": "Escuchar",
+      "file": "c7310c6b-b44e-4d0e-b11d-0fbe03fc4f99.mp3"
+    },
+    {
+      "uuid": "c9facbf7-1d53-47f6-8ba4-6dba0e3634b0",
+      "text": "Semáforo",
+      "file": "c9facbf7-1d53-47f6-8ba4-6dba0e3634b0.mp3"
+    },
+    {
+      "uuid": "6d11eb52-d9c6-4c33-bc2f-6fef526ac026",
+      "text": "nueve",
+      "file": "6d11eb52-d9c6-4c33-bc2f-6fef526ac026.mp3"
+    },
+    {
+      "uuid": "c0000000-0000-0000-0000-000000000025",
+      "text": "Ciudad / Calle",
+      "file": "c0000000-0000-0000-0000-000000000025.mp3"
+    },
+    {
+      "uuid": "7695876f-be8f-4190-9940-e6fdfc612925",
+      "text": "Cerca",
+      "file": "7695876f-be8f-4190-9940-e6fdfc612925.mp3"
+    },
+    {
+      "uuid": "94bda1d0-68a6-4eab-a51c-b05c52ce3eb5",
+      "text": "Lejos",
+      "file": "94bda1d0-68a6-4eab-a51c-b05c52ce3eb5.mp3"
+    },
+    {
+      "uuid": "b6218977-4ad3-4610-9d37-cb5e00aaa7f3",
+      "text": "dieciseis",
+      "file": "b6218977-4ad3-4610-9d37-cb5e00aaa7f3.mp3"
+    },
+    {
+      "uuid": "5e7c1be0-ac36-48d7-8dbd-ac59e561c7aa",
+      "text": "¿Entiendes?",
+      "file": "5e7c1be0-ac36-48d7-8dbd-ac59e561c7aa.mp3"
+    },
+    {
+      "uuid": "c537f9fd-d26c-433f-9df1-b7111efe0a44",
+      "text": "¡Feliz Año Nuevo!",
+      "file": "c537f9fd-d26c-433f-9df1-b7111efe0a44.mp3"
+    },
+    {
+      "uuid": "d3ff906d-27ce-4dc5-b279-304f407035eb",
+      "text": "La leche",
+      "file": "d3ff906d-27ce-4dc5-b279-304f407035eb.mp3"
+    },
+    {
+      "uuid": "b4bc8ae5-0072-4c3c-9ce8-4e624d48ce40",
+      "text": "La pimienta",
+      "file": "b4bc8ae5-0072-4c3c-9ce8-4e624d48ce40.mp3"
+    },
+    {
+      "uuid": "c0000000-0000-0000-0000-000000000002",
+      "text": "Buenos días",
+      "file": "c0000000-0000-0000-0000-000000000002.mp3"
+    },
+    {
+      "uuid": "b395c137-88bd-49fd-b4df-217f4f167c6f",
+      "text": "Anual",
+      "file": "b395c137-88bd-49fd-b4df-217f4f167c6f.mp3"
+    },
+    {
+      "uuid": "630788f6-330b-4c49-9f4a-277312e73953",
+      "text": "El huevo",
+      "file": "630788f6-330b-4c49-9f4a-277312e73953.mp3"
+    },
+    {
+      "uuid": "4a93720d-891f-481c-953a-a65ddfa851f3",
+      "text": "Educación",
+      "file": "4a93720d-891f-481c-953a-a65ddfa851f3.mp3"
+    },
+    {
+      "uuid": "3221be6c-50d8-4bb7-83f4-79abc401cbe3",
+      "text": "Me siento bien",
+      "file": "3221be6c-50d8-4bb7-83f4-79abc401cbe3.mp3"
+    },
+    {
+      "uuid": "46241d65-49d4-43e2-9d11-30271a6cde84",
+      "text": "Vale / De acuerdo",
+      "file": "46241d65-49d4-43e2-9d11-30271a6cde84.mp3"
+    },
+    {
+      "uuid": "c0000000-0000-0000-0000-000000000024",
+      "text": "Escuela / Aprender",
+      "file": "c0000000-0000-0000-0000-000000000024.mp3"
+    },
+    {
+      "uuid": "a6bfef55-c7ee-4d6a-b1de-012a7d43c678",
+      "text": "Tren",
+      "file": "a6bfef55-c7ee-4d6a-b1de-012a7d43c678.mp3"
+    },
+    {
+      "uuid": "05f67b64-8e2d-4d8b-bf15-c55fce510201",
+      "text": "Teléfono",
+      "file": "05f67b64-8e2d-4d8b-bf15-c55fce510201.mp3"
+    },
+    {
+      "uuid": "129e9350-c81b-4c9b-aa61-c4ac23bb4db4",
+      "text": "Octubre",
+      "file": "129e9350-c81b-4c9b-aa61-c4ac23bb4db4.mp3"
+    },
+    {
+      "uuid": "238c44af-2e6b-44c3-88a5-5c7abfce8a63",
+      "text": "¿Me puede traer...?",
+      "file": "238c44af-2e6b-44c3-88a5-5c7abfce8a63.mp3"
+    },
+    {
+      "uuid": "808eeedd-6d14-436f-9307-5aaf2929d0f4",
+      "text": "Tráfico",
+      "file": "808eeedd-6d14-436f-9307-5aaf2929d0f4.mp3"
+    },
+    {
+      "uuid": "7293d21c-b4a9-488f-95a2-397b3b620d6e",
+      "text": "Camino",
+      "file": "7293d21c-b4a9-488f-95a2-397b3b620d6e.mp3"
+    },
+    {
+      "uuid": "3a80a51e-f955-49f2-a913-4e7e79442f46",
+      "text": "Frontera",
+      "file": "3a80a51e-f955-49f2-a913-4e7e79442f46.mp3"
+    },
+    {
+      "uuid": "fb68dcc0-916a-4060-849b-c7d4831c400e",
+      "text": "Idioma",
+      "file": "fb68dcc0-916a-4060-849b-c7d4831c400e.mp3"
+    },
+    {
+      "uuid": "54526bd2-7062-418a-afdb-05ab594ce4a8",
+      "text": "seis",
+      "file": "54526bd2-7062-418a-afdb-05ab594ce4a8.mp3"
+    },
+    {
+      "uuid": "8e5a957c-e55d-4a42-976a-53eed54074e2",
+      "text": "Sala",
+      "file": "8e5a957c-e55d-4a42-976a-53eed54074e2.mp3"
+    },
+    {
+      "uuid": "82c3a0d0-da40-469a-ba4c-81ae3837d2fc",
+      "text": "Lápiz",
+      "file": "82c3a0d0-da40-469a-ba4c-81ae3837d2fc.mp3"
+    },
+    {
+      "uuid": "4b7d00ce-3b03-4eb5-9b34-ab33c7ffdf68",
+      "text": "Viajero",
+      "file": "4b7d00ce-3b03-4eb5-9b34-ab33c7ffdf68.mp3"
+    },
+    {
+      "uuid": "92600599-6666-4db0-963d-ffdc129dfe88",
+      "text": "Los hermanos",
+      "file": "92600599-6666-4db0-963d-ffdc129dfe88.mp3"
+    },
+    {
+      "uuid": "1a222858-3309-476b-a65d-11c9bdbea16c",
+      "text": "Progreso",
+      "file": "1a222858-3309-476b-a65d-11c9bdbea16c.mp3"
+    },
+    {
+      "uuid": "72e4f579-5511-49dc-8f9b-40a94190f710",
+      "text": "Comedor",
+      "file": "72e4f579-5511-49dc-8f9b-40a94190f710.mp3"
+    },
+    {
+      "uuid": "3864d5a2-3dde-4e97-96ee-a52edd2fa35f",
+      "text": "Encantado/a",
+      "file": "3864d5a2-3dde-4e97-96ee-a52edd2fa35f.mp3"
+    },
+    {
+      "uuid": "323732cc-9e4e-40b4-be60-234e4fb00ef7",
+      "text": "Cortina",
+      "file": "323732cc-9e4e-40b4-be60-234e4fb00ef7.mp3"
+    },
+    {
+      "uuid": "28d012d5-2636-45aa-bb41-aae45adb39e1",
+      "text": "Viaje",
+      "file": "28d012d5-2636-45aa-bb41-aae45adb39e1.mp3"
+    },
+    {
+      "uuid": "516a4a61-8916-4ea1-bc7b-a7ce942b5f7b",
+      "text": "Fácil",
+      "file": "516a4a61-8916-4ea1-bc7b-a7ce942b5f7b.mp3"
+    },
+    {
+      "uuid": "2e2adcde-2ba1-4aea-9db4-aeeafa30f0e2",
+      "text": "El abuelo / La abuela",
+      "file": "2e2adcde-2ba1-4aea-9db4-aeeafa30f0e2.mp3"
+    },
+    {
+      "uuid": "294ce551-75cf-4d1b-8200-ad223d502add",
+      "text": "Morado",
+      "file": "294ce551-75cf-4d1b-8200-ad223d502add.mp3"
+    },
+    {
+      "uuid": "583993e0-9c31-402b-b054-071661c55c67",
+      "text": "Silla",
+      "file": "583993e0-9c31-402b-b054-071661c55c67.mp3"
+    },
+    {
+      "uuid": "d4d7313d-0a5f-4c21-82a3-f424e7a55bcd",
+      "text": "A veces",
+      "file": "d4d7313d-0a5f-4c21-82a3-f424e7a55bcd.mp3"
+    },
+    {
+      "uuid": "c401d533-e313-4275-b766-0caf18a7e39e",
+      "text": "Naranja",
+      "file": "c401d533-e313-4275-b766-0caf18a7e39e.mp3"
+    },
+    {
+      "uuid": "56d23b2a-2884-44e2-b369-2a8e9a97c668",
+      "text": "Computadora",
+      "file": "56d23b2a-2884-44e2-b369-2a8e9a97c668.mp3"
+    },
+    {
+      "uuid": "887adbfc-21f0-4644-8c88-7cec717e64a5",
+      "text": "Buenas noches",
+      "file": "887adbfc-21f0-4644-8c88-7cec717e64a5.mp3"
+    },
+    {
+      "uuid": "bec73fb7-b333-46fb-bdad-de0144a222cf",
+      "text": "Más despacio, por favor",
+      "file": "bec73fb7-b333-46fb-bdad-de0144a222cf.mp3"
+    },
+    {
+      "uuid": "6a6a49e3-2e7d-439b-9b99-1dfadef4969e",
+      "text": "Centro",
+      "file": "6a6a49e3-2e7d-439b-9b99-1dfadef4969e.mp3"
+    },
+    {
+      "uuid": "0350a989-b412-4306-8a3a-a0e300e246de",
+      "text": "Agosto",
+      "file": "0350a989-b412-4306-8a3a-a0e300e246de.mp3"
+    },
+    {
+      "uuid": "c0000000-0000-0000-0000-000000000059",
+      "text": "Que tenga un buen día",
+      "file": "c0000000-0000-0000-0000-000000000059.mp3"
+    },
+    {
+      "uuid": "32e2c62b-f586-4c2a-a8b9-1f67e6dcdc85",
+      "text": "Tengo una pregunta",
+      "file": "32e2c62b-f586-4c2a-a8b9-1f67e6dcdc85.mp3"
+    },
+    {
+      "uuid": "fa5d3133-fd33-4538-9a23-6aa501edc204",
+      "text": "Escritorio",
+      "file": "fa5d3133-fd33-4538-9a23-6aa501edc204.mp3"
+    },
+    {
+      "uuid": "3ff147c4-5a19-4ce7-82bd-8660eaba9ca9",
+      "text": "ocho",
+      "file": "3ff147c4-5a19-4ce7-82bd-8660eaba9ca9.mp3"
+    },
+    {
+      "uuid": "e922a68c-7a66-44e4-9c63-2cef43d6a5a7",
+      "text": "Bolígrafo",
+      "file": "e922a68c-7a66-44e4-9c63-2cef43d6a5a7.mp3"
+    },
+    {
+      "uuid": "7bf2df82-06c7-4b8c-9dde-819f12cea249",
+      "text": "La pizza",
+      "file": "7bf2df82-06c7-4b8c-9dde-819f12cea249.mp3"
+    },
+    {
+      "uuid": "4b639e4b-40a8-443f-b3c0-cc151b7700cc",
+      "text": "Mi mejor amigo/a",
+      "file": "4b639e4b-40a8-443f-b3c0-cc151b7700cc.mp3"
+    },
+    {
+      "uuid": "f2860ad2-b0bb-4513-a959-aad7db31c047",
+      "text": "Peatón",
+      "file": "f2860ad2-b0bb-4513-a959-aad7db31c047.mp3"
+    },
+    {
+      "uuid": "c2670578-1f6b-4a91-8d79-348138ce6401",
+      "text": "Me duele...",
+      "file": "c2670578-1f6b-4a91-8d79-348138ce6401.mp3"
+    },
+    {
+      "uuid": "d4a2abcd-6cb3-49e1-95b3-087185552b39",
+      "text": "Leer",
+      "file": "d4a2abcd-6cb3-49e1-95b3-087185552b39.mp3"
+    },
+    {
+      "uuid": "09bd8faf-b351-40e3-9f50-928831546258",
+      "text": "¿Cómo te llamas?",
+      "file": "09bd8faf-b351-40e3-9f50-928831546258.mp3"
+    },
+    {
+      "uuid": "541c9fb4-7bb7-4e83-a8da-191348e5baa7",
+      "text": "¿Tienes hijos?",
+      "file": "541c9fb4-7bb7-4e83-a8da-191348e5baa7.mp3"
+    },
+    {
+      "uuid": "c140d27d-618e-413a-a2ab-aa6c1d1d8a2e",
+      "text": "Segundo",
+      "file": "c140d27d-618e-413a-a2ab-aa6c1d1d8a2e.mp3"
+    },
+    {
+      "uuid": "f5841b0b-7174-41c6-a9dc-57d99d14ef66",
+      "text": "Alfombra",
+      "file": "f5841b0b-7174-41c6-a9dc-57d99d14ef66.mp3"
+    },
+    {
+      "uuid": "29783d2c-fb13-4fca-a6a8-d4716e097e72",
+      "text": "La fruta",
+      "file": "29783d2c-fb13-4fca-a6a8-d4716e097e72.mp3"
+    },
+    {
+      "uuid": "29401918-17cb-4934-b4f7-891a319914df",
+      "text": "Recto",
+      "file": "29401918-17cb-4934-b4f7-891a319914df.mp3"
+    },
+    {
+      "uuid": "660fb033-33ab-4472-8f6e-c592f9ec0e20",
+      "text": "Mensual",
+      "file": "660fb033-33ab-4472-8f6e-c592f9ec0e20.mp3"
+    },
+    {
+      "uuid": "fa75fc29-1256-40a8-a30b-75a35095e563",
+      "text": "Comprender",
+      "file": "fa75fc29-1256-40a8-a30b-75a35095e563.mp3"
+    },
+    {
+      "uuid": "28c7a286-7d06-4b78-94db-2fadc96c7ef5",
+      "text": "Lámpara",
+      "file": "28c7a286-7d06-4b78-94db-2fadc96c7ef5.mp3"
+    },
+    {
+      "uuid": "241ada53-39c2-4993-967f-428207055f25",
+      "text": "Minuto",
+      "file": "241ada53-39c2-4993-967f-428207055f25.mp3"
+    },
+    {
+      "uuid": "0874640a-5748-4404-97d7-3e31d7613f63",
+      "text": "Frecuentemente",
+      "file": "0874640a-5748-4404-97d7-3e31d7613f63.mp3"
+    },
+    {
+      "uuid": "a25e9a65-cc68-4b18-8552-6b750233debd",
+      "text": "Sofá",
+      "file": "a25e9a65-cc68-4b18-8552-6b750233debd.mp3"
+    },
+    {
+      "uuid": "c0000000-0000-0000-0000-000000000046",
+      "text": "Semana / Mes / Año",
+      "file": "c0000000-0000-0000-0000-000000000046.mp3"
+    },
+    {
+      "uuid": "cef5bab8-cd78-42d7-87d9-f8649122575a",
+      "text": "Los abuelos",
+      "file": "cef5bab8-cd78-42d7-87d9-f8649122575a.mp3"
+    },
+    {
+      "uuid": "897d2dad-f514-4ab2-9a9b-e1e18e744dc5",
+      "text": "Abril",
+      "file": "897d2dad-f514-4ab2-9a9b-e1e18e744dc5.mp3"
+    },
+    {
+      "uuid": "483c4bad-5edd-4a91-a62c-848d5e7bdedb",
+      "text": "Los ojos",
+      "file": "483c4bad-5edd-4a91-a62c-848d5e7bdedb.mp3"
+    },
+    {
+      "uuid": "4973506e-0008-4c6d-8fb5-239a7f6c87ea",
+      "text": "Escalera",
+      "file": "4973506e-0008-4c6d-8fb5-239a7f6c87ea.mp3"
+    },
+    {
+      "uuid": "370f015a-cb43-4441-bddd-4cc5db50cf14",
+      "text": "Atraso",
+      "file": "370f015a-cb43-4441-bddd-4cc5db50cf14.mp3"
+    },
+    {
+      "uuid": "5e10a4b2-ca3b-471b-8f59-77d0fefdf3b4",
+      "text": "Bien, gracias",
+      "file": "5e10a4b2-ca3b-471b-8f59-77d0fefdf3b4.mp3"
+    },
+    {
+      "uuid": "317c3910-5c06-47e5-97b6-bab13553df5c",
+      "text": "No entiendo",
+      "file": "317c3910-5c06-47e5-97b6-bab13553df5c.mp3"
+    },
+    {
+      "uuid": "0dac0191-fad6-4e7b-8f02-9a0c51840a24",
+      "text": "Marzo",
+      "file": "0dac0191-fad6-4e7b-8f02-9a0c51840a24.mp3"
+    },
+    {
+      "uuid": "0e148b0e-57a3-42cf-82c1-85123e66b1f7",
+      "text": "Puerta",
+      "file": "0e148b0e-57a3-42cf-82c1-85123e66b1f7.mp3"
+    },
+    {
+      "uuid": "b2c050d4-cf87-4af7-9cb1-79f4eac7b4ef",
+      "text": "El jugo",
+      "file": "b2c050d4-cf87-4af7-9cb1-79f4eac7b4ef.mp3"
+    },
+    {
+      "uuid": "b0dd8234-7c82-4347-a515-7267eefe5485",
+      "text": "Hotel",
+      "file": "b0dd8234-7c82-4347-a515-7267eefe5485.mp3"
+    },
+    {
+      "uuid": "568f326f-0162-4900-9ef8-b9811bf88f37",
+      "text": "Balcón",
+      "file": "568f326f-0162-4900-9ef8-b9811bf88f37.mp3"
+    },
+    {
+      "uuid": "209ae1cd-4dfb-4447-be5e-778e6862b1b2",
+      "text": "¡Feliz Navidad!",
+      "file": "209ae1cd-4dfb-4447-be5e-778e6862b1b2.mp3"
+    },
+    {
+      "uuid": "c0000000-0000-0000-0000-000000000018",
+      "text": "Padre / Madre",
+      "file": "c0000000-0000-0000-0000-000000000018.mp3"
+    },
+    {
+      "uuid": "8eb068fa-0eab-4e34-ad7c-c137868261dc",
+      "text": "Blanco",
+      "file": "8eb068fa-0eab-4e34-ad7c-c137868261dc.mp3"
+    },
+    {
+      "uuid": "c0000000-0000-0000-0000-000000000010",
+      "text": "Uno",
+      "file": "c0000000-0000-0000-0000-000000000010.mp3"
+    },
+    {
+      "uuid": "dfdc637c-4ab1-4867-ab52-6009024f54a2",
+      "text": "Después",
+      "file": "dfdc637c-4ab1-4867-ab52-6009024f54a2.mp3"
+    },
+    {
+      "uuid": "3bbc4e46-f3d0-4077-985c-a1e311d326f2",
+      "text": "El pollo",
+      "file": "3bbc4e46-f3d0-4077-985c-a1e311d326f2.mp3"
+    },
+    {
+      "uuid": "c0000000-0000-0000-0000-000000000023",
+      "text": "Casa / Hogar",
+      "file": "c0000000-0000-0000-0000-000000000023.mp3"
+    },
+    {
+      "uuid": "8ea35631-3342-4b64-9e05-fb0e2f5dc647",
+      "text": "Está delicioso",
+      "file": "8ea35631-3342-4b64-9e05-fb0e2f5dc647.mp3"
+    },
+    {
+      "uuid": "4e5a7352-388e-401d-83a5-c5fff51eb614",
+      "text": "No sé",
+      "file": "4e5a7352-388e-401d-83a5-c5fff51eb614.mp3"
+    },
+    {
+      "uuid": "cc56f03f-0609-49da-b69c-e3c217dff214",
+      "text": "Tengo fiebre",
+      "file": "cc56f03f-0609-49da-b69c-e3c217dff214.mp3"
+    },
+    {
+      "uuid": "44cd2149-a731-433c-8d80-cea63ccb0b03",
+      "text": "Época",
+      "file": "44cd2149-a731-433c-8d80-cea63ccb0b03.mp3"
+    },
+    {
+      "uuid": "341061af-4c14-4d38-9d62-b544ca3e3f99",
+      "text": "Aula",
+      "file": "341061af-4c14-4d38-9d62-b544ca3e3f99.mp3"
+    },
+    {
+      "uuid": "b61a3650-2240-4676-8d17-97e781b88403",
+      "text": "Suelo",
+      "file": "b61a3650-2240-4676-8d17-97e781b88403.mp3"
+    },
+    {
+      "uuid": "ce0b6594-e8de-445b-bcd4-183a437d5e69",
+      "text": "Presentación",
+      "file": "ce0b6594-e8de-445b-bcd4-183a437d5e69.mp3"
+    },
+    {
+      "uuid": "c0000000-0000-0000-0000-000000000060",
+      "text": "Hasta luego",
+      "file": "c0000000-0000-0000-0000-000000000060.mp3"
+    },
+    {
+      "uuid": "d3ae9468-bdfb-41bf-9ff1-bdea07313eae",
+      "text": "Reloj",
+      "file": "d3ae9468-bdfb-41bf-9ff1-bdea07313eae.mp3"
+    },
+    {
+      "uuid": "58d40bc5-83e1-4985-bea8-c0a76ac6bcbf",
+      "text": "Frecuencia",
+      "file": "58d40bc5-83e1-4985-bea8-c0a76ac6bcbf.mp3"
+    },
+    {
+      "uuid": "a22831f0-10c5-4349-a9b3-12f587b14dc1",
+      "text": "Siempre",
+      "file": "a22831f0-10c5-4349-a9b3-12f587b14dc1.mp3"
+    },
+    {
+      "uuid": "d53cc81c-8ec7-481a-9410-86649157c76a",
+      "text": "Puntual",
+      "file": "d53cc81c-8ec7-481a-9410-86649157c76a.mp3"
+    },
+    {
+      "uuid": "d609faf5-d97a-42f9-ac17-d8c8a40dd3c0",
+      "text": "Tema",
+      "file": "d609faf5-d97a-42f9-ac17-d8c8a40dd3c0.mp3"
+    },
+    {
+      "uuid": "0fc9697c-cbdb-49e1-9604-a71d7b9cc18c",
+      "text": "Olvidar",
+      "file": "0fc9697c-cbdb-49e1-9604-a71d7b9cc18c.mp3"
+    },
+    {
+      "uuid": "f0114b2b-3683-4c9f-8750-942f7eb8a2dd",
+      "text": "Es muy amable",
+      "file": "f0114b2b-3683-4c9f-8750-942f7eb8a2dd.mp3"
+    },
+    {
+      "uuid": "96a93199-45bd-4e58-b028-441f4516a733",
+      "text": "Nunca",
+      "file": "96a93199-45bd-4e58-b028-441f4516a733.mp3"
+    },
+    {
+      "uuid": "860d3c86-6d8e-4d78-a653-3eb44e5f3c89",
+      "text": "Temprano",
+      "file": "860d3c86-6d8e-4d78-a653-3eb44e5f3c89.mp3"
+    },
+    {
+      "uuid": "c5bf2369-1b32-44d6-933a-7270fd20225a",
+      "text": "El pescado",
+      "file": "c5bf2369-1b32-44d6-933a-7270fd20225a.mp3"
+    },
+    {
+      "uuid": "56f7d1f1-5f8c-4a2f-9371-8eaf40cadf77",
+      "text": "Vegetariano/a",
+      "file": "56f7d1f1-5f8c-4a2f-9371-8eaf40cadf77.mp3"
+    },
+    {
+      "uuid": "5acd1b29-2c5f-4e38-b7c0-3ccf4afb5b8d",
+      "text": "¿Qué hora es?",
+      "file": "5acd1b29-2c5f-4e38-b7c0-3ccf4afb5b8d.mp3"
+    },
+    {
+      "uuid": "c0233e57-af35-421a-a01d-476fc50c112c",
+      "text": "Techo",
+      "file": "c0233e57-af35-421a-a01d-476fc50c112c.mp3"
+    },
+    {
+      "uuid": "50130d44-0ca6-457c-a108-308cdaf97270",
+      "text": "doce",
+      "file": "50130d44-0ca6-457c-a108-308cdaf97270.mp3"
+    },
+    {
+      "uuid": "965ed74b-c4b8-4854-9820-4e872d65f542",
+      "text": "Tengo un hermano",
+      "file": "965ed74b-c4b8-4854-9820-4e872d65f542.mp3"
+    },
+    {
+      "uuid": "89bad0d4-54d9-49a2-966e-bb777c374c41",
+      "text": "mil",
+      "file": "89bad0d4-54d9-49a2-966e-bb777c374c41.mp3"
+    },
+    {
+      "uuid": "943419ee-2fa1-433a-84d1-71e5fc0fd716",
+      "text": "Cuchara",
+      "file": "943419ee-2fa1-433a-84d1-71e5fc0fd716.mp3"
+    },
+    {
+      "uuid": "4806cfac-7e64-44e8-83ad-bce9e75328f9",
+      "text": "Cuadro",
+      "file": "4806cfac-7e64-44e8-83ad-bce9e75328f9.mp3"
+    },
+    {
+      "uuid": "a4c148cc-9a83-4d4d-b848-0566359a1485",
+      "text": "sesenta / setenta",
+      "file": "a4c148cc-9a83-4d4d-b848-0566359a1485.mp3"
+    },
+    {
+      "uuid": "38e7ae3a-83b7-4f3b-a2cf-5ef6697ab4cb",
+      "text": "La mantequilla",
+      "file": "38e7ae3a-83b7-4f3b-a2cf-5ef6697ab4cb.mp3"
+    },
+    {
+      "uuid": "aa406fc4-15e7-44ad-94cd-32f58a36479b",
+      "text": "Quiero...",
+      "file": "aa406fc4-15e7-44ad-94cd-32f58a36479b.mp3"
+    },
+    {
+      "uuid": "af07501a-d767-4acf-a289-ed21b0e8896e",
+      "text": "La cerveza",
+      "file": "af07501a-d767-4acf-a289-ed21b0e8896e.mp3"
+    },
+    {
+      "uuid": "ce6e5b21-bddf-4e79-85f0-b39a9945a097",
+      "text": "El novio / La novia",
+      "file": "ce6e5b21-bddf-4e79-85f0-b39a9945a097.mp3"
+    },
+    {
+      "uuid": "cc7be503-21f4-441b-8e47-5b43241d29c5",
+      "text": "cuatro",
+      "file": "cc7be503-21f4-441b-8e47-5b43241d29c5.mp3"
+    },
+    {
+      "uuid": "38525d2b-fc95-40e3-a0ac-d31f8230589c",
+      "text": "Camión",
+      "file": "38525d2b-fc95-40e3-a0ac-d31f8230589c.mp3"
+    },
+    {
+      "uuid": "64320dc1-1c32-42e7-bb52-cd3b365d0ed3",
+      "text": "Pared",
+      "file": "64320dc1-1c32-42e7-bb52-cd3b365d0ed3.mp3"
+    },
+    {
+      "uuid": "7f978c32-089a-4fac-b891-796c2094ef37",
+      "text": "¿Cómo se dice...?",
+      "file": "7f978c32-089a-4fac-b891-796c2094ef37.mp3"
+    },
+    {
+      "uuid": "a2be9afc-f169-40ec-8259-459f7830405f",
+      "text": "El desayuno",
+      "file": "a2be9afc-f169-40ec-8259-459f7830405f.mp3"
+    },
+    {
+      "uuid": "f2caac7c-00c0-4bac-b87a-0a26fb673a78",
+      "text": "La propina",
+      "file": "f2caac7c-00c0-4bac-b87a-0a26fb673a78.mp3"
+    },
+    {
+      "uuid": "dfee523a-c47c-47ec-adca-f0364b141dbb",
+      "text": "Las orejas",
+      "file": "dfee523a-c47c-47ec-adca-f0364b141dbb.mp3"
+    },
+    {
+      "uuid": "015172cc-b551-4f75-bde1-c9c5ac735bda",
+      "text": "La pierna",
+      "file": "015172cc-b551-4f75-bde1-c9c5ac735bda.mp3"
+    },
+    {
+      "uuid": "a6b40eac-512a-4d13-bd08-68378d753c8a",
+      "text": "Cuaderno",
+      "file": "a6b40eac-512a-4d13-bd08-68378d753c8a.mp3"
+    },
+    {
+      "uuid": "5f6cd598-eb57-447d-bccc-e1d223324f1a",
+      "text": "El pan",
+      "file": "5f6cd598-eb57-447d-bccc-e1d223324f1a.mp3"
+    },
+    {
+      "uuid": "f44f8266-d584-48d1-b2b0-a403abc3c765",
+      "text": "diez",
+      "file": "f44f8266-d584-48d1-b2b0-a403abc3c765.mp3"
+    },
+    {
+      "uuid": "530051c8-ff2f-4936-9417-2703e9f460bf",
+      "text": "El arroz",
+      "file": "530051c8-ff2f-4936-9417-2703e9f460bf.mp3"
+    },
+    {
+      "uuid": "f0010e37-dccc-4171-a899-87ec1cabbee9",
+      "text": "El pie",
+      "file": "f0010e37-dccc-4171-a899-87ec1cabbee9.mp3"
+    },
+    {
+      "uuid": "9d813d89-6daf-4e3b-b85c-6d6b2e7ac9de",
+      "text": "Intervalo",
+      "file": "9d813d89-6daf-4e3b-b85c-6d6b2e7ac9de.mp3"
+    },
+    {
+      "uuid": "5358d3dd-b0f5-468b-b1cb-c29b08cd27bd",
+      "text": "Manta",
+      "file": "5358d3dd-b0f5-468b-b1cb-c29b08cd27bd.mp3"
+    },
+    {
+      "uuid": "a0feca15-1ec4-4fa5-bb60-391874223d6b",
+      "text": "Mapa",
+      "file": "a0feca15-1ec4-4fa5-bb60-391874223d6b.mp3"
+    },
+    {
+      "uuid": "c0000000-0000-0000-0000-000000000009",
+      "text": "Adiós",
+      "file": "c0000000-0000-0000-0000-000000000009.mp3"
+    },
+    {
+      "uuid": "75453c56-99cd-4e56-8167-df9fe4f4413e",
+      "text": "Enseñar",
+      "file": "75453c56-99cd-4e56-8167-df9fe4f4413e.mp3"
+    },
+    {
+      "uuid": "89189990-39fa-46bf-aa0b-c78a6083a50a",
+      "text": "Sábana",
+      "file": "89189990-39fa-46bf-aa0b-c78a6083a50a.mp3"
+    },
+    {
+      "uuid": "4901a3cb-e83d-48ae-a716-13d403086382",
+      "text": "Garaje",
+      "file": "4901a3cb-e83d-48ae-a716-13d403086382.mp3"
+    },
+    {
+      "uuid": "0d6aa745-0bd6-403d-b475-03596b9804a2",
+      "text": "Buenas tardes",
+      "file": "0d6aa745-0bd6-403d-b475-03596b9804a2.mp3"
+    },
+    {
+      "uuid": "9576fd26-4e7d-43af-99ca-1831b7eebfdb",
+      "text": "Entrada",
+      "file": "9576fd26-4e7d-43af-99ca-1831b7eebfdb.mp3"
+    },
+    {
+      "uuid": "888efc6b-f12c-4b8b-80ec-dd8d45d62986",
+      "text": "¿Cuántos años tienes?",
+      "file": "888efc6b-f12c-4b8b-80ec-dd8d45d62986.mp3"
+    },
+    {
+      "uuid": "d4fcca04-7bef-4021-9448-68f47b08dcea",
+      "text": "Tengo sed",
+      "file": "d4fcca04-7bef-4021-9448-68f47b08dcea.mp3"
+    },
+    {
+      "uuid": "6a6fdd36-bd12-4834-8709-d3d88b0b41b4",
+      "text": "Recordar",
+      "file": "6a6fdd36-bd12-4834-8709-d3d88b0b41b4.mp3"
+    },
+    {
+      "uuid": "442e6957-c9f8-44d8-95b4-856223b84dd1",
+      "text": "Julio",
+      "file": "442e6957-c9f8-44d8-95b4-856223b84dd1.mp3"
+    },
+    {
+      "uuid": "d924086a-ec7a-4110-8033-c8409d7b930b",
+      "text": "¿Cómo se llama usted?",
+      "file": "d924086a-ec7a-4110-8033-c8409d7b930b.mp3"
+    },
+    {
+      "uuid": "b905c07e-bd72-4eec-9db1-94cfde49473b",
+      "text": "El chocolate",
+      "file": "b905c07e-bd72-4eec-9db1-94cfde49473b.mp3"
+    },
+    {
+      "uuid": "75ccd64d-71a3-4bae-a41c-5682c5e2283d",
+      "text": "¡Bienvenido/a!",
+      "file": "75ccd64d-71a3-4bae-a41c-5682c5e2283d.mp3"
+    },
+    {
+      "uuid": "4e754772-2fb5-4764-9e25-bacaf056a2d4",
+      "text": "La cena",
+      "file": "4e754772-2fb5-4764-9e25-bacaf056a2d4.mp3"
+    },
+    {
+      "uuid": "197e27db-d53e-4191-ba45-b7a92da56945",
+      "text": "veinte / treinta",
+      "file": "197e27db-d53e-4191-ba45-b7a92da56945.mp3"
+    },
+    {
+      "uuid": "6463706e-ed6e-43eb-ba40-3e620d456819",
+      "text": "Toalla",
+      "file": "6463706e-ed6e-43eb-ba40-3e620d456819.mp3"
+    },
+    {
+      "uuid": "c3149346-52ac-4636-a6de-a7976d8b317e",
+      "text": "Tengo tos",
+      "file": "c3149346-52ac-4636-a6de-a7976d8b317e.mp3"
+    },
+    {
+      "uuid": "d4393fdc-45a8-418c-9d92-1eea00e8c620",
+      "text": "Clase",
+      "file": "d4393fdc-45a8-418c-9d92-1eea00e8c620.mp3"
+    },
+    {
+      "uuid": "4ca0f905-10f4-4d54-a520-d0d185c52695",
+      "text": "Ventana",
+      "file": "4ca0f905-10f4-4d54-a520-d0d185c52695.mp3"
+    },
+    {
+      "uuid": "47b7f78e-50a2-4173-83b2-485c7da4b1e7",
+      "text": "Izquierda",
+      "file": "47b7f78e-50a2-4173-83b2-485c7da4b1e7.mp3"
+    },
+    {
+      "uuid": "274fb718-9864-4bbc-9831-924452c01b08",
+      "text": "El postre",
+      "file": "274fb718-9864-4bbc-9831-924452c01b08.mp3"
+    },
+    {
+      "uuid": "c1ccf9f2-090f-4b56-bf54-dafccf5437e0",
+      "text": "Papel",
+      "file": "c1ccf9f2-090f-4b56-bf54-dafccf5437e0.mp3"
+    },
+    {
+      "uuid": "951c06af-cc26-4147-9aa3-b7cb9db1fbcd",
+      "text": "Autobús",
+      "file": "951c06af-cc26-4147-9aa3-b7cb9db1fbcd.mp3"
+    },
+    {
+      "uuid": "1ef0a61b-b082-4e16-bce4-dcded272f007",
+      "text": "Importante",
+      "file": "1ef0a61b-b082-4e16-bce4-dcded272f007.mp3"
+    },
+    {
+      "uuid": "cd98e28c-7570-4b8e-8955-3d65bb9f8ee7",
+      "text": "Vuelo",
+      "file": "cd98e28c-7570-4b8e-8955-3d65bb9f8ee7.mp3"
+    },
+    {
+      "uuid": "d3703d57-8e74-43fc-9a02-e6cccfb2d8c5",
+      "text": "¡Buen viaje!",
+      "file": "d3703d57-8e74-43fc-9a02-e6cccfb2d8c5.mp3"
+    },
+    {
+      "uuid": "edb0a5f7-865c-4781-bdf4-e212f5db8514",
+      "text": "Televisión",
+      "file": "edb0a5f7-865c-4781-bdf4-e212f5db8514.mp3"
+    },
+    {
+      "uuid": "c0000000-0000-0000-0000-000000000006",
+      "text": "Por favor",
+      "file": "c0000000-0000-0000-0000-000000000006.mp3"
+    },
+    {
+      "uuid": "b3a9df1d-166c-4aaa-ad33-3ec38a33eac1",
+      "text": "Las verduras",
+      "file": "b3a9df1d-166c-4aaa-ad33-3ec38a33eac1.mp3"
+    },
+    {
+      "uuid": "1c284cc1-01f7-4e36-9c86-2fa50697b24b",
+      "text": "El tío / La tía",
+      "file": "1c284cc1-01f7-4e36-9c86-2fa50697b24b.mp3"
+    },
+    {
+      "uuid": "a5953019-d152-4f36-8bc2-65deee88de05",
+      "text": "¡Feliz cumpleaños!",
+      "file": "a5953019-d152-4f36-8bc2-65deee88de05.mp3"
+    },
+    {
+      "uuid": "a3bd5a24-5ebf-4775-986b-e9bbd4cd5700",
+      "text": "Estoy enferma",
+      "file": "a3bd5a24-5ebf-4775-986b-e9bbd4cd5700.mp3"
+    },
+    {
+      "uuid": "cf03bd3d-47e4-440d-919b-161e00e39a3d",
+      "text": "Estoy soltero/a",
+      "file": "cf03bd3d-47e4-440d-919b-161e00e39a3d.mp3"
+    },
+    {
+      "uuid": "8f71d076-c9e4-4232-a5fb-48fa733d5a7d",
+      "text": "¿Qué tal?",
+      "file": "8f71d076-c9e4-4232-a5fb-48fa733d5a7d.mp3"
+    },
+    {
+      "uuid": "4d679496-9311-45fa-a4c1-5dcc7b90f8e2",
+      "text": "Biblioteca",
+      "file": "4d679496-9311-45fa-a4c1-5dcc7b90f8e2.mp3"
+    },
+    {
+      "uuid": "9d70999e-d161-473e-b4fa-94481ad2d704",
+      "text": "Tarde",
+      "file": "9d70999e-d161-473e-b4fa-94481ad2d704.mp3"
+    },
+    {
+      "uuid": "bdfe91b9-51a1-4363-acf6-fb4ca47e39a4",
+      "text": "Radio",
+      "file": "bdfe91b9-51a1-4363-acf6-fb4ca47e39a4.mp3"
+    },
+    {
+      "uuid": "74e0629e-64c0-4f86-8dcb-0d76ace87922",
+      "text": "trece",
+      "file": "74e0629e-64c0-4f86-8dcb-0d76ace87922.mp3"
+    },
+    {
+      "uuid": "a5850503-2477-4e3f-8051-2c92baae6942",
+      "text": "Escribir",
+      "file": "a5850503-2477-4e3f-8051-2c92baae6942.mp3"
+    },
+    {
+      "uuid": "d87a51d0-06fc-4975-a6c5-4c4ca692e5db",
+      "text": "El té",
+      "file": "d87a51d0-06fc-4975-a6c5-4c4ca692e5db.mp3"
+    },
+    {
+      "uuid": "083bde34-3721-4c5d-9908-986de9dc41a8",
+      "text": "Equipaje",
+      "file": "083bde34-3721-4c5d-9908-986de9dc41a8.mp3"
+    },
+    {
+      "uuid": "c0000000-0000-0000-0000-000000000020",
+      "text": "Amigo / Familia",
+      "file": "c0000000-0000-0000-0000-000000000020.mp3"
+    },
+    {
+      "uuid": "f7af04c7-00ec-4db1-9b69-a1665effe8e6",
+      "text": "La mano",
+      "file": "f7af04c7-00ec-4db1-9b69-a1665effe8e6.mp3"
+    },
+    {
+      "uuid": "11848f1b-ae63-4d02-9403-f3755246110f",
+      "text": "¡Buen provecho!",
+      "file": "11848f1b-ae63-4d02-9403-f3755246110f.mp3"
+    },
+    {
+      "uuid": "9cd84836-7e67-4b7d-9b7e-f6b136d778aa",
+      "text": "Me duele la cabeza",
+      "file": "9cd84836-7e67-4b7d-9b7e-f6b136d778aa.mp3"
+    },
+    {
+      "uuid": "6c498307-bb85-4c85-bbff-25e6d4b2c62b",
+      "text": "Libro",
+      "file": "6c498307-bb85-4c85-bbff-25e6d4b2c62b.mp3"
+    },
+    {
+      "uuid": "56327bba-b55e-41e3-a96a-8b5fbf8cda76",
+      "text": "Vivo con mi familia",
+      "file": "56327bba-b55e-41e3-a96a-8b5fbf8cda76.mp3"
+    },
+    {
+      "uuid": "c0000000-0000-0000-0000-000000000026",
+      "text": "Coche / Bicicleta",
+      "file": "c0000000-0000-0000-0000-000000000026.mp3"
+    },
+    {
+      "uuid": "3efb4f25-5c64-493c-8daf-6acb39eab2d8",
+      "text": "El menú",
+      "file": "3efb4f25-5c64-493c-8daf-6acb39eab2d8.mp3"
+    },
+    {
+      "uuid": "72f689b4-7065-41c5-a3a8-8bc2f3546e2c",
+      "text": "Derecha",
+      "file": "72f689b4-7065-41c5-a3a8-8bc2f3546e2c.mp3"
+    },
+    {
+      "uuid": "18abd8cd-6fe6-45d6-8586-c3a1173d76af",
+      "text": "Taza",
+      "file": "18abd8cd-6fe6-45d6-8586-c3a1173d76af.mp3"
+    },
+    {
+      "uuid": "6858ab70-d27d-4f2a-978c-4654082d2744",
+      "text": "El almuerzo",
+      "file": "6858ab70-d27d-4f2a-978c-4654082d2744.mp3"
+    },
+    {
+      "uuid": "15e7f5a8-e5a2-4615-931a-c488f86260a1",
+      "text": "La cuenta",
+      "file": "15e7f5a8-e5a2-4615-931a-c488f86260a1.mp3"
+    },
+    {
+      "uuid": "c0000000-0000-0000-0000-000000000003",
+      "text": "¿Cómo estás?",
+      "file": "c0000000-0000-0000-0000-000000000003.mp3"
+    },
+    {
+      "uuid": "b9a71641-3df0-47ab-9421-ad644872832c",
+      "text": "Vaso",
+      "file": "b9a71641-3df0-47ab-9421-ad644872832c.mp3"
+    },
+    {
+      "uuid": "29e7ba1d-9912-4d24-ade6-b59a24a8bf29",
+      "text": "Septiembre",
+      "file": "29e7ba1d-9912-4d24-ade6-b59a24a8bf29.mp3"
+    },
+    {
+      "uuid": "f35eab4a-3416-4991-9a4a-62029cfec4b0",
+      "text": "Billete",
+      "file": "f35eab4a-3416-4991-9a4a-62029cfec4b0.mp3"
+    },
+    {
+      "uuid": "32ae63b6-907c-4bec-9bf5-6e9c833ce1d8",
+      "text": "Taxi",
+      "file": "32ae63b6-907c-4bec-9bf5-6e9c833ce1d8.mp3"
+    },
+    {
+      "uuid": "c0000000-0000-0000-0000-000000000044",
+      "text": "Hoy / Mañana",
+      "file": "c0000000-0000-0000-0000-000000000044.mp3"
+    },
+    {
+      "uuid": "ad223c53-822f-49ce-94fc-c74c12535412",
+      "text": "Pasaporte",
+      "file": "ad223c53-822f-49ce-94fc-c74c12535412.mp3"
+    },
+    {
+      "uuid": "87e3208e-b864-4071-9966-3af40097146f",
+      "text": "Mayo",
+      "file": "87e3208e-b864-4071-9966-3af40097146f.mp3"
+    },
+    {
+      "uuid": "c8e5fcf7-2602-4189-b5c4-0dd50c50337e",
+      "text": "De nada",
+      "file": "c8e5fcf7-2602-4189-b5c4-0dd50c50337e.mp3"
+    },
+    {
+      "uuid": "f568a72f-b3a9-4181-9a6e-9f51ff4e913d",
+      "text": "Proyecto",
+      "file": "f568a72f-b3a9-4181-9a6e-9f51ff4e913d.mp3"
+    },
+    {
+      "uuid": "854e29a9-a2c8-42b3-a499-84951b1811f0",
+      "text": "¡Cuidado!",
+      "file": "854e29a9-a2c8-42b3-a499-84951b1811f0.mp3"
+    },
+    {
+      "uuid": "c0000000-0000-0000-0000-000000000045",
+      "text": "Ayer / Día",
+      "file": "c0000000-0000-0000-0000-000000000045.mp3"
+    },
+    {
+      "uuid": "d112af1d-72d6-486b-8953-90eadf93bc45",
+      "text": "diecinueve",
+      "file": "d112af1d-72d6-486b-8953-90eadf93bc45.mp3"
+    },
+    {
+      "uuid": "2a646489-404d-4ba1-9b68-21c099ca1bf5",
+      "text": "Enero",
+      "file": "2a646489-404d-4ba1-9b68-21c099ca1bf5.mp3"
+    },
+    {
+      "uuid": "9e3f69fa-e161-43a8-b290-808abae6b11d",
+      "text": "ochenta / noventa",
+      "file": "9e3f69fa-e161-43a8-b290-808abae6b11d.mp3"
+    },
+    {
+      "uuid": "9a05f806-9a1c-48b2-b618-686ff1a7201b",
+      "text": "Ducha",
+      "file": "9a05f806-9a1c-48b2-b618-686ff1a7201b.mp3"
+    },
+    {
+      "uuid": "c0000000-0000-0000-0000-000000000005",
+      "text": "Mucho gusto",
+      "file": "c0000000-0000-0000-0000-000000000005.mp3"
+    },
+    {
+      "uuid": "516fd71c-1084-4f8a-aee1-168c180484ca",
+      "text": "Hablar",
+      "file": "516fd71c-1084-4f8a-aee1-168c180484ca.mp3"
+    },
+    {
+      "uuid": "a8e82265-3b44-48ef-9b96-efd145b28882",
+      "text": "Mañana por la mañana",
+      "file": "a8e82265-3b44-48ef-9b96-efd145b28882.mp3"
+    },
+    {
+      "uuid": "c0000000-0000-0000-0000-000000000012",
+      "text": "tres",
+      "file": "c0000000-0000-0000-0000-000000000012.mp3"
+    },
+    {
+      "uuid": "455d2861-6631-4852-a227-0015220b8dbb",
+      "text": "Difícil",
+      "file": "455d2861-6631-4852-a227-0015220b8dbb.mp3"
+    },
+    {
+      "uuid": "35512073-c925-47e6-b4d8-9f111fc63d4b",
+      "text": "Baño",
+      "file": "35512073-c925-47e6-b4d8-9f111fc63d4b.mp3"
+    },
+    {
+      "uuid": "c0000000-0000-0000-0000-000000000021",
+      "text": "Agua / Beber",
+      "file": "c0000000-0000-0000-0000-000000000021.mp3"
+    },
+    {
+      "uuid": "167d124a-5de5-4f4a-a678-3d1a0e4edc8f",
+      "text": "La sal",
+      "file": "167d124a-5de5-4f4a-a678-3d1a0e4edc8f.mp3"
+    },
+    {
+      "uuid": "9c3eb510-7b47-45aa-accf-290f13dd61cb",
+      "text": "Tengo hambre",
+      "file": "9c3eb510-7b47-45aa-accf-290f13dd61cb.mp3"
+    },
+    {
+      "uuid": "b8a6b200-5455-4f17-b24f-c868a15e4652",
+      "text": "Maleta",
+      "file": "b8a6b200-5455-4f17-b24f-c868a15e4652.mp3"
+    },
+    {
+      "uuid": "c0000000-0000-0000-0000-000000000019",
+      "text": "Hermano / Hermana",
+      "file": "c0000000-0000-0000-0000-000000000019.mp3"
+    },
+    {
+      "uuid": "d5312f24-16ee-4532-99b9-4b6eac474999",
+      "text": "Dorado",
+      "file": "d5312f24-16ee-4532-99b9-4b6eac474999.mp3"
+    },
+    {
+      "uuid": "32aae90e-66c1-4288-851e-fd10073615f2",
+      "text": "Me duele la espalda",
+      "file": "32aae90e-66c1-4288-851e-fd10073615f2.mp3"
+    },
+    {
+      "uuid": "8354b86b-0775-484a-b032-5fc1fd82e863",
+      "text": "Jardín",
+      "file": "8354b86b-0775-484a-b032-5fc1fd82e863.mp3"
+    },
+    {
+      "uuid": "7b873c92-45aa-4219-ad41-6afe4903475a",
+      "text": "Espejo",
+      "file": "7b873c92-45aa-4219-ad41-6afe4903475a.mp3"
+    },
+    {
+      "uuid": "05c11653-5810-472b-8280-ca0c0325a192",
+      "text": "Atrasado",
+      "file": "05c11653-5810-472b-8280-ca0c0325a192.mp3"
+    },
+    {
+      "uuid": "ab478727-cb10-4d58-8d56-6c0cb4f99df9",
+      "text": "El nieto / La nieta",
+      "file": "ab478727-cb10-4d58-8d56-6c0cb4f99df9.mp3"
+    },
+    {
+      "uuid": "c0000000-0000-0000-0000-000000000001",
+      "text": "Hola",
+      "file": "c0000000-0000-0000-0000-000000000001.mp3"
+    },
+    {
+      "uuid": "6a496ea6-4909-4271-9b89-3d049a7386bb",
+      "text": "Velocidad",
+      "file": "6a496ea6-4909-4271-9b89-3d049a7386bb.mp3"
+    },
+    {
+      "uuid": "2ad1d779-9909-46d1-ab39-b1a229d84420",
+      "text": "Rosa",
+      "file": "2ad1d779-9909-46d1-ab39-b1a229d84420.mp3"
+    },
+    {
+      "uuid": "7d237dab-5a38-4fe3-8a68-3e3eb6c94ce0",
+      "text": "¿Cuánto cuesta?",
+      "file": "7d237dab-5a38-4fe3-8a68-3e3eb6c94ce0.mp3"
+    },
+    {
+      "uuid": "50499e5a-6849-4425-a7cd-4a1a61d9fd1e",
+      "text": "Trabajo",
+      "file": "50499e5a-6849-4425-a7cd-4a1a61d9fd1e.mp3"
+    },
+    {
+      "uuid": "864497a5-8772-4b67-9194-bd2a5b1e5d4b",
+      "text": "Diferente",
+      "file": "864497a5-8772-4b67-9194-bd2a5b1e5d4b.mp3"
+    },
+    {
+      "uuid": "f92179d3-b238-4b51-91ac-6bc19a7cabe6",
+      "text": "Estufa",
+      "file": "f92179d3-b238-4b51-91ac-6bc19a7cabe6.mp3"
+    },
+    {
+      "uuid": "35ca5975-55a7-4b72-b7c1-9c46de995429",
+      "text": "El queso",
+      "file": "35ca5975-55a7-4b72-b7c1-9c46de995429.mp3"
+    },
+    {
+      "uuid": "7b68e968-e8cd-4ef6-9c0a-df14e1820b63",
+      "text": "El aceite",
+      "file": "7b68e968-e8cd-4ef6-9c0a-df14e1820b63.mp3"
+    },
+    {
+      "uuid": "3adb386c-44ed-4b01-88ab-adc758e97392",
+      "text": "Cama",
+      "file": "3adb386c-44ed-4b01-88ab-adc758e97392.mp3"
+    },
+    {
+      "uuid": "6dfec06f-0e2c-471c-b204-c40543c345ed",
+      "text": "El plátano",
+      "file": "6dfec06f-0e2c-471c-b204-c40543c345ed.mp3"
+    },
+    {
+      "uuid": "ff6eecb6-9c6d-44c2-9dfd-5ac74459de34",
+      "text": "once",
+      "file": "ff6eecb6-9c6d-44c2-9dfd-5ac74459de34.mp3"
+    },
+    {
+      "uuid": "c0000000-0000-0000-0000-000000000047",
+      "text": "Lunes a Miércoles",
+      "file": "c0000000-0000-0000-0000-000000000047.mp3"
+    },
+    {
+      "uuid": "aa0ea69d-1495-4da7-9095-8c634e3eba89",
+      "text": "Llave",
+      "file": "aa0ea69d-1495-4da7-9095-8c634e3eba89.mp3"
+    },
+    {
+      "uuid": "c0000000-0000-0000-0000-000000000048",
+      "text": "Jueves a Domingo",
+      "file": "c0000000-0000-0000-0000-000000000048.mp3"
+    },
+    {
+      "uuid": "7fb8e524-4f9d-428c-86f6-2c670ab55409",
+      "text": "cinco",
+      "file": "7fb8e524-4f9d-428c-86f6-2c670ab55409.mp3"
+    },
+    {
+      "uuid": "0625579c-0f94-46e5-893e-07a94de60555",
+      "text": "El sobrino / La sobrina",
+      "file": "0625579c-0f94-46e5-893e-07a94de60555.mp3"
+    },
+    {
+      "uuid": "c5f1ed94-1019-45a7-9e30-ef34f5765cb9",
+      "text": "Diciembre",
+      "file": "c5f1ed94-1019-45a7-9e30-ef34f5765cb9.mp3"
+    },
+    {
+      "uuid": "c16aa1f9-c295-4b25-85da-e4d01d1acb19",
+      "text": "Pensar",
+      "file": "c16aa1f9-c295-4b25-85da-e4d01d1acb19.mp3"
+    },
+    {
+      "uuid": "4d84bcc7-7e22-42c7-94a9-60794cf71f54",
+      "text": "El primo / La prima",
+      "file": "4d84bcc7-7e22-42c7-94a9-60794cf71f54.mp3"
+    },
+    {
+      "uuid": "6318813d-5987-4799-916b-35a352a67a39",
+      "text": "Estoy casado/a",
+      "file": "6318813d-5987-4799-916b-35a352a67a39.mp3"
+    },
+    {
+      "uuid": "eb7c8958-a135-4d9a-b6ca-7aefc566f151",
+      "text": "Correcto",
+      "file": "eb7c8958-a135-4d9a-b6ca-7aefc566f151.mp3"
+    },
+    {
+      "uuid": "2a249071-2a83-4bdb-9ba4-6c4360fbd8f3",
+      "text": "El esposo / La esposa",
+      "file": "2a249071-2a83-4bdb-9ba4-6c4360fbd8f3.mp3"
+    },
+    {
+      "uuid": "cb3ca3d4-84d3-43d1-b748-40f6f8b3e652",
+      "text": "El cuñado / La cuñada",
+      "file": "cb3ca3d4-84d3-43d1-b748-40f6f8b3e652.mp3"
+    },
+    {
+      "uuid": "3d6d9367-8589-4e2f-a46b-1423cbb52cc1",
+      "text": "La nariz",
+      "file": "3d6d9367-8589-4e2f-a46b-1423cbb52cc1.mp3"
+    },
+    {
+      "uuid": "6fdbaca5-523a-4c2a-8fc3-1948b1ba2815",
+      "text": "El sándwich",
+      "file": "6fdbaca5-523a-4c2a-8fc3-1948b1ba2815.mp3"
+    },
+    {
+      "uuid": "3fce06a7-f269-48f2-b5b0-f252d0250499",
+      "text": "Estación",
+      "file": "3fce06a7-f269-48f2-b5b0-f252d0250499.mp3"
+    },
+    {
+      "uuid": "d503925b-7e4f-46ad-a061-7d339fba2a56",
+      "text": "¿Qué significa...?",
+      "file": "d503925b-7e4f-46ad-a061-7d339fba2a56.mp3"
+    },
+    {
+      "uuid": "ff0f146b-455a-4f48-b901-bc02a17e8fa0",
+      "text": "Diario",
+      "file": "ff0f146b-455a-4f48-b901-bc02a17e8fa0.mp3"
+    },
+    {
+      "uuid": "f981d4b1-e9c5-41b8-a980-4c5e08c14ff5",
+      "text": "Grupos",
+      "file": "f981d4b1-e9c5-41b8-a980-4c5e08c14ff5.mp3"
+    },
+    {
+      "uuid": "fd5fdb5f-0d76-452e-88e2-9e722fe6d866",
+      "text": "Terminal",
+      "file": "fd5fdb5f-0d76-452e-88e2-9e722fe6d866.mp3"
+    },
+    {
+      "uuid": "951ba2ab-5204-4245-b527-762c7cf995ac",
+      "text": "Gasolinera",
+      "file": "951ba2ab-5204-4245-b527-762c7cf995ac.mp3"
+    },
+    {
+      "uuid": "3bc64b4c-2b7c-493a-9efd-801b1badf7ea",
+      "text": "La sopa",
+      "file": "3bc64b4c-2b7c-493a-9efd-801b1badf7ea.mp3"
+    },
+    {
+      "uuid": "b51a976b-283c-4cda-8b50-03cada43a0f3",
+      "text": "Pasillo",
+      "file": "b51a976b-283c-4cda-8b50-03cada43a0f3.mp3"
+    },
+    {
+      "uuid": "9f6de953-2477-4d23-938b-e9d117ad2ad2",
+      "text": "El helado",
+      "file": "9f6de953-2477-4d23-938b-e9d117ad2ad2.mp3"
+    },
+    {
+      "uuid": "150d6465-266f-45ad-b994-39e496d971d1",
+      "text": "No tengo hermanos",
+      "file": "150d6465-266f-45ad-b994-39e496d971d1.mp3"
+    },
+    {
+      "uuid": "ef468561-6909-4ac7-b765-0d2ced46d042",
+      "text": "La cabeza",
+      "file": "ef468561-6909-4ac7-b765-0d2ced46d042.mp3"
+    },
+    {
+      "uuid": "3b97f462-a578-45b4-be5f-0461e25bb4cc",
+      "text": "Esta noche",
+      "file": "3b97f462-a578-45b4-be5f-0461e25bb4cc.mp3"
+    },
+    {
+      "uuid": "f6964243-d696-4942-8e19-8c659702ccfc",
+      "text": "Invierno",
+      "file": "f6964243-d696-4942-8e19-8c659702ccfc.mp3"
+    },
+    {
+      "uuid": "520b7095-09cd-4f77-9c2e-cd7ef353fcd8",
+      "text": "Febrero",
+      "file": "520b7095-09cd-4f77-9c2e-cd7ef353fcd8.mp3"
+    },
+    {
+      "uuid": "c0000000-0000-0000-0000-000000000007",
+      "text": "Gracias",
+      "file": "c0000000-0000-0000-0000-000000000007.mp3"
+    },
+    {
+      "uuid": "b4c4c792-cf00-48ad-8cf0-19e16f18d062",
+      "text": "Transporte",
+      "file": "b4c4c792-cf00-48ad-8cf0-19e16f18d062.mp3"
+    },
+    {
+      "uuid": "be9d6e0b-1228-4e5c-8a92-bf7c351bd807",
+      "text": "¿Y usted?",
+      "file": "be9d6e0b-1228-4e5c-8a92-bf7c351bd807.mp3"
+    },
+    {
+      "uuid": "76f11b26-7d5f-4192-8741-420a7d5ab11a",
+      "text": "¿Dónde está...?",
+      "file": "76f11b26-7d5f-4192-8741-420a7d5ab11a.mp3"
+    },
+    {
+      "uuid": "a75dd411-67a4-4d07-a0c8-2aa44bf60c63",
+      "text": "Primavera",
+      "file": "a75dd411-67a4-4d07-a0c8-2aa44bf60c63.mp3"
+    },
+    {
+      "uuid": "b322691e-65da-4db3-8658-97098cef1d2b",
+      "text": "Estudiante",
+      "file": "b322691e-65da-4db3-8658-97098cef1d2b.mp3"
+    },
+    {
+      "uuid": "8e27afa1-380f-454f-85d2-ddf3fd3d55cb",
+      "text": "Junio",
+      "file": "8e27afa1-380f-454f-85d2-ddf3fd3d55cb.mp3"
+    },
+    {
+      "uuid": "36a94707-00cd-4b25-9a48-9a7bf28acc53",
+      "text": "Plateado",
+      "file": "36a94707-00cd-4b25-9a48-9a7bf28acc53.mp3"
+    },
+    {
+      "uuid": "2d9cdc89-7e33-4cf2-8561-b7db2f9495b8",
+      "text": "Momento",
+      "file": "2d9cdc89-7e33-4cf2-8561-b7db2f9495b8.mp3"
+    },
+    {
+      "uuid": "c50e24ed-cf9f-43ba-8fb8-cdb044da28f4",
+      "text": "Horario",
+      "file": "c50e24ed-cf9f-43ba-8fb8-cdb044da28f4.mp3"
+    },
+    {
+      "uuid": "9f3b4151-4c4c-4de1-93b8-6848412779a6",
+      "text": "La espalda",
+      "file": "9f3b4151-4c4c-4de1-93b8-6848412779a6.mp3"
+    },
+    {
+      "uuid": "c5d6051f-8d4b-4b58-847b-f82938ef0827",
+      "text": "Cocina",
+      "file": "c5d6051f-8d4b-4b58-847b-f82938ef0827.mp3"
+    },
+    {
+      "uuid": "a20ea865-ae15-48b9-8e38-7b356c5e3449",
+      "text": "La ensalada",
+      "file": "a20ea865-ae15-48b9-8e38-7b356c5e3449.mp3"
+    },
+    {
+      "uuid": "9aea592c-9fe7-4d5e-89a3-2b4eaa9678d8",
+      "text": "Aparcamiento",
+      "file": "9aea592c-9fe7-4d5e-89a3-2b4eaa9678d8.mp3"
+    },
+    {
+      "uuid": "bc901e8f-11b0-41cc-b9b4-5c865e9261b1",
+      "text": "La pasta",
+      "file": "bc901e8f-11b0-41cc-b9b4-5c865e9261b1.mp3"
+    },
+    {
+      "uuid": "e0b2f7d7-164c-4c01-beaf-87d27b3cf7ae",
+      "text": "Pregunta",
+      "file": "e0b2f7d7-164c-4c01-beaf-87d27b3cf7ae.mp3"
+    },
+    {
+      "uuid": "b15df114-d12e-4509-af65-6855ff1b1474",
+      "text": "Estoy enfermo",
+      "file": "b15df114-d12e-4509-af65-6855ff1b1474.mp3"
+    },
+    {
+      "uuid": "c3bad732-1635-4b66-8ba8-25014a22bf93",
+      "text": "quince",
+      "file": "c3bad732-1635-4b66-8ba8-25014a22bf93.mp3"
+    },
+    {
+      "uuid": "633b7284-4c2a-4f3a-bea2-75c0921aba74",
+      "text": "A la vuelta",
+      "file": "633b7284-4c2a-4f3a-bea2-75c0921aba74.mp3"
+    },
+    {
+      "uuid": "866b14bf-1115-4f12-a5f1-34886f32c769",
+      "text": "Destino",
+      "file": "866b14bf-1115-4f12-a5f1-34886f32c769.mp3"
+    },
+    {
+      "uuid": "11a29c85-0bc9-4bdf-af80-70fcaca79fa6",
+      "text": "Seguro",
+      "file": "11a29c85-0bc9-4bdf-af80-70fcaca79fa6.mp3"
+    },
+    {
+      "uuid": "dfaf0e8d-25cd-4527-9ad7-3f7702bbb75d",
+      "text": "cuarenta / cincuenta",
+      "file": "dfaf0e8d-25cd-4527-9ad7-3f7702bbb75d.mp3"
+    },
+    {
+      "uuid": "2854daf3-b77e-4a76-8687-9553adf530f0",
+      "text": "siete",
+      "file": "2854daf3-b77e-4a76-8687-9553adf530f0.mp3"
+    },
+    {
+      "uuid": "0c21c53b-43cf-4b0e-aa2b-deab270330c7",
+      "text": "Verano",
+      "file": "0c21c53b-43cf-4b0e-aa2b-deab270330c7.mp3"
+    },
+    {
+      "uuid": "59050335-aec5-4df0-9981-186fdab932e0",
+      "text": "Nevera",
+      "file": "59050335-aec5-4df0-9981-186fdab932e0.mp3"
+    },
+    {
+      "uuid": "ab15439b-bca6-4b13-9784-dbe5df7e4e8f",
+      "text": "cien",
+      "file": "ab15439b-bca6-4b13-9784-dbe5df7e4e8f.mp3"
+    },
+    {
+      "uuid": "2ba8a714-5b44-40a6-b2a9-50d2f27cf8f7",
+      "text": "Hasta pronto",
+      "file": "2ba8a714-5b44-40a6-b2a9-50d2f27cf8f7.mp3"
+    },
+    {
+      "uuid": "040d7a7d-1da8-44bf-8b22-ef16502f4e5c",
+      "text": "Universidad",
+      "file": "040d7a7d-1da8-44bf-8b22-ef16502f4e5c.mp3"
+    },
+    {
+      "uuid": "0e47fe64-88bf-4cc9-bf53-9b5152cb988e",
+      "text": "Inodoro",
+      "file": "0e47fe64-88bf-4cc9-bf53-9b5152cb988e.mp3"
+    },
+    {
+      "uuid": "471f3b12-8454-46cd-8c73-49214dec049f",
+      "text": "La manzana",
+      "file": "471f3b12-8454-46cd-8c73-49214dec049f.mp3"
+    },
+    {
+      "uuid": "97684d8e-9c06-468c-bd5f-4f2cd1110587",
+      "text": "Avenida",
+      "file": "97684d8e-9c06-468c-bd5f-4f2cd1110587.mp3"
+    },
+    {
+      "uuid": "537fa321-a374-460c-9dd5-125f0c7ee1d4",
+      "text": "Un poco más",
+      "file": "537fa321-a374-460c-9dd5-125f0c7ee1d4.mp3"
+    },
+    {
+      "uuid": "1f35495e-12fc-4914-9ed8-a763607702bf",
+      "text": "Puente",
+      "file": "1f35495e-12fc-4914-9ed8-a763607702bf.mp3"
+    },
+    {
+      "uuid": "2dbc8da5-4359-493f-a9d8-b67b4bf87b6b",
+      "text": "Aprender",
+      "file": "2dbc8da5-4359-493f-a9d8-b67b4bf87b6b.mp3"
+    },
+    {
+      "uuid": "c0000000-0000-0000-0000-000000000011",
+      "text": "dos",
+      "file": "c0000000-0000-0000-0000-000000000011.mp3"
+    },
+    {
+      "uuid": "7808eb17-5800-4de9-b19d-4c34218539ae",
+      "text": "La carne",
+      "file": "7808eb17-5800-4de9-b19d-4c34218539ae.mp3"
+    },
+    {
+      "uuid": "c0000000-0000-0000-0000-000000000013",
+      "text": "Rojo",
+      "file": "c0000000-0000-0000-0000-000000000013.mp3"
+    },
+    {
+      "uuid": "89e5509f-aeb6-46a2-912a-72a48869f026",
+      "text": "Tarea",
+      "file": "89e5509f-aeb6-46a2-912a-72a48869f026.mp3"
+    },
+    {
+      "uuid": "e259414e-dea2-4b08-8076-3bcff36588fb",
+      "text": "Barco",
+      "file": "e259414e-dea2-4b08-8076-3bcff36588fb.mp3"
+    },
+    {
+      "uuid": "1ca39b4a-86b0-4cd0-984c-bdc8646596ba",
+      "text": "Plaza",
+      "file": "1ca39b4a-86b0-4cd0-984c-bdc8646596ba.mp3"
+    },
+    {
+      "uuid": "0eb34668-990e-40ae-8857-b9d611772260",
+      "text": "Saber",
+      "file": "0eb34668-990e-40ae-8857-b9d611772260.mp3"
+    },
+    {
+      "uuid": "11384e1b-4e82-4ef2-bc3f-193167328af0",
+      "text": "Ahora",
+      "file": "11384e1b-4e82-4ef2-bc3f-193167328af0.mp3"
+    },
+    {
+      "uuid": "e46a8618-1952-4d5c-b078-15571da27cfe",
+      "text": "Cuchillo",
+      "file": "e46a8618-1952-4d5c-b078-15571da27cfe.mp3"
+    },
+    {
+      "uuid": "60d907e2-c8ef-451b-89b4-0919a757258a",
+      "text": "catorce",
+      "file": "60d907e2-c8ef-451b-89b4-0919a757258a.mp3"
+    },
+    {
+      "uuid": "2ed799a0-8490-4a77-9388-9a41f4e871b2",
+      "text": "¿Hablas inglés?",
+      "file": "2ed799a0-8490-4a77-9388-9a41f4e871b2.mp3"
+    },
+    {
+      "uuid": "c0000000-0000-0000-0000-000000000014",
+      "text": "Azul",
+      "file": "c0000000-0000-0000-0000-000000000014.mp3"
+    },
+    {
+      "uuid": "348a3e8f-5761-48bb-b0dc-6c6124e75a8f",
+      "text": "diecisiete",
+      "file": "348a3e8f-5761-48bb-b0dc-6c6124e75a8f.mp3"
+    },
+    {
+      "uuid": "312c2124-2643-47b7-8ce4-a315a969e9ce",
+      "text": "Moto",
+      "file": "312c2124-2643-47b7-8ce4-a315a969e9ce.mp3"
+    },
+    {
+      "uuid": "9941d5f7-6090-4621-b2f3-729ea080ccb3",
+      "text": "Gris",
+      "file": "9941d5f7-6090-4621-b2f3-729ea080ccb3.mp3"
+    },
+    {
+      "uuid": "81054b5d-fe87-4e2e-b843-5941b61b1cf1",
+      "text": "El cuerpo",
+      "file": "81054b5d-fe87-4e2e-b843-5941b61b1cf1.mp3"
+    },
+    {
+      "uuid": "fc258a51-0e71-43dd-b0f7-88503069c059",
+      "text": "Habitación",
+      "file": "fc258a51-0e71-43dd-b0f7-88503069c059.mp3"
+    },
+    {
+      "uuid": "af836d99-c2d2-4092-85f7-d8e14c64b507",
+      "text": "Los padres",
+      "file": "af836d99-c2d2-4092-85f7-d8e14c64b507.mp3"
+    },
+    {
+      "uuid": "c0000000-0000-0000-0000-000000000052",
+      "text": "Disculpe / Perdón",
+      "file": "c0000000-0000-0000-0000-000000000052.mp3"
+    },
+    {
+      "uuid": "e7b4090b-d1c2-4625-b59a-5d977338d8cb",
+      "text": "Parada",
+      "file": "e7b4090b-d1c2-4625-b59a-5d977338d8cb.mp3"
+    },
+    {
+      "uuid": "163f52b3-e217-4602-aea7-12eb96cabef7",
+      "text": "Duración",
+      "file": "163f52b3-e217-4602-aea7-12eb96cabef7.mp3"
+    },
+    {
+      "uuid": "5fa57f70-cee1-4fe2-81c4-4a0469d93a62",
+      "text": "dieciocho",
+      "file": "5fa57f70-cee1-4fe2-81c4-4a0469d93a62.mp3"
+    },
+    {
+      "uuid": "2ff593d3-534d-411f-9955-9f2954dc90ed",
+      "text": "Verde",
+      "file": "2ff593d3-534d-411f-9955-9f2954dc90ed.mp3"
+    },
+    {
+      "uuid": "b882fb67-edcf-49ef-98e7-4ee46c10727c",
+      "text": "Mesa",
+      "file": "b882fb67-edcf-49ef-98e7-4ee46c10727c.mp3"
+    },
+    {
+      "uuid": "13d25826-d48a-438a-9aa8-9f4b31ea81fa",
+      "text": "Práctica",
+      "file": "13d25826-d48a-438a-9aa8-9f4b31ea81fa.mp3"
+    },
+    {
+      "uuid": "dd9d300e-7ffc-4af7-8fcc-3a6562e7d70f",
+      "text": "¿Y tú?",
+      "file": "dd9d300e-7ffc-4af7-8fcc-3a6562e7d70f.mp3"
+    },
+    {
+      "uuid": "6c2d2446-515c-4ce2-bbde-962cb192075f",
+      "text": "Lección",
+      "file": "6c2d2446-515c-4ce2-bbde-962cb192075f.mp3"
+    },
+    {
+      "uuid": "1b760781-f462-46ff-884d-9fc7a56316a4",
+      "text": "Explicar",
+      "file": "1b760781-f462-46ff-884d-9fc7a56316a4.mp3"
+    },
+    {
+      "uuid": "df8ff055-aa86-425a-ba96-19b52d66a2a6",
+      "text": "Curso",
+      "file": "df8ff055-aa86-425a-ba96-19b52d66a2a6.mp3"
+    },
+    {
+      "uuid": "52d8e426-9f2f-424b-84bc-420bba2f69b1",
+      "text": "Cita",
+      "file": "52d8e426-9f2f-424b-84bc-420bba2f69b1.mp3"
+    },
+    {
+      "uuid": "cade2836-0dfd-456c-a824-1921b89226cf",
+      "text": "La patata",
+      "file": "cade2836-0dfd-456c-a824-1921b89226cf.mp3"
+    },
+    {
+      "uuid": "151caaa2-7903-48e6-b12c-f81246c3f1c9",
+      "text": "Salida",
+      "file": "151caaa2-7903-48e6-b12c-f81246c3f1c9.mp3"
+    },
+    {
+      "uuid": "8fe17bd5-661f-4178-90a6-a54e180a7970",
+      "text": "Plataforma",
+      "file": "8fe17bd5-661f-4178-90a6-a54e180a7970.mp3"
+    },
+    {
+      "uuid": "c0000000-0000-0000-0000-000000000028",
+      "text": "Tiempo / Hora",
+      "file": "c0000000-0000-0000-0000-000000000028.mp3"
+    },
+    {
+      "uuid": "e0b30100-2212-42fb-8b8e-830a7d0428fa",
+      "text": "¡Salud!",
+      "file": "e0b30100-2212-42fb-8b8e-830a7d0428fa.mp3"
+    },
+    {
+      "uuid": "284261f4-6625-4804-9a2e-29cc7998af9c",
+      "text": "¿Con quién vives?",
+      "file": "284261f4-6625-4804-9a2e-29cc7998af9c.mp3"
+    },
+    {
+      "uuid": "deefaa7d-8bef-4fa3-9483-e7a17dc3922a",
+      "text": "Estudiar",
+      "file": "deefaa7d-8bef-4fa3-9483-e7a17dc3922a.mp3"
+    },
+    {
+      "uuid": "6559643f-e620-4dfe-8ce7-1a927cb0228e",
+      "text": "Otoño",
+      "file": "6559643f-e620-4dfe-8ce7-1a927cb0228e.mp3"
+    },
+    {
+      "uuid": "62c7a96d-c1b5-459f-b7f1-061c335c9ac4",
+      "text": "Examen",
+      "file": "62c7a96d-c1b5-459f-b7f1-061c335c9ac4.mp3"
+    },
+    {
+      "uuid": "c329f830-3f2a-4b3d-81b9-5e3e7ff13bb5",
+      "text": "El brazo",
+      "file": "c329f830-3f2a-4b3d-81b9-5e3e7ff13bb5.mp3"
+    },
+    {
+      "uuid": "4d0ea54d-3539-4f0d-aa67-49a3262ef4cf",
+      "text": "Hablo un poco de español",
+      "file": "4d0ea54d-3539-4f0d-aa67-49a3262ef4cf.mp3"
+    },
+    {
+      "uuid": "c59187aa-ba62-4b6a-9f60-73e49ecb2284",
+      "text": "Conocer",
+      "file": "c59187aa-ba62-4b6a-9f60-73e49ecb2284.mp3"
+    },
+    {
+      "uuid": "7c0075c3-653f-4768-9ef7-e568575e082e",
+      "text": "Hasta mañana",
+      "file": "7c0075c3-653f-4768-9ef7-e568575e082e.mp3"
+    },
+    {
+      "uuid": "fc0734d0-afae-4d54-8b65-75f2fa8daff3",
+      "text": "¡Claro!",
+      "file": "fc0734d0-afae-4d54-8b65-75f2fa8daff3.mp3"
+    },
+    {
+      "uuid": "f76489a2-64e6-4108-9ee2-20edbd55c73c",
+      "text": "Noviembre",
+      "file": "f76489a2-64e6-4108-9ee2-20edbd55c73c.mp3"
+    },
+    {
+      "uuid": "e29ed338-9cc0-4665-8fa8-360669770702",
+      "text": "Negro",
+      "file": "e29ed338-9cc0-4665-8fa8-360669770702.mp3"
+    },
+    {
+      "uuid": "5fcabde4-36d9-4313-ada0-122003d12412",
+      "text": "Plato",
+      "file": "5fcabde4-36d9-4313-ada0-122003d12412.mp3"
+    },
+    {
+      "uuid": "ae9f53c5-77c3-42fc-bf71-5319ba5ca071",
+      "text": "¡Felicidades!",
+      "file": "ae9f53c5-77c3-42fc-bf71-5319ba5ca071.mp3"
+    },
+    {
+      "uuid": "5f4f3cb1-37e3-4137-a002-dc64a1de7917",
+      "text": "Aeropuerto",
+      "file": "5f4f3cb1-37e3-4137-a002-dc64a1de7917.mp3"
+    },
+    {
+      "uuid": "3b7a132a-80a1-4fcf-92b2-392776d51f2d",
+      "text": "Antes",
+      "file": "3b7a132a-80a1-4fcf-92b2-392776d51f2d.mp3"
+    },
+    {
+      "uuid": "41fa2733-f8d4-4282-8c65-d3e47a75fc81",
+      "text": "Basurero",
+      "file": "41fa2733-f8d4-4282-8c65-d3e47a75fc81.mp3"
+    },
+    {
+      "uuid": "ecbb506b-5422-412d-9b9b-abe9ce2b15d9",
+      "text": "Tengo ... años",
+      "file": "ecbb506b-5422-412d-9b9b-abe9ce2b15d9.mp3"
+    },
+    {
+      "uuid": "693f12a6-ac65-45d2-8a42-6163bb41aae7",
+      "text": "Reserva",
+      "file": "693f12a6-ac65-45d2-8a42-6163bb41aae7.mp3"
+    },
+    {
+      "uuid": "da54465f-e50c-4fdf-9a77-a62b0563629b",
+      "text": "Profesor / Profesora",
+      "file": "da54465f-e50c-4fdf-9a77-a62b0563629b.mp3"
+    },
+    {
+      "uuid": "a2f78b01-8b49-4914-915d-f94af7fd988e",
+      "text": "Avión",
+      "file": "a2f78b01-8b49-4914-915d-f94af7fd988e.mp3"
+    },
+    {
+      "uuid": "4babc64e-5bbd-4e06-97b4-ba58df4fb22a",
+      "text": "Nota",
+      "file": "4babc64e-5bbd-4e06-97b4-ba58df4fb22a.mp3"
+    },
+    {
+      "uuid": "4320e6e6-bc91-4007-9fd1-05adef460bbe",
+      "text": "¿Puede repetir?",
+      "file": "4320e6e6-bc91-4007-9fd1-05adef460bbe.mp3"
+    },
+    {
+      "uuid": "fbadc993-bdaa-47e7-b753-39393f1f8801",
+      "text": "El azúcar",
+      "file": "fbadc993-bdaa-47e7-b753-39393f1f8801.mp3"
+    },
+    {
+      "uuid": "04720108-1c8e-43e9-a205-73980904b406",
+      "text": "Calendario",
+      "file": "04720108-1c8e-43e9-a205-73980904b406.mp3"
+    },
+    {
+      "uuid": "71d9ed77-4488-49aa-80db-c82f3810afec",
+      "text": "El vino",
+      "file": "71d9ed77-4488-49aa-80db-c82f3810afec.mp3"
+    },
+    {
+      "uuid": "b06906a4-e117-46d4-ac9f-4c6857870ee2",
+      "text": "Almohada",
+      "file": "b06906a4-e117-46d4-ac9f-4c6857870ee2.mp3"
+    },
+    {
+      "uuid": "d89c5422-9a1e-4b97-99e5-47089c3a5fd6",
+      "text": "La pareja",
+      "file": "d89c5422-9a1e-4b97-99e5-47089c3a5fd6.mp3"
+    },
+    {
+      "uuid": "c0000000-0000-0000-0000-000000000004",
+      "text": "Me llamo...",
+      "file": "c0000000-0000-0000-0000-000000000004.mp3"
+    },
+    {
+      "uuid": "c0000000-0000-0000-0000-000000000022",
+      "text": "Comida / Comer",
+      "file": "c0000000-0000-0000-0000-000000000022.mp3"
+    },
+    {
+      "uuid": "d1451a0f-e3de-411a-882c-4bc2da8b0e77",
+      "text": "El hijo / La hija",
+      "file": "d1451a0f-e3de-411a-882c-4bc2da8b0e77.mp3"
+    },
+    {
+      "uuid": "ae3304bb-d8e0-4bfe-8081-79c60d136a23",
+      "text": "Sin azúcar",
+      "file": "ae3304bb-d8e0-4bfe-8081-79c60d136a23.mp3"
+    },
+    {
+      "uuid": "9752bcbc-3631-4272-bad8-1955a57ee666",
+      "text": "El suegro / La suegra",
+      "file": "9752bcbc-3631-4272-bad8-1955a57ee666.mp3"
+    },
+    {
+      "uuid": "3b13d013-1c8a-4c58-a95a-a4a522bddd19",
+      "text": "Lo siento",
+      "file": "3b13d013-1c8a-4c58-a95a-a4a522bddd19.mp3"
+    },
+    {
+      "uuid": "2d614724-cbff-4516-8f1d-f14f2d5ea095",
+      "text": "¿Cómo es tu familia?",
+      "file": "2d614724-cbff-4516-8f1d-f14f2d5ea095.mp3"
+    },
+    {
+      "uuid": "a451c398-90dc-45bb-9927-5c64958a9d63",
+      "text": "Respuesta",
+      "file": "a451c398-90dc-45bb-9927-5c64958a9d63.mp3"
+    },
+    {
+      "uuid": "3cb3f4a0-8a3d-48d4-94ce-96d874d734f6",
+      "text": "Tenedor",
+      "file": "3cb3f4a0-8a3d-48d4-94ce-96d874d734f6.mp3"
+    },
+    {
+      "uuid": "1817bcee-bdbb-4f61-adc5-093a6e3358f9",
+      "text": "Pasajero",
+      "file": "1817bcee-bdbb-4f61-adc5-093a6e3358f9.mp3"
+    },
+    {
+      "uuid": "a477939c-8e52-417b-aaf9-f5030159c3b1",
+      "text": "Armario",
+      "file": "a477939c-8e52-417b-aaf9-f5030159c3b1.mp3"
+    }
+  ],
+  "skipped": [],
+  "failed": []
+}
