@@ -1,0 +1,961 @@
+{
+  "generated": [
+    {
+      "uuid": "de338e9d-fe2a-453f-a9f2-7ae3580ad944",
+      "text": "A partir de",
+      "file": "de338e9d-fe2a-453f-a9f2-7ae3580ad944.mp3"
+    },
+    {
+      "uuid": "a166ce95-644d-4a1d-873a-c86e61d17c0f",
+      "text": "Colega",
+      "file": "a166ce95-644d-4a1d-873a-c86e61d17c0f.mp3"
+    },
+    {
+      "uuid": "1d895cce-ff26-413d-bcc8-c625b29a1706",
+      "text": "En primer lugar",
+      "file": "1d895cce-ff26-413d-bcc8-c625b29a1706.mp3"
+    },
+    {
+      "uuid": "5b28c3ee-a2ec-4431-887a-4d161a594b8b",
+      "text": "Como si fuera verdad",
+      "file": "5b28c3ee-a2ec-4431-887a-4d161a594b8b.mp3"
+    },
+    {
+      "uuid": "052a9180-5cc2-4a4c-b7ea-3bdd5471797e",
+      "text": "Trascendencia",
+      "file": "052a9180-5cc2-4a4c-b7ea-3bdd5471797e.mp3"
+    },
+    {
+      "uuid": "3644a42f-3d73-4a0d-9fff-228a2b333849",
+      "text": "Estimado/a",
+      "file": "3644a42f-3d73-4a0d-9fff-228a2b333849.mp3"
+    },
+    {
+      "uuid": "3684a8f6-255c-47df-a081-140616f8c82c",
+      "text": "Gobernanza",
+      "file": "3684a8f6-255c-47df-a081-140616f8c82c.mp3"
+    },
+    {
+      "uuid": "b092321b-1906-43e3-b691-857bbaa526fc",
+      "text": "Ponerse las pilas",
+      "file": "b092321b-1906-43e3-b691-857bbaa526fc.mp3"
+    },
+    {
+      "uuid": "f0457416-43e3-4426-a65f-b55e9b6ae00e",
+      "text": "Pese a que",
+      "file": "f0457416-43e3-4426-a65f-b55e9b6ae00e.mp3"
+    },
+    {
+      "uuid": "710988cc-3827-474c-be20-43a13bb83db1",
+      "text": "En cuanto lo sepa",
+      "file": "710988cc-3827-474c-be20-43a13bb83db1.mp3"
+    },
+    {
+      "uuid": "546dbe26-03de-4f57-a4a1-ec951b4c92fe",
+      "text": "Tal como se expone",
+      "file": "546dbe26-03de-4f57-a4a1-ec951b4c92fe.mp3"
+    },
+    {
+      "uuid": "ca0f5f00-9bfa-450b-aca3-432038e4d0b2",
+      "text": "A saber",
+      "file": "ca0f5f00-9bfa-450b-aca3-432038e4d0b2.mp3"
+    },
+    {
+      "uuid": "a0d9beab-250d-43f9-a720-ab05512c011b",
+      "text": "Más aún",
+      "file": "a0d9beab-250d-43f9-a720-ab05512c011b.mp3"
+    },
+    {
+      "uuid": "ab23ab15-880a-4ed4-a0b3-23bd25aaa054",
+      "text": "Legislación",
+      "file": "ab23ab15-880a-4ed4-a0b3-23bd25aaa054.mp3"
+    },
+    {
+      "uuid": "1e146892-3cb1-4854-a212-e18d4a2364c0",
+      "text": "Sugerencia",
+      "file": "1e146892-3cb1-4854-a212-e18d4a2364c0.mp3"
+    },
+    {
+      "uuid": "8e36626b-8ca2-486f-87d2-44805f213b5d",
+      "text": "Opinión pública",
+      "file": "8e36626b-8ca2-486f-87d2-44805f213b5d.mp3"
+    },
+    {
+      "uuid": "40c30a5d-dbba-403b-9ea0-829386ed8295",
+      "text": "Retraso",
+      "file": "40c30a5d-dbba-403b-9ea0-829386ed8295.mp3"
+    },
+    {
+      "uuid": "aba6bea5-c5b4-4e1e-b2fd-ffca1815473b",
+      "text": "Factible",
+      "file": "aba6bea5-c5b4-4e1e-b2fd-ffca1815473b.mp3"
+    },
+    {
+      "uuid": "2194797b-ef76-4d94-844d-07f47491c1aa",
+      "text": "Apretar los dientes",
+      "file": "2194797b-ef76-4d94-844d-07f47491c1aa.mp3"
+    },
+    {
+      "uuid": "64d9d4e2-8e3d-484d-8f4d-84a2b3d705ef",
+      "text": "Hubiera sabido",
+      "file": "64d9d4e2-8e3d-484d-8f4d-84a2b3d705ef.mp3"
+    },
+    {
+      "uuid": "99590517-7bda-47cc-bbe0-6759e6bfc563",
+      "text": "Bienestar",
+      "file": "99590517-7bda-47cc-bbe0-6759e6bfc563.mp3"
+    },
+    {
+      "uuid": "2a4fb86b-7a0b-42c9-82ec-e9ea8bbbf454",
+      "text": "Dialéctica",
+      "file": "2a4fb86b-7a0b-42c9-82ec-e9ea8bbbf454.mp3"
+    },
+    {
+      "uuid": "1a72f1fc-bc06-4925-99c8-2381d702a19c",
+      "text": "Escepticismo",
+      "file": "1a72f1fc-bc06-4925-99c8-2381d702a19c.mp3"
+    },
+    {
+      "uuid": "0a61270f-70e4-4dd4-a8e2-b349391e97d4",
+      "text": "Perspectivismo",
+      "file": "0a61270f-70e4-4dd4-a8e2-b349391e97d4.mp3"
+    },
+    {
+      "uuid": "7dbb79b2-045a-4077-b6ce-9e841e0b8984",
+      "text": "Derechos Humanos",
+      "file": "7dbb79b2-045a-4077-b6ce-9e841e0b8984.mp3"
+    },
+    {
+      "uuid": "cd776939-5df9-41a1-9aaa-7b91482531de",
+      "text": "A pesar de que digas",
+      "file": "cd776939-5df9-41a1-9aaa-7b91482531de.mp3"
+    },
+    {
+      "uuid": "c3e672bc-bffb-4e02-90b0-aaf31906f4d7",
+      "text": "Cabe señalar",
+      "file": "c3e672bc-bffb-4e02-90b0-aaf31906f4d7.mp3"
+    },
+    {
+      "uuid": "b4f571a7-ad51-4fae-b622-0bd7648c6b9f",
+      "text": "Nihilismo",
+      "file": "b4f571a7-ad51-4fae-b622-0bd7648c6b9f.mp3"
+    },
+    {
+      "uuid": "1bf7349a-f73a-4b16-a2e7-47e52e72f2f9",
+      "text": "Empirismo",
+      "file": "1bf7349a-f73a-4b16-a2e7-47e52e72f2f9.mp3"
+    },
+    {
+      "uuid": "da6a70ea-65d0-471b-884a-becffefc5b4d",
+      "text": "De modo que",
+      "file": "da6a70ea-65d0-471b-884a-becffefc5b4d.mp3"
+    },
+    {
+      "uuid": "7ae52189-f242-4afd-820c-6730cc578e43",
+      "text": "Conclusión",
+      "file": "7ae52189-f242-4afd-820c-6730cc578e43.mp3"
+    },
+    {
+      "uuid": "f3d1782a-0200-40b9-9d93-3cf214b08e06",
+      "text": "En términos generales",
+      "file": "f3d1782a-0200-40b9-9d93-3cf214b08e06.mp3"
+    },
+    {
+      "uuid": "35589e63-7a69-41a9-bebd-81b1ba5c11a6",
+      "text": "Causalidad",
+      "file": "35589e63-7a69-41a9-bebd-81b1ba5c11a6.mp3"
+    },
+    {
+      "uuid": "8c66da17-795f-4367-a972-852db55aa479",
+      "text": "Quienquiera que sea",
+      "file": "8c66da17-795f-4367-a972-852db55aa479.mp3"
+    },
+    {
+      "uuid": "f6c0129c-2b77-44f2-a8d8-8753dc54249e",
+      "text": "Convocatoria",
+      "file": "f6c0129c-2b77-44f2-a8d8-8753dc54249e.mp3"
+    },
+    {
+      "uuid": "23fd658a-93ab-463b-bfb7-cfdf0bc84750",
+      "text": "En relación con",
+      "file": "23fd658a-93ab-463b-bfb7-cfdf0bc84750.mp3"
+    },
+    {
+      "uuid": "1de5de47-c11c-4aac-be43-62a13832bb98",
+      "text": "Ciudadanía",
+      "file": "1de5de47-c11c-4aac-be43-62a13832bb98.mp3"
+    },
+    {
+      "uuid": "e41178fe-5e92-4847-8265-e087cb77ef6c",
+      "text": "En la medida en que",
+      "file": "e41178fe-5e92-4847-8265-e087cb77ef6c.mp3"
+    },
+    {
+      "uuid": "cf159c38-4610-4671-a2e6-ea0012c8a7f9",
+      "text": "Con tal de que vengas",
+      "file": "cf159c38-4610-4671-a2e6-ea0012c8a7f9.mp3"
+    },
+    {
+      "uuid": "3f6b8ffc-7435-44bb-ad31-ff95839817c5",
+      "text": "Quedo a la espera",
+      "file": "3f6b8ffc-7435-44bb-ad31-ff95839817c5.mp3"
+    },
+    {
+      "uuid": "2c78388b-2462-4fbc-855d-149f0543a9ba",
+      "text": "Con el fin de",
+      "file": "2c78388b-2462-4fbc-855d-149f0543a9ba.mp3"
+    },
+    {
+      "uuid": "34a2b007-bf48-4703-b6e6-b6924e077839",
+      "text": "En vista de lo cual",
+      "file": "34a2b007-bf48-4703-b6e6-b6924e077839.mp3"
+    },
+    {
+      "uuid": "ad6c4b56-17df-4a6b-be7d-6091baf3a985",
+      "text": "Dicho de otro modo",
+      "file": "ad6c4b56-17df-4a6b-be7d-6091baf3a985.mp3"
+    },
+    {
+      "uuid": "9bebf6ff-d5c4-4c13-98aa-13c8674c62e0",
+      "text": "Alternativa",
+      "file": "9bebf6ff-d5c4-4c13-98aa-13c8674c62e0.mp3"
+    },
+    {
+      "uuid": "599efe07-bee8-4070-8be3-c2dbb227dfde",
+      "text": "Adjunto",
+      "file": "599efe07-bee8-4070-8be3-c2dbb227dfde.mp3"
+    },
+    {
+      "uuid": "6b22b881-5644-4070-885f-ffbf1e6290e9",
+      "text": "De antemano",
+      "file": "6b22b881-5644-4070-885f-ffbf1e6290e9.mp3"
+    },
+    {
+      "uuid": "31df82a4-b688-41c3-955b-0dc6e0c958eb",
+      "text": "Costar un ojo de la cara",
+      "file": "31df82a4-b688-41c3-955b-0dc6e0c958eb.mp3"
+    },
+    {
+      "uuid": "44615afe-9902-4381-84d0-42baccbe6bde",
+      "text": "A propósito de",
+      "file": "44615afe-9902-4381-84d0-42baccbe6bde.mp3"
+    },
+    {
+      "uuid": "e3271fe1-3582-4486-ac48-630ebc8e7c81",
+      "text": "Aunque llueva",
+      "file": "e3271fe1-3582-4486-ac48-630ebc8e7c81.mp3"
+    },
+    {
+      "uuid": "c0c14b19-7aa9-4519-b39f-908b3d8a5d9d",
+      "text": "Estrategia",
+      "file": "c0c14b19-7aa9-4519-b39f-908b3d8a5d9d.mp3"
+    },
+    {
+      "uuid": "4329151c-7da0-4a9f-a4fc-3eaf21a84450",
+      "text": "Por lo tanto",
+      "file": "4329151c-7da0-4a9f-a4fc-3eaf21a84450.mp3"
+    },
+    {
+      "uuid": "9b297f5f-aafa-4e21-af87-7524dee8f6b4",
+      "text": "Haya sido quien haya sido",
+      "file": "9b297f5f-aafa-4e21-af87-7524dee8f6b4.mp3"
+    },
+    {
+      "uuid": "1f691bcf-3593-4810-9c68-306df6704896",
+      "text": "Ojalá hubieras venido",
+      "file": "1f691bcf-3593-4810-9c68-306df6704896.mp3"
+    },
+    {
+      "uuid": "5551a22d-22c1-47c0-8284-1227d6f84ac5",
+      "text": "De igual manera",
+      "file": "5551a22d-22c1-47c0-8284-1227d6f84ac5.mp3"
+    },
+    {
+      "uuid": "b2dbf2c1-770f-471c-92c1-16a69c12052d",
+      "text": "En la actualidad",
+      "file": "b2dbf2c1-770f-471c-92c1-16a69c12052d.mp3"
+    },
+    {
+      "uuid": "18ceb5ba-1cac-4df7-9241-b25fca704bf8",
+      "text": "La naturaleza intrínseca",
+      "file": "18ceb5ba-1cac-4df7-9241-b25fca704bf8.mp3"
+    },
+    {
+      "uuid": "e7e5dd3e-1201-4853-94c3-66e793848301",
+      "text": "Chollo",
+      "file": "e7e5dd3e-1201-4853-94c3-66e793848301.mp3"
+    },
+    {
+      "uuid": "8581a64f-ef37-49fa-92a0-427a40f39ff0",
+      "text": "Ontología",
+      "file": "8581a64f-ef37-49fa-92a0-427a40f39ff0.mp3"
+    },
+    {
+      "uuid": "2b512e8d-a768-4245-8439-756a55b0213e",
+      "text": "Espacialidad",
+      "file": "2b512e8d-a768-4245-8439-756a55b0213e.mp3"
+    },
+    {
+      "uuid": "6df43826-86cf-4060-87dc-2f8bf97bbfef",
+      "text": "Tirar la toalla",
+      "file": "6df43826-86cf-4060-87dc-2f8bf97bbfef.mp3"
+    },
+    {
+      "uuid": "6cfe4ab8-8154-4ec6-adbd-534a0eeb6471",
+      "text": "Guay",
+      "file": "6cfe4ab8-8154-4ec6-adbd-534a0eeb6471.mp3"
+    },
+    {
+      "uuid": "a3cd0604-9b69-44a8-b1b6-a213e2c79fe4",
+      "text": "Debido a",
+      "file": "a3cd0604-9b69-44a8-b1b6-a213e2c79fe4.mp3"
+    },
+    {
+      "uuid": "f5b18d9f-9026-44cf-a7ae-32f40306c923",
+      "text": "En contraste con",
+      "file": "f5b18d9f-9026-44cf-a7ae-32f40306c923.mp3"
+    },
+    {
+      "uuid": "8453cdc4-bd1b-4e38-8bea-dbb1a909c364",
+      "text": "Determinismo",
+      "file": "8453cdc4-bd1b-4e38-8bea-dbb1a909c364.mp3"
+    },
+    {
+      "uuid": "2f24cf63-0f4a-4ee7-a56d-fb95431bcb4b",
+      "text": "Votación",
+      "file": "2f24cf63-0f4a-4ee7-a56d-fb95431bcb4b.mp3"
+    },
+    {
+      "uuid": "acfc7971-a643-4fa3-9e11-f99dab53375f",
+      "text": "Dondequiera que vayas",
+      "file": "acfc7971-a643-4fa3-9e11-f99dab53375f.mp3"
+    },
+    {
+      "uuid": "bec1eff2-cbcf-4cef-aec4-d419b2f39d64",
+      "text": "Mientras sea posible",
+      "file": "bec1eff2-cbcf-4cef-aec4-d419b2f39d64.mp3"
+    },
+    {
+      "uuid": "3eb63501-7e5a-4b9b-b52d-5473d41acf2d",
+      "text": "Por otra parte",
+      "file": "3eb63501-7e5a-4b9b-b52d-5473d41acf2d.mp3"
+    },
+    {
+      "uuid": "cb626dfc-ac20-4775-b21d-904a7cea5391",
+      "text": "En todo caso",
+      "file": "cb626dfc-ac20-4775-b21d-904a7cea5391.mp3"
+    },
+    {
+      "uuid": "469c1669-ce8f-498c-9007-8f861a00f601",
+      "text": "Molar",
+      "file": "469c1669-ce8f-498c-9007-8f861a00f601.mp3"
+    },
+    {
+      "uuid": "1b555bbe-bc37-4cf2-9627-5f2890bcf941",
+      "text": "Clarificar",
+      "file": "1b555bbe-bc37-4cf2-9627-5f2890bcf941.mp3"
+    },
+    {
+      "uuid": "6a463421-d979-480b-b430-cb65509c993e",
+      "text": "Estar hecho polvo",
+      "file": "6a463421-d979-480b-b430-cb65509c993e.mp3"
+    },
+    {
+      "uuid": "21f5e577-7b12-4576-83ad-f786f12c08be",
+      "text": "Sostenibilidad",
+      "file": "21f5e577-7b12-4576-83ad-f786f12c08be.mp3"
+    },
+    {
+      "uuid": "727c09b3-eeca-49de-ad86-3e42ec8d2f35",
+      "text": "Curro",
+      "file": "727c09b3-eeca-49de-ad86-3e42ec8d2f35.mp3"
+    },
+    {
+      "uuid": "780c0a38-6916-4156-8a6a-8350631ac939",
+      "text": "Instituciones",
+      "file": "780c0a38-6916-4156-8a6a-8350631ac939.mp3"
+    },
+    {
+      "uuid": "55ad147f-3ce3-49af-bbb7-3111685b9a71",
+      "text": "Bochorno",
+      "file": "55ad147f-3ce3-49af-bbb7-3111685b9a71.mp3"
+    },
+    {
+      "uuid": "a5ff950e-504e-475c-8daf-00d7f2488d1d",
+      "text": "En cuanto a",
+      "file": "a5ff950e-504e-475c-8daf-00d7f2488d1d.mp3"
+    },
+    {
+      "uuid": "2e953a22-db8a-47e5-af70-7f29bad7a6ab",
+      "text": "Por consiguiente",
+      "file": "2e953a22-db8a-47e5-af70-7f29bad7a6ab.mp3"
+    },
+    {
+      "uuid": "c880f5de-943b-44e3-a2a3-da0b76fc8980",
+      "text": "Cabe destacar",
+      "file": "c880f5de-943b-44e3-a2a3-da0b76fc8980.mp3"
+    },
+    {
+      "uuid": "77599803-af03-428e-98a3-cf1550bd2818",
+      "text": "A pesar de",
+      "file": "77599803-af03-428e-98a3-cf1550bd2818.mp3"
+    },
+    {
+      "uuid": "c0be4524-2454-44c6-964f-bab33fd11e6a",
+      "text": "Con respecto a",
+      "file": "c0be4524-2454-44c6-964f-bab33fd11e6a.mp3"
+    },
+    {
+      "uuid": "12580667-bc6c-4524-9b75-02473addd41e",
+      "text": "Acuse de recibo",
+      "file": "12580667-bc6c-4524-9b75-02473addd41e.mp3"
+    },
+    {
+      "uuid": "d7d3dc02-6b48-4b74-af82-1e4dd1d54f44",
+      "text": "Transparencia",
+      "file": "d7d3dc02-6b48-4b74-af82-1e4dd1d54f44.mp3"
+    },
+    {
+      "uuid": "74adefd1-368a-42d7-b6e2-d5c50b9848f6",
+      "text": "A gusto",
+      "file": "74adefd1-368a-42d7-b6e2-d5c50b9848f6.mp3"
+    },
+    {
+      "uuid": "48c4269d-0d3c-40e6-8e59-32c0e1e8b93c",
+      "text": "Bajo este supuesto",
+      "file": "48c4269d-0d3c-40e6-8e59-32c0e1e8b93c.mp3"
+    },
+    {
+      "uuid": "1981b04f-aff7-44cd-a207-08abbf6dae7f",
+      "text": "Axioma",
+      "file": "1981b04f-aff7-44cd-a207-08abbf6dae7f.mp3"
+    },
+    {
+      "uuid": "e079c91f-33b4-4f86-bf7a-50614646d9a8",
+      "text": "Ser uña y carne",
+      "file": "e079c91f-33b4-4f86-bf7a-50614646d9a8.mp3"
+    },
+    {
+      "uuid": "fdeac243-3312-42eb-80cf-c1a8849d9634",
+      "text": "Soberanía",
+      "file": "fdeac243-3312-42eb-80cf-c1a8849d9634.mp3"
+    },
+    {
+      "uuid": "0d5a7fef-d527-4ad8-b321-00c6e143c0e9",
+      "text": "Si hubieras dicho",
+      "file": "0d5a7fef-d527-4ad8-b321-00c6e143c0e9.mp3"
+    },
+    {
+      "uuid": "316f1235-f455-41a6-a11b-1aaf6a23ac08",
+      "text": "Incentivo",
+      "file": "316f1235-f455-41a6-a11b-1aaf6a23ac08.mp3"
+    },
+    {
+      "uuid": "e39df70a-76c9-46a0-a008-a473d69aae79",
+      "text": "Seguimiento",
+      "file": "e39df70a-76c9-46a0-a008-a473d69aae79.mp3"
+    },
+    {
+      "uuid": "04e0752c-87dc-4de7-bb01-8eea9e8853b5",
+      "text": "Teleología",
+      "file": "04e0752c-87dc-4de7-bb01-8eea9e8853b5.mp3"
+    },
+    {
+      "uuid": "d6650ff2-f43e-41c1-b845-46d0ef5b6d79",
+      "text": "Quedarse de piedra",
+      "file": "d6650ff2-f43e-41c1-b845-46d0ef5b6d79.mp3"
+    },
+    {
+      "uuid": "c404bc4f-c7ff-4dc3-b60d-3ed739058748",
+      "text": "Después de que llegues",
+      "file": "c404bc4f-c7ff-4dc3-b60d-3ed739058748.mp3"
+    },
+    {
+      "uuid": "61ca498d-07b6-49e2-87b4-753a01f2c050",
+      "text": "Por otro lado",
+      "file": "61ca498d-07b6-49e2-87b4-753a01f2c050.mp3"
+    },
+    {
+      "uuid": "204f487d-bc22-49f7-8b62-feb754172751",
+      "text": "Fuere como fuere",
+      "file": "204f487d-bc22-49f7-8b62-feb754172751.mp3"
+    },
+    {
+      "uuid": "fe5f56da-dd66-4496-8b1f-05d16b4062c7",
+      "text": "A no ser que",
+      "file": "fe5f56da-dd66-4496-8b1f-05d16b4062c7.mp3"
+    },
+    {
+      "uuid": "2a38eede-a1b3-4d20-992d-28d2d38ed5d1",
+      "text": "Ética normativa",
+      "file": "2a38eede-a1b3-4d20-992d-28d2d38ed5d1.mp3"
+    },
+    {
+      "uuid": "792a0fde-ee98-431f-a3c1-d6d0fcf915fa",
+      "text": "Conceptualización",
+      "file": "792a0fde-ee98-431f-a3c1-d6d0fcf915fa.mp3"
+    },
+    {
+      "uuid": "3b3ebb7c-5177-4f27-a550-9f1fa98264cb",
+      "text": "Política Pública",
+      "file": "3b3ebb7c-5177-4f27-a550-9f1fa98264cb.mp3"
+    },
+    {
+      "uuid": "e4cf0616-a08c-4ce1-8a84-649b946c13f5",
+      "text": "Acuerdo",
+      "file": "e4cf0616-a08c-4ce1-8a84-649b946c13f5.mp3"
+    },
+    {
+      "uuid": "4948a4c8-c3bc-4362-b1bc-445b82269843",
+      "text": "Colaboración",
+      "file": "4948a4c8-c3bc-4362-b1bc-445b82269843.mp3"
+    },
+    {
+      "uuid": "c19dfa85-9e7a-48e0-81df-392ffe347070",
+      "text": "No tener pelos en la lengua",
+      "file": "c19dfa85-9e7a-48e0-81df-392ffe347070.mp3"
+    },
+    {
+      "uuid": "c4db7030-2888-48a0-999c-c791e85865b7",
+      "text": "Por ejemplo",
+      "file": "c4db7030-2888-48a0-999c-c791e85865b7.mp3"
+    },
+    {
+      "uuid": "986ffd49-b6a9-4395-945c-6f9aaf8c9217",
+      "text": "Reformas",
+      "file": "986ffd49-b6a9-4395-945c-6f9aaf8c9217.mp3"
+    },
+    {
+      "uuid": "95713515-f7be-48a5-957b-24be6d4159df",
+      "text": "El libre albedrío",
+      "file": "95713515-f7be-48a5-957b-24be6d4159df.mp3"
+    },
+    {
+      "uuid": "d135826d-cfd6-47c9-a093-94cb60b2027f",
+      "text": "Fenomenología",
+      "file": "d135826d-cfd6-47c9-a093-94cb60b2027f.mp3"
+    },
+    {
+      "uuid": "eb2d9ccc-3b3c-403e-b689-d919805d8ab4",
+      "text": "Inherentemente",
+      "file": "eb2d9ccc-3b3c-403e-b689-d919805d8ab4.mp3"
+    },
+    {
+      "uuid": "ff435e10-ee64-4448-9809-711b07d7b406",
+      "text": "Immanencia",
+      "file": "ff435e10-ee64-4448-9809-711b07d7b406.mp3"
+    },
+    {
+      "uuid": "9d775fb7-8819-431d-a2ba-90f688b15087",
+      "text": "Participación",
+      "file": "9d775fb7-8819-431d-a2ba-90f688b15087.mp3"
+    },
+    {
+      "uuid": "744634d2-3b01-4029-bdfe-31a4cde3c336",
+      "text": "Inclusión",
+      "file": "744634d2-3b01-4029-bdfe-31a4cde3c336.mp3"
+    },
+    {
+      "uuid": "64492bd1-62e1-4d9d-84a8-bef3ac7245cc",
+      "text": "Por más que intente",
+      "file": "64492bd1-62e1-4d9d-84a8-bef3ac7245cc.mp3"
+    },
+    {
+      "uuid": "88c1bf17-3a01-49d2-a21e-b896776031c0",
+      "text": "Temporalidad",
+      "file": "88c1bf17-3a01-49d2-a21e-b896776031c0.mp3"
+    },
+    {
+      "uuid": "8e33b067-3e15-40f9-bc7d-f5b76320efbe",
+      "text": "Tener mucha cara",
+      "file": "8e33b067-3e15-40f9-bc7d-f5b76320efbe.mp3"
+    },
+    {
+      "uuid": "76ea2cb6-9b5e-40b8-8afe-5e2ea3824bf6",
+      "text": "Sin embargo",
+      "file": "76ea2cb6-9b5e-40b8-8afe-5e2ea3824bf6.mp3"
+    },
+    {
+      "uuid": "02740e97-3566-4907-a581-8a3368fca7a6",
+      "text": "Estar pez",
+      "file": "02740e97-3566-4907-a581-8a3368fca7a6.mp3"
+    },
+    {
+      "uuid": "c1b6db49-0408-4912-af36-6bb7f0ee33f0",
+      "text": "Dado que",
+      "file": "c1b6db49-0408-4912-af36-6bb7f0ee33f0.mp3"
+    },
+    {
+      "uuid": "3b6de9d8-d0c6-49db-9c10-55e6c8240050",
+      "text": "Democracia",
+      "file": "3b6de9d8-d0c6-49db-9c10-55e6c8240050.mp3"
+    },
+    {
+      "uuid": "7878cd5d-e00e-4df0-bf1c-96b996cf069c",
+      "text": "Ser pan comido",
+      "file": "7878cd5d-e00e-4df0-bf1c-96b996cf069c.mp3"
+    },
+    {
+      "uuid": "ff3fdf2d-5bb2-40ea-8f3f-ee97bbbef802",
+      "text": "Antes de que salgas",
+      "file": "ff3fdf2d-5bb2-40ea-8f3f-ee97bbbef802.mp3"
+    },
+    {
+      "uuid": "e5f69e95-2c69-4b20-8550-2c302d7060a1",
+      "text": "La dimensión espacio-temporal",
+      "file": "e5f69e95-2c69-4b20-8550-2c302d7060a1.mp3"
+    },
+    {
+      "uuid": "6694fc0f-9cb8-442d-8619-9d6d7192fcb1",
+      "text": "De ahí que",
+      "file": "6694fc0f-9cb8-442d-8619-9d6d7192fcb1.mp3"
+    },
+    {
+      "uuid": "f7525297-794d-4065-91a9-4c0152df7b7f",
+      "text": "Existencialismo",
+      "file": "f7525297-794d-4065-91a9-4c0152df7b7f.mp3"
+    },
+    {
+      "uuid": "9a225191-d60e-48ee-83bd-76b48ccca5cb",
+      "text": "Debate",
+      "file": "9a225191-d60e-48ee-83bd-76b48ccca5cb.mp3"
+    },
+    {
+      "uuid": "74ece55f-f924-4e63-92cd-aecf2e72831a",
+      "text": "Tan pronto como",
+      "file": "74ece55f-f924-4e63-92cd-aecf2e72831a.mp3"
+    },
+    {
+      "uuid": "b120d4f3-c0b0-48c5-84e5-87f9a9fac032",
+      "text": "En efecto",
+      "file": "b120d4f3-c0b0-48c5-84e5-87f9a9fac032.mp3"
+    },
+    {
+      "uuid": "4dc883ed-47cb-4ae8-b46f-9a53771def93",
+      "text": "A menos que vengas",
+      "file": "4dc883ed-47cb-4ae8-b46f-9a53771def93.mp3"
+    },
+    {
+      "uuid": "2b52e07c-e7fe-461d-87ed-f12b1a1194b3",
+      "text": "Manifestación",
+      "file": "2b52e07c-e7fe-461d-87ed-f12b1a1194b3.mp3"
+    },
+    {
+      "uuid": "bcbde852-412c-41c3-b2fa-c53c5e5b1abd",
+      "text": "Reunión",
+      "file": "bcbde852-412c-41c3-b2fa-c53c5e5b1abd.mp3"
+    },
+    {
+      "uuid": "b632bef3-8e1c-4048-be85-b8a57cd7ad90",
+      "text": "La cosmovisión",
+      "file": "b632bef3-8e1c-4048-be85-b8a57cd7ad90.mp3"
+    },
+    {
+      "uuid": "6961f830-f617-4ffa-a911-57e48f78b659",
+      "text": "Urgente",
+      "file": "6961f830-f617-4ffa-a911-57e48f78b659.mp3"
+    },
+    {
+      "uuid": "7a8e8893-7025-4681-851c-3f5fa3e8fce1",
+      "text": "Presión social",
+      "file": "7a8e8893-7025-4681-851c-3f5fa3e8fce1.mp3"
+    },
+    {
+      "uuid": "4a2b7caa-2bd7-4f78-a592-c13de8367d68",
+      "text": "No obstante",
+      "file": "4a2b7caa-2bd7-4f78-a592-c13de8367d68.mp3"
+    },
+    {
+      "uuid": "bd98c6d0-5c16-477c-90c8-373a23e9706b",
+      "text": "Dualismo",
+      "file": "bd98c6d0-5c16-477c-90c8-373a23e9706b.mp3"
+    },
+    {
+      "uuid": "7677ed30-f1f7-4ec4-8799-b9b40950ec3a",
+      "text": "Dar en el clavo",
+      "file": "7677ed30-f1f7-4ec4-8799-b9b40950ec3a.mp3"
+    },
+    {
+      "uuid": "b8636005-4079-45ce-b46c-d88c76c7b826",
+      "text": "Universalidad",
+      "file": "b8636005-4079-45ce-b46c-d88c76c7b826.mp3"
+    },
+    {
+      "uuid": "d10dd922-8191-44e7-93b4-72c4d430d8f0",
+      "text": "Referéndum",
+      "file": "d10dd922-8191-44e7-93b4-72c4d430d8f0.mp3"
+    },
+    {
+      "uuid": "94c0654f-dcaa-4782-9aa8-58bc6f0698b8",
+      "text": "Plazo",
+      "file": "94c0654f-dcaa-4782-9aa8-58bc6f0698b8.mp3"
+    },
+    {
+      "uuid": "57fa7eab-91d1-4ef3-83c7-aabcb50daf33",
+      "text": "Por último",
+      "file": "57fa7eab-91d1-4ef3-83c7-aabcb50daf33.mp3"
+    },
+    {
+      "uuid": "50dd7a42-bf5f-47d9-ba0b-d101e775b9b1",
+      "text": "Paradigma",
+      "file": "50dd7a42-bf5f-47d9-ba0b-d101e775b9b1.mp3"
+    },
+    {
+      "uuid": "c42fa9db-7445-4cc3-9f8e-002921f10595",
+      "text": "Desigualdad",
+      "file": "c42fa9db-7445-4cc3-9f8e-002921f10595.mp3"
+    },
+    {
+      "uuid": "57f59318-ab75-4c9d-8f4d-6360dc30498e",
+      "text": "Libertad",
+      "file": "57f59318-ab75-4c9d-8f4d-6360dc30498e.mp3"
+    },
+    {
+      "uuid": "4045859d-0fcd-4dab-ba37-1a9d873b143b",
+      "text": "Resulta evidente que",
+      "file": "4045859d-0fcd-4dab-ba37-1a9d873b143b.mp3"
+    },
+    {
+      "uuid": "dedf2141-1488-44fd-9398-95a6d57a8175",
+      "text": "Flipar",
+      "file": "dedf2141-1488-44fd-9398-95a6d57a8175.mp3"
+    },
+    {
+      "uuid": "6477e41b-d8e2-40d4-9eeb-b60270172fde",
+      "text": "Sea lo que sea",
+      "file": "6477e41b-d8e2-40d4-9eeb-b60270172fde.mp3"
+    },
+    {
+      "uuid": "2c84dd01-4897-4bf6-8f4e-71d9879cf337",
+      "text": "A mi juicio",
+      "file": "2c84dd01-4897-4bf6-8f4e-71d9879cf337.mp3"
+    },
+    {
+      "uuid": "ca2eb790-0857-4e7f-852f-be2037e43a15",
+      "text": "Estar como una cabra",
+      "file": "ca2eb790-0857-4e7f-852f-be2037e43a15.mp3"
+    },
+    {
+      "uuid": "b6ea4b8f-6264-45ce-9845-f1f7d345319c",
+      "text": "En suma",
+      "file": "b6ea4b8f-6264-45ce-9845-f1f7d345319c.mp3"
+    },
+    {
+      "uuid": "e9876004-6814-49a1-ab1f-cb4857427bcb",
+      "text": "En vista de",
+      "file": "e9876004-6814-49a1-ab1f-cb4857427bcb.mp3"
+    },
+    {
+      "uuid": "8206824b-935d-461e-85a1-a595c6812111",
+      "text": "Pasarse tres pueblos",
+      "file": "8206824b-935d-461e-85a1-a595c6812111.mp3"
+    },
+    {
+      "uuid": "1c07591b-aaf1-49d0-a66b-5cb3f7aa5b69",
+      "text": "Activismo",
+      "file": "1c07591b-aaf1-49d0-a66b-5cb3f7aa5b69.mp3"
+    },
+    {
+      "uuid": "4eedfd7b-e603-4dda-838a-c1a64591a07c",
+      "text": "El devenir",
+      "file": "4eedfd7b-e603-4dda-838a-c1a64591a07c.mp3"
+    },
+    {
+      "uuid": "0143c02a-dbc3-4e97-b7e3-980f81bb9a63",
+      "text": "De manera similar",
+      "file": "0143c02a-dbc3-4e97-b7e3-980f81bb9a63.mp3"
+    },
+    {
+      "uuid": "b7c5bed5-15fc-427c-ba33-91e670eb870c",
+      "text": "Tomar el pelo",
+      "file": "b7c5bed5-15fc-427c-ba33-91e670eb870c.mp3"
+    },
+    {
+      "uuid": "467ae3a5-b3a7-4c16-b484-8616bf345c36",
+      "text": "Hasta que sea tarde",
+      "file": "467ae3a5-b3a7-4c16-b484-8616bf345c36.mp3"
+    },
+    {
+      "uuid": "c339b323-9b6d-41d1-9bce-871e94f6230e",
+      "text": "Multiculturalismo",
+      "file": "c339b323-9b6d-41d1-9bce-871e94f6230e.mp3"
+    },
+    {
+      "uuid": "90acce5e-722e-4032-900c-4408793ca5e5",
+      "text": "De lo contrario",
+      "file": "90acce5e-722e-4032-900c-4408793ca5e5.mp3"
+    },
+    {
+      "uuid": "baf43aaa-1985-43d2-bc3a-25e68739248b",
+      "text": "Particularidad",
+      "file": "baf43aaa-1985-43d2-bc3a-25e68739248b.mp3"
+    },
+    {
+      "uuid": "15f9e031-83fd-4094-aecd-f61455dee343",
+      "text": "Echar una mano",
+      "file": "15f9e031-83fd-4094-aecd-f61455dee343.mp3"
+    },
+    {
+      "uuid": "79722381-64e7-4aa8-818a-c7f09a294175",
+      "text": "Para que entiendas",
+      "file": "79722381-64e7-4aa8-818a-c7f09a294175.mp3"
+    },
+    {
+      "uuid": "e6a75d3f-8d73-43c7-b6d8-4c40317bad99",
+      "text": "Meter la pata",
+      "file": "e6a75d3f-8d73-43c7-b6d8-4c40317bad99.mp3"
+    },
+    {
+      "uuid": "989d8ec2-00c2-4925-8552-f613b72da378",
+      "text": "De tal manera que",
+      "file": "989d8ec2-00c2-4925-8552-f613b72da378.mp3"
+    },
+    {
+      "uuid": "73d5cafc-c22b-4183-8b10-9bb743cc3aa0",
+      "text": "Subjetividad",
+      "file": "73d5cafc-c22b-4183-8b10-9bb743cc3aa0.mp3"
+    },
+    {
+      "uuid": "3ced301d-031f-4088-aef8-679f4e4610ed",
+      "text": "Por mucho que corra",
+      "file": "3ced301d-031f-4088-aef8-679f4e4610ed.mp3"
+    },
+    {
+      "uuid": "ba3a6e2b-9290-483a-aad0-4e099e216619",
+      "text": "Atentamente",
+      "file": "ba3a6e2b-9290-483a-aad0-4e099e216619.mp3"
+    },
+    {
+      "uuid": "f4fdd263-ea7e-4ca7-a884-d519a3054f33",
+      "text": "Sin que me vea",
+      "file": "f4fdd263-ea7e-4ca7-a884-d519a3054f33.mp3"
+    },
+    {
+      "uuid": "3ca693a5-ef32-432b-88e1-a4a635888c61",
+      "text": "En resumen",
+      "file": "3ca693a5-ef32-432b-88e1-a4a635888c61.mp3"
+    },
+    {
+      "uuid": "61b0af82-6e0e-4184-aa29-59dad4fe6531",
+      "text": "Metafísica",
+      "file": "61b0af82-6e0e-4184-aa29-59dad4fe6531.mp3"
+    },
+    {
+      "uuid": "c54d3dd0-a5cf-437c-963a-bb32c5e69fb1",
+      "text": "Estar en las nubes",
+      "file": "c54d3dd0-a5cf-437c-963a-bb32c5e69fb1.mp3"
+    },
+    {
+      "uuid": "1660e72e-05bb-4b44-978b-611a2f30d7dc",
+      "text": "Es decir",
+      "file": "1660e72e-05bb-4b44-978b-611a2f30d7dc.mp3"
+    },
+    {
+      "uuid": "1b8417d2-980b-4ddc-a140-63210722bff6",
+      "text": "Si tuviera dinero",
+      "file": "1b8417d2-980b-4ddc-a140-63210722bff6.mp3"
+    },
+    {
+      "uuid": "925afa77-8837-44e4-9204-390bbe5bcef5",
+      "text": "Pasta",
+      "file": "925afa77-8837-44e4-9204-390bbe5bcef5.mp3"
+    },
+    {
+      "uuid": "66dc9d07-faa9-4526-abaa-5daaf7433e82",
+      "text": "Punto de vista",
+      "file": "66dc9d07-faa9-4526-abaa-5daaf7433e82.mp3"
+    },
+    {
+      "uuid": "41a706fb-422d-4744-8980-a46e22bac73c",
+      "text": "Dicho esto",
+      "file": "41a706fb-422d-4744-8980-a46e22bac73c.mp3"
+    },
+    {
+      "uuid": "b84e544b-20c4-4e5f-bc88-c8a70772cace",
+      "text": "En consecuencia",
+      "file": "b84e544b-20c4-4e5f-bc88-c8a70772cace.mp3"
+    },
+    {
+      "uuid": "4dc6fa27-774d-456c-87d3-c766994d43ca",
+      "text": "Sin perjuicio de",
+      "file": "4dc6fa27-774d-456c-87d3-c766994d43ca.mp3"
+    },
+    {
+      "uuid": "41c98224-87b0-4201-b367-fcc283250268",
+      "text": "Igualdad",
+      "file": "41c98224-87b0-4201-b367-fcc283250268.mp3"
+    },
+    {
+      "uuid": "96ad1395-1f14-43ef-b912-a305ae0cf808",
+      "text": "Consenso",
+      "file": "96ad1395-1f14-43ef-b912-a305ae0cf808.mp3"
+    },
+    {
+      "uuid": "34c520e8-d8ce-45ff-ae31-114248c3a7cf",
+      "text": "Hacerse el sueco",
+      "file": "34c520e8-d8ce-45ff-ae31-114248c3a7cf.mp3"
+    },
+    {
+      "uuid": "6d2b2e98-d11d-442c-b228-b53b88e96a8f",
+      "text": "Ni de coña",
+      "file": "6d2b2e98-d11d-442c-b228-b53b88e96a8f.mp3"
+    },
+    {
+      "uuid": "cc6a8b5a-6d8b-44be-ba55-d024e98f7518",
+      "text": "Aprobación",
+      "file": "cc6a8b5a-6d8b-44be-ba55-d024e98f7518.mp3"
+    },
+    {
+      "uuid": "f04b1397-0a9c-4167-adde-feaed36fa0cf",
+      "text": "Ir al grano",
+      "file": "f04b1397-0a9c-4167-adde-feaed36fa0cf.mp3"
+    },
+    {
+      "uuid": "a02081c8-b775-40db-a8bd-f51be2ceb73d",
+      "text": "Justicia Social",
+      "file": "a02081c8-b775-40db-a8bd-f51be2ceb73d.mp3"
+    },
+    {
+      "uuid": "ce39dcc4-1171-4e1f-bc9a-65a4def6ccdf",
+      "text": "Aunque sepa la verdad",
+      "file": "ce39dcc4-1171-4e1f-bc9a-65a4def6ccdf.mp3"
+    },
+    {
+      "uuid": "b87df9aa-508f-4051-b0e2-8c2ed4a9cdfe",
+      "text": "Propuesta",
+      "file": "b87df9aa-508f-4051-b0e2-8c2ed4a9cdfe.mp3"
+    },
+    {
+      "uuid": "906ed4bd-592e-42f0-a424-b5840efd68d9",
+      "text": "Disponibilidad",
+      "file": "906ed4bd-592e-42f0-a424-b5840efd68d9.mp3"
+    },
+    {
+      "uuid": "15cfeed0-05e1-489e-86d0-2c47c0d071ca",
+      "text": "Presupuesto",
+      "file": "15cfeed0-05e1-489e-86d0-2c47c0d071ca.mp3"
+    },
+    {
+      "uuid": "4a1cd723-89d9-405d-b0df-144cecd70809",
+      "text": "Asimismo",
+      "file": "4a1cd723-89d9-405d-b0df-144cecd70809.mp3"
+    },
+    {
+      "uuid": "bfe9dade-b02c-4e56-a879-2474678f7a49",
+      "text": "Beneficio",
+      "file": "bfe9dade-b02c-4e56-a879-2474678f7a49.mp3"
+    },
+    {
+      "uuid": "7a292430-d1a9-472a-9746-5de3e978cb68",
+      "text": "En última instancia",
+      "file": "7a292430-d1a9-472a-9746-5de3e978cb68.mp3"
+    },
+    {
+      "uuid": "e94cc652-f8b1-463b-b42b-10a5a552d5c2",
+      "text": "Objetivos",
+      "file": "e94cc652-f8b1-463b-b42b-10a5a552d5c2.mp3"
+    }
+  ],
+  "skipped": [],
+  "failed": []
+}
