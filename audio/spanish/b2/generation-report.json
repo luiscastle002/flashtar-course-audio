@@ -1,0 +1,1381 @@
+{
+  "generated": [
+    {
+      "uuid": "a3d14e51-617a-47f1-a5c2-c69ace8d1148",
+      "text": "Caloría",
+      "file": "a3d14e51-617a-47f1-a5c2-c69ace8d1148.mp3"
+    },
+    {
+      "uuid": "a24fba88-364f-459a-8eb4-68459882b5ea",
+      "text": "La enfermedad",
+      "file": "a24fba88-364f-459a-8eb4-68459882b5ea.mp3"
+    },
+    {
+      "uuid": "8eb7da95-d6e2-420e-bbe4-ba6e973fd3f9",
+      "text": "La denuncia",
+      "file": "8eb7da95-d6e2-420e-bbe4-ba6e973fd3f9.mp3"
+    },
+    {
+      "uuid": "96fda6d6-17f6-40cd-8a8e-b45eb807edc8",
+      "text": "La cotización",
+      "file": "96fda6d6-17f6-40cd-8a8e-b45eb807edc8.mp3"
+    },
+    {
+      "uuid": "fd3a08b4-32d2-44f2-82ff-26fc2b4fd780",
+      "text": "La multa",
+      "file": "fd3a08b4-32d2-44f2-82ff-26fc2b4fd780.mp3"
+    },
+    {
+      "uuid": "dbf6c42b-161d-4fe5-91b0-373058483502",
+      "text": "El experimento",
+      "file": "dbf6c42b-161d-4fe5-91b0-373058483502.mp3"
+    },
+    {
+      "uuid": "6c21f6a3-76d8-4029-b720-133a4f826465",
+      "text": "El avance científico",
+      "file": "6c21f6a3-76d8-4029-b720-133a4f826465.mp3"
+    },
+    {
+      "uuid": "98194d1f-79a0-4534-85cc-12ee8ff4d50c",
+      "text": "El gobierno",
+      "file": "98194d1f-79a0-4534-85cc-12ee8ff4d50c.mp3"
+    },
+    {
+      "uuid": "47587602-e79f-46c5-aa05-ce4159357956",
+      "text": "Ando pensando",
+      "file": "47587602-e79f-46c5-aa05-ce4159357956.mp3"
+    },
+    {
+      "uuid": "1257fa70-4ed6-4616-879a-6cf44ea200fe",
+      "text": "Ojalá pase el examen",
+      "file": "1257fa70-4ed6-4616-879a-6cf44ea200fe.mp3"
+    },
+    {
+      "uuid": "b8206d90-fdeb-419a-807b-32f2a298d952",
+      "text": "La grasa",
+      "file": "b8206d90-fdeb-419a-807b-32f2a298d952.mp3"
+    },
+    {
+      "uuid": "4e6072f8-ac13-4c8f-8cb3-bed594eee630",
+      "text": "La tecnología",
+      "file": "4e6072f8-ac13-4c8f-8cb3-bed594eee630.mp3"
+    },
+    {
+      "uuid": "9fe76336-08fb-4c67-b412-9d2f277a174f",
+      "text": "La discrepancia",
+      "file": "9fe76336-08fb-4c67-b412-9d2f277a174f.mp3"
+    },
+    {
+      "uuid": "85b0cc4c-b962-4a1b-8c40-d343b0992dac",
+      "text": "Sedentario",
+      "file": "85b0cc4c-b962-4a1b-8c40-d343b0992dac.mp3"
+    },
+    {
+      "uuid": "b7bde5b2-d8a3-49be-b2b7-88ed8a16f212",
+      "text": "La justicia",
+      "file": "b7bde5b2-d8a3-49be-b2b7-88ed8a16f212.mp3"
+    },
+    {
+      "uuid": "e6ea18cc-6bc1-46e9-ac4b-80684780fb93",
+      "text": "El pasivo",
+      "file": "e6ea18cc-6bc1-46e9-ac4b-80684780fb93.mp3"
+    },
+    {
+      "uuid": "abb71147-f270-423d-ae28-1bef907d83db",
+      "text": "Leyendo un libro",
+      "file": "abb71147-f270-423d-ae28-1bef907d83db.mp3"
+    },
+    {
+      "uuid": "cd65f2dd-3494-4b3c-854f-181db9beafca",
+      "text": "El supuesto",
+      "file": "cd65f2dd-3494-4b3c-854f-181db9beafca.mp3"
+    },
+    {
+      "uuid": "9e358083-80eb-4aa1-a56a-9a2d9b7baaad",
+      "text": "Persuadir",
+      "file": "9e358083-80eb-4aa1-a56a-9a2d9b7baaad.mp3"
+    },
+    {
+      "uuid": "6eec53dc-cea6-4dc8-8f30-008509e6d6cf",
+      "text": "El capital",
+      "file": "6eec53dc-cea6-4dc8-8f30-008509e6d6cf.mp3"
+    },
+    {
+      "uuid": "ae4c5d80-891f-43f0-9ac6-7dab6b3533c3",
+      "text": "El matiz",
+      "file": "ae4c5d80-891f-43f0-9ac6-7dab6b3533c3.mp3"
+    },
+    {
+      "uuid": "406ca63b-39b0-440a-bba4-235133f72a75",
+      "text": "El abogado",
+      "file": "406ca63b-39b0-440a-bba4-235133f72a75.mp3"
+    },
+    {
+      "uuid": "6c337eea-5c10-4802-af90-20245a68f6b7",
+      "text": "La poesía",
+      "file": "6c337eea-5c10-4802-af90-20245a68f6b7.mp3"
+    },
+    {
+      "uuid": "1cb190f0-2166-4dfd-8d05-3721438c5d88",
+      "text": "La reforma",
+      "file": "1cb190f0-2166-4dfd-8d05-3721438c5d88.mp3"
+    },
+    {
+      "uuid": "6e57f47c-78b0-4eda-87d0-46b6ad391f82",
+      "text": "Nutritivo",
+      "file": "6e57f47c-78b0-4eda-87d0-46b6ad391f82.mp3"
+    },
+    {
+      "uuid": "9c413313-fcfb-4b02-9d6c-d236e768656b",
+      "text": "Exponer",
+      "file": "9c413313-fcfb-4b02-9d6c-d236e768656b.mp3"
+    },
+    {
+      "uuid": "a2aad8a9-4d49-4a3e-83fd-f2e8dd63dcfa",
+      "text": "Indiscutible",
+      "file": "a2aad8a9-4d49-4a3e-83fd-f2e8dd63dcfa.mp3"
+    },
+    {
+      "uuid": "cfbb2bdb-a024-4b3a-94e0-eb81566becd7",
+      "text": "El símbolo",
+      "file": "cfbb2bdb-a024-4b3a-94e0-eb81566becd7.mp3"
+    },
+    {
+      "uuid": "96a2fd7f-6a16-4e07-a92a-b948755a5820",
+      "text": "La consulta",
+      "file": "96a2fd7f-6a16-4e07-a92a-b948755a5820.mp3"
+    },
+    {
+      "uuid": "9b44587e-32b3-4bfa-8691-cfdc20635e84",
+      "text": "Como si supiera",
+      "file": "9b44587e-32b3-4bfa-8691-cfdc20635e84.mp3"
+    },
+    {
+      "uuid": "a34aab24-87b0-466c-aaff-c2df0abff3b1",
+      "text": "Fuera como fuera",
+      "file": "a34aab24-87b0-466c-aaff-c2df0abff3b1.mp3"
+    },
+    {
+      "uuid": "3a7c6065-6d66-4172-ada5-b9e25acf2794",
+      "text": "El hallazgo",
+      "file": "3a7c6065-6d66-4172-ada5-b9e25acf2794.mp3"
+    },
+    {
+      "uuid": "5862c347-3fa7-4d83-aaa2-5533a6860505",
+      "text": "El estrés",
+      "file": "5862c347-3fa7-4d83-aaa2-5533a6860505.mp3"
+    },
+    {
+      "uuid": "1c4bf46e-b72e-4267-b497-3ccfd91ba453",
+      "text": "El accionista",
+      "file": "1c4bf46e-b72e-4267-b497-3ccfd91ba453.mp3"
+    },
+    {
+      "uuid": "5a5e20fe-9711-4d52-adde-f96d7dd6b13f",
+      "text": "El metabolismo",
+      "file": "5a5e20fe-9711-4d52-adde-f96d7dd6b13f.mp3"
+    },
+    {
+      "uuid": "4c3583cd-3a44-49cc-a2aa-9dd421a39842",
+      "text": "Viene corriendo",
+      "file": "4c3583cd-3a44-49cc-a2aa-9dd421a39842.mp3"
+    },
+    {
+      "uuid": "4c8b2fc3-f753-4fc3-acbf-b2fe5ac47260",
+      "text": "La auditoría",
+      "file": "4c8b2fc3-f753-4fc3-acbf-b2fe5ac47260.mp3"
+    },
+    {
+      "uuid": "744e0941-5fd1-4627-bcc4-c2ae5f01ad93",
+      "text": "Absuelto",
+      "file": "744e0941-5fd1-4627-bcc4-c2ae5f01ad93.mp3"
+    },
+    {
+      "uuid": "b3e4cc12-13fe-454b-adec-47f6d5130c99",
+      "text": "Aunque hablara mucho",
+      "file": "b3e4cc12-13fe-454b-adec-47f6d5130c99.mp3"
+    },
+    {
+      "uuid": "658a1e34-0574-461a-abf4-203647f54461",
+      "text": "Era imposible que pudieras",
+      "file": "658a1e34-0574-461a-abf4-203647f54461.mp3"
+    },
+    {
+      "uuid": "2d505cb2-3cba-4605-b929-494f3d8e4492",
+      "text": "Investigar",
+      "file": "2d505cb2-3cba-4605-b929-494f3d8e4492.mp3"
+    },
+    {
+      "uuid": "32a313fb-d90b-4903-8c42-debffe92d761",
+      "text": "Que + Subjuntivo",
+      "file": "32a313fb-d90b-4903-8c42-debffe92d761.mp3"
+    },
+    {
+      "uuid": "ef258412-f8e1-437c-8c8a-daa9fa05764a",
+      "text": "Objeción",
+      "file": "ef258412-f8e1-437c-8c8a-daa9fa05764a.mp3"
+    },
+    {
+      "uuid": "d03341a3-8779-49fd-841a-53f39e698413",
+      "text": "La crisis",
+      "file": "d03341a3-8779-49fd-841a-53f39e698413.mp3"
+    },
+    {
+      "uuid": "a1090409-fed9-4f80-8691-79778ebc1039",
+      "text": "El estudio clínico",
+      "file": "a1090409-fed9-4f80-8691-79778ebc1039.mp3"
+    },
+    {
+      "uuid": "2c9db9fc-7beb-433c-963c-89b0e50ecd84",
+      "text": "La cobertura",
+      "file": "2c9db9fc-7beb-433c-963c-89b0e50ecd84.mp3"
+    },
+    {
+      "uuid": "fa733d05-da80-4c28-b9e2-4c5f25740a50",
+      "text": "Tal vez vaya contigo",
+      "file": "fa733d05-da80-4c28-b9e2-4c5f25740a50.mp3"
+    },
+    {
+      "uuid": "0740634a-8d6a-4866-adda-a4071f96c737",
+      "text": "El ejercicio",
+      "file": "0740634a-8d6a-4866-adda-a4071f96c737.mp3"
+    },
+    {
+      "uuid": "6d4681e1-6b75-47b2-80c4-84835a636a82",
+      "text": "El argumento",
+      "file": "6d4681e1-6b75-47b2-80c4-84835a636a82.mp3"
+    },
+    {
+      "uuid": "a38172a1-a4af-45f9-92e7-98ccf9392d79",
+      "text": "El boceto",
+      "file": "a38172a1-a4af-45f9-92e7-98ccf9392d79.mp3"
+    },
+    {
+      "uuid": "23c01677-d2f3-4d15-aa72-075b36e949f3",
+      "text": "Corrupción",
+      "file": "23c01677-d2f3-4d15-aa72-075b36e949f3.mp3"
+    },
+    {
+      "uuid": "1ed41f7d-1512-4cf7-96e9-93a0f78125b3",
+      "text": "La inteligencia artificial",
+      "file": "1ed41f7d-1512-4cf7-96e9-93a0f78125b3.mp3"
+    },
+    {
+      "uuid": "34c581cb-c076-4ead-89dd-23a4838b78d3",
+      "text": "Subjetivo/a",
+      "file": "34c581cb-c076-4ead-89dd-23a4838b78d3.mp3"
+    },
+    {
+      "uuid": "247bfaad-1a11-4e7f-b3a0-a261144e404e",
+      "text": "El fiscal",
+      "file": "247bfaad-1a11-4e7f-b3a0-a261144e404e.mp3"
+    },
+    {
+      "uuid": "485b2ca0-5eec-422c-901d-3ffcc762b0c0",
+      "text": "El punto de vista",
+      "file": "485b2ca0-5eec-422c-901d-3ffcc762b0c0.mp3"
+    },
+    {
+      "uuid": "ac958c60-95e0-40fd-a1a0-01b74ccc8786",
+      "text": "Comprobar",
+      "file": "ac958c60-95e0-40fd-a1a0-01b74ccc8786.mp3"
+    },
+    {
+      "uuid": "37fc89f2-b9ba-4e1a-8470-b18177f406a9",
+      "text": "El delito",
+      "file": "37fc89f2-b9ba-4e1a-8470-b18177f406a9.mp3"
+    },
+    {
+      "uuid": "47bde9e5-270b-4c88-91c7-fd32f55b26f2",
+      "text": "La hipótesis",
+      "file": "47bde9e5-270b-4c88-91c7-fd32f55b26f2.mp3"
+    },
+    {
+      "uuid": "180bdfa0-1fe7-453a-8b02-2e66f936ac83",
+      "text": "La nanotecnología",
+      "file": "180bdfa0-1fe7-453a-8b02-2e66f936ac83.mp3"
+    },
+    {
+      "uuid": "be2f8332-c9fc-44a4-a347-fbdb65dd6caa",
+      "text": "Obeso",
+      "file": "be2f8332-c9fc-44a4-a347-fbdb65dd6caa.mp3"
+    },
+    {
+      "uuid": "01195649-1b21-4335-8734-1db06f03d3ed",
+      "text": "El fraude",
+      "file": "01195649-1b21-4335-8734-1db06f03d3ed.mp3"
+    },
+    {
+      "uuid": "4032f4d1-7954-486f-b715-389e3bf4f38b",
+      "text": "Descubrir",
+      "file": "4032f4d1-7954-486f-b715-389e3bf4f38b.mp3"
+    },
+    {
+      "uuid": "c0eff7a3-3e6a-4e75-8bf4-9e1c1c9cb6ce",
+      "text": "La biotecnología",
+      "file": "c0eff7a3-3e6a-4e75-8bf4-9e1c1c9cb6ce.mp3"
+    },
+    {
+      "uuid": "e6616748-1a8a-4fa1-8952-922220d9d265",
+      "text": "La víctima",
+      "file": "e6616748-1a8a-4fa1-8952-922220d9d265.mp3"
+    },
+    {
+      "uuid": "08338f86-cff5-46f2-9e5a-7bfe7368cd83",
+      "text": "Cuando sea mayor",
+      "file": "08338f86-cff5-46f2-9e5a-7bfe7368cd83.mp3"
+    },
+    {
+      "uuid": "be035585-365b-49ef-9f82-acbc5336635b",
+      "text": "Estoy estudiando",
+      "file": "be035585-365b-49ef-9f82-acbc5336635b.mp3"
+    },
+    {
+      "uuid": "8150ed9d-e54a-4792-8def-92a1009b65ad",
+      "text": "La libertad",
+      "file": "8150ed9d-e54a-4792-8def-92a1009b65ad.mp3"
+    },
+    {
+      "uuid": "8fb8c4ba-eb00-4d08-84d5-3f888d5a1999",
+      "text": "La inversión",
+      "file": "8fb8c4ba-eb00-4d08-84d5-3f888d5a1999.mp3"
+    },
+    {
+      "uuid": "846d4be2-ac2d-44c1-bc68-48cdb1790d28",
+      "text": "El subsidio",
+      "file": "846d4be2-ac2d-44c1-bc68-48cdb1790d28.mp3"
+    },
+    {
+      "uuid": "a10421cb-a924-4a0e-ae53-b53bdc729891",
+      "text": "El elenco",
+      "file": "a10421cb-a924-4a0e-ae53-b53bdc729891.mp3"
+    },
+    {
+      "uuid": "6e827beb-1bc1-4616-b5c2-ab3d80ec1ca2",
+      "text": "Dudaba que funcionara",
+      "file": "6e827beb-1bc1-4616-b5c2-ab3d80ec1ca2.mp3"
+    },
+    {
+      "uuid": "ad8eabb9-a74d-4b97-baef-8f27e12a75b1",
+      "text": "Si fuera rico...",
+      "file": "ad8eabb9-a74d-4b97-baef-8f27e12a75b1.mp3"
+    },
+    {
+      "uuid": "84f25f5f-c91d-4b60-86ae-272f07116c00",
+      "text": "La seguridad",
+      "file": "84f25f5f-c91d-4b60-86ae-272f07116c00.mp3"
+    },
+    {
+      "uuid": "efd003d7-a10f-4972-8640-9c237679a76a",
+      "text": "Gerundio (-ando/-iendo)",
+      "file": "efd003d7-a10f-4972-8640-9c237679a76a.mp3"
+    },
+    {
+      "uuid": "8251e0ad-097a-4dc8-bfeb-8201e8005cb2",
+      "text": "La manifestación",
+      "file": "8251e0ad-097a-4dc8-bfeb-8201e8005cb2.mp3"
+    },
+    {
+      "uuid": "7438427e-4974-4849-8d1a-b9b988661af5",
+      "text": "Contemplar",
+      "file": "7438427e-4974-4849-8d1a-b9b988661af5.mp3"
+    },
+    {
+      "uuid": "61db4cad-115c-4c77-a1d7-2ea7e5644469",
+      "text": "Aunque no quiera",
+      "file": "61db4cad-115c-4c77-a1d7-2ea7e5644469.mp3"
+    },
+    {
+      "uuid": "6e40998b-0334-4f52-bcc0-cfac67e5adcf",
+      "text": "Actual",
+      "file": "6e40998b-0334-4f52-bcc0-cfac67e5adcf.mp3"
+    },
+    {
+      "uuid": "5d1f8a7e-c896-45fb-a6b8-7f0ade1a799f",
+      "text": "El cargo",
+      "file": "5d1f8a7e-c896-45fb-a6b8-7f0ade1a799f.mp3"
+    },
+    {
+      "uuid": "d2480130-6fdf-4678-a84e-e3beb56295af",
+      "text": "La vanguardia",
+      "file": "d2480130-6fdf-4678-a84e-e3beb56295af.mp3"
+    },
+    {
+      "uuid": "d0777ddf-2973-4595-901a-9d15331cb5df",
+      "text": "Sostener",
+      "file": "d0777ddf-2973-4595-901a-9d15331cb5df.mp3"
+    },
+    {
+      "uuid": "e715a828-946a-4a8f-ae2b-4d2606f85314",
+      "text": "Ella preguntó si iríamos",
+      "file": "e715a828-946a-4a8f-ae2b-4d2606f85314.mp3"
+    },
+    {
+      "uuid": "1a1d0d8e-0bf8-4e13-8191-9432759d31a6",
+      "text": "Los carbohidratos",
+      "file": "1a1d0d8e-0bf8-4e13-8191-9432759d31a6.mp3"
+    },
+    {
+      "uuid": "1b2bd54c-e06c-4679-86c0-f6889fbfdc2e",
+      "text": "La democracia",
+      "file": "1b2bd54c-e06c-4679-86c0-f6889fbfdc2e.mp3"
+    },
+    {
+      "uuid": "d81c5d30-8bd1-43f6-be40-d4706991bc1d",
+      "text": "Opinar",
+      "file": "d81c5d30-8bd1-43f6-be40-d4706991bc1d.mp3"
+    },
+    {
+      "uuid": "21e20cf2-c732-46b4-8a50-5a7a72ad5eda",
+      "text": "Razonable",
+      "file": "21e20cf2-c732-46b4-8a50-5a7a72ad5eda.mp3"
+    },
+    {
+      "uuid": "966c6a12-71be-4083-92f4-e20a99a17297",
+      "text": "La conclusión",
+      "file": "966c6a12-71be-4083-92f4-e20a99a17297.mp3"
+    },
+    {
+      "uuid": "3626c591-d359-4018-b525-4be42d9dc376",
+      "text": "Sigue trabajando",
+      "file": "3626c591-d359-4018-b525-4be42d9dc376.mp3"
+    },
+    {
+      "uuid": "55aa7813-a701-4a13-b004-9ea321c457cc",
+      "text": "El acuerdo",
+      "file": "55aa7813-a701-4a13-b004-9ea321c457cc.mp3"
+    },
+    {
+      "uuid": "b2b26887-ba8b-45a5-bba5-ffcc1228a275",
+      "text": "La elección",
+      "file": "b2b26887-ba8b-45a5-bba5-ffcc1228a275.mp3"
+    },
+    {
+      "uuid": "5f3ae714-a9b1-433a-b852-4403c2ff2f7b",
+      "text": "Subjuntivo imperfecto",
+      "file": "5f3ae714-a9b1-433a-b852-4403c2ff2f7b.mp3"
+    },
+    {
+      "uuid": "b6073690-9dd6-4584-a168-211f9a0d9df5",
+      "text": "El laboratorio",
+      "file": "b6073690-9dd6-4584-a168-211f9a0d9df5.mp3"
+    },
+    {
+      "uuid": "73d53c28-d022-4377-ae89-3b622ce0536d",
+      "text": "La prensa",
+      "file": "73d53c28-d022-4377-ae89-3b622ce0536d.mp3"
+    },
+    {
+      "uuid": "939c07fa-002c-42f8-9871-e6e9539b2b80",
+      "text": "El sospechoso",
+      "file": "939c07fa-002c-42f8-9871-e6e9539b2b80.mp3"
+    },
+    {
+      "uuid": "7d32c2e0-3e6b-4c11-b91b-bb5b60e3343c",
+      "text": "El jurado",
+      "file": "7d32c2e0-3e6b-4c11-b91b-bb5b60e3343c.mp3"
+    },
+    {
+      "uuid": "6bf4f260-533c-47ec-96fc-f271ccdaf481",
+      "text": "El socio",
+      "file": "6bf4f260-533c-47ec-96fc-f271ccdaf481.mp3"
+    },
+    {
+      "uuid": "eaa39e43-c572-42af-ab5b-1ba2f5f79ffe",
+      "text": "La solvencia",
+      "file": "eaa39e43-c572-42af-ab5b-1ba2f5f79ffe.mp3"
+    },
+    {
+      "uuid": "e37f3b7d-e5c7-4713-b41a-ef37500bf573",
+      "text": "Tal vez llegaras tarde",
+      "file": "e37f3b7d-e5c7-4713-b41a-ef37500bf573.mp3"
+    },
+    {
+      "uuid": "c4d473dc-d7df-4f83-93d4-d6d3dea94173",
+      "text": "La medicina",
+      "file": "c4d473dc-d7df-4f83-93d4-d6d3dea94173.mp3"
+    },
+    {
+      "uuid": "917b43f4-1a59-4979-92a9-394a203f5aab",
+      "text": "La perspectiva",
+      "file": "917b43f4-1a59-4979-92a9-394a203f5aab.mp3"
+    },
+    {
+      "uuid": "61a9d595-fc17-41c0-8ac0-2168b47875fd",
+      "text": "El consenso",
+      "file": "61a9d595-fc17-41c0-8ac0-2168b47875fd.mp3"
+    },
+    {
+      "uuid": "aa07c6ab-f905-4dce-8c3a-f8043dbc27b3",
+      "text": "La genética",
+      "file": "aa07c6ab-f905-4dce-8c3a-f8043dbc27b3.mp3"
+    },
+    {
+      "uuid": "63f0bf46-048b-4bad-94a3-6ddf4d76da3f",
+      "text": "Diagnosticado",
+      "file": "63f0bf46-048b-4bad-94a3-6ddf4d76da3f.mp3"
+    },
+    {
+      "uuid": "9ad6fc48-4563-49ad-866c-16a29b177a2d",
+      "text": "Quizás llueva hoy",
+      "file": "9ad6fc48-4563-49ad-866c-16a29b177a2d.mp3"
+    },
+    {
+      "uuid": "077af8ba-fe2e-4f6f-b693-907e3cf20403",
+      "text": "La fibra",
+      "file": "077af8ba-fe2e-4f6f-b693-907e3cf20403.mp3"
+    },
+    {
+      "uuid": "5a1a748c-11d6-4156-9090-53e5d7c1e077",
+      "text": "Imparcial",
+      "file": "5a1a748c-11d6-4156-9090-53e5d7c1e077.mp3"
+    },
+    {
+      "uuid": "66399351-bd92-41a8-8a86-7b0d1576c844",
+      "text": "Estilo Indirecto",
+      "file": "66399351-bd92-41a8-8a86-7b0d1576c844.mp3"
+    },
+    {
+      "uuid": "65e2dfb8-8e89-4af6-8bc0-907d0f8fbca4",
+      "text": "Tecnológico/a",
+      "file": "65e2dfb8-8e89-4af6-8bc0-907d0f8fbca4.mp3"
+    },
+    {
+      "uuid": "4156e7e6-c177-4e1b-b686-dacb14c1934e",
+      "text": "El periodista",
+      "file": "4156e7e6-c177-4e1b-b686-dacb14c1934e.mp3"
+    },
+    {
+      "uuid": "ca340557-126a-4dcf-901c-4632f3b7fd99",
+      "text": "Curar",
+      "file": "ca340557-126a-4dcf-901c-4632f3b7fd99.mp3"
+    },
+    {
+      "uuid": "db2e7fe5-4c98-44ff-8e02-55c88524b856",
+      "text": "La escultura",
+      "file": "db2e7fe5-4c98-44ff-8e02-55c88524b856.mp3"
+    },
+    {
+      "uuid": "12129dfa-12de-4f05-9879-b87ad717e3e0",
+      "text": "El informe",
+      "file": "12129dfa-12de-4f05-9879-b87ad717e3e0.mp3"
+    },
+    {
+      "uuid": "c9a42817-cc69-4b99-a00c-cf96fc69280d",
+      "text": "Interpretar",
+      "file": "c9a42817-cc69-4b99-a00c-cf96fc69280d.mp3"
+    },
+    {
+      "uuid": "107f2e42-88fc-4ef9-b43d-70717a4f8501",
+      "text": "Mantenerse en forma",
+      "file": "107f2e42-88fc-4ef9-b43d-70717a4f8501.mp3"
+    },
+    {
+      "uuid": "537f6ed7-b1c3-475e-9e18-3e2d434cf38f",
+      "text": "La composición",
+      "file": "537f6ed7-b1c3-475e-9e18-3e2d434cf38f.mp3"
+    },
+    {
+      "uuid": "ff50612f-fe8a-486b-a494-fa8d6d98d8df",
+      "text": "La postura",
+      "file": "ff50612f-fe8a-486b-a494-fa8d6d98d8df.mp3"
+    },
+    {
+      "uuid": "16cc587f-afd9-4bff-b6d3-848a04505478",
+      "text": "Desarrollar",
+      "file": "16cc587f-afd9-4bff-b6d3-848a04505478.mp3"
+    },
+    {
+      "uuid": "9e8121fe-4908-4e96-92e5-f86d76c61dff",
+      "text": "El arancel",
+      "file": "9e8121fe-4908-4e96-92e5-f86d76c61dff.mp3"
+    },
+    {
+      "uuid": "2de95eac-9deb-4d5b-9987-1d28cef3ccc5",
+      "text": "Científico/a",
+      "file": "2de95eac-9deb-4d5b-9987-1d28cef3ccc5.mp3"
+    },
+    {
+      "uuid": "51ca07b9-c476-40d9-ac90-cd4e4b538f1f",
+      "text": "La gestión",
+      "file": "51ca07b9-c476-40d9-ac90-cd4e4b538f1f.mp3"
+    },
+    {
+      "uuid": "13bdbdd1-679d-4321-add4-e742b81cceeb",
+      "text": "La muestra",
+      "file": "13bdbdd1-679d-4321-add4-e742b81cceeb.mp3"
+    },
+    {
+      "uuid": "d9cee863-c6d0-409d-b085-004a98ee15b8",
+      "text": "El ingreso",
+      "file": "d9cee863-c6d0-409d-b085-004a98ee15b8.mp3"
+    },
+    {
+      "uuid": "5d07e485-28a9-420c-8388-0d46a01e688a",
+      "text": "La sentencia",
+      "file": "5d07e485-28a9-420c-8388-0d46a01e688a.mp3"
+    },
+    {
+      "uuid": "371f5af6-426c-4573-b11d-212ecba8ab91",
+      "text": "El juicio",
+      "file": "371f5af6-426c-4573-b11d-212ecba8ab91.mp3"
+    },
+    {
+      "uuid": "e1da673c-810b-446d-856b-36225c079264",
+      "text": "El comercio",
+      "file": "e1da673c-810b-446d-856b-36225c079264.mp3"
+    },
+    {
+      "uuid": "ff09b517-2c3d-4a18-a450-8aaee12a73c1",
+      "text": "La defensa",
+      "file": "ff09b517-2c3d-4a18-a450-8aaee12a73c1.mp3"
+    },
+    {
+      "uuid": "c7103623-9fe7-4afc-bee9-4f33c7e8c2a4",
+      "text": "La pena",
+      "file": "c7103623-9fe7-4afc-bee9-4f33c7e8c2a4.mp3"
+    },
+    {
+      "uuid": "e29cae14-26fe-419d-8e14-bda0d6c48409",
+      "text": "La energía",
+      "file": "e29cae14-26fe-419d-8e14-bda0d6c48409.mp3"
+    },
+    {
+      "uuid": "87b681f6-ec4e-47c1-a74c-355df1596070",
+      "text": "La coartada",
+      "file": "87b681f6-ec4e-47c1-a74c-355df1596070.mp3"
+    },
+    {
+      "uuid": "7a4a1aa6-d7a0-4893-9077-6084e90c784b",
+      "text": "Argumentar",
+      "file": "7a4a1aa6-d7a0-4893-9077-6084e90c784b.mp3"
+    },
+    {
+      "uuid": "c7430704-a7dc-4e19-9ede-9ee1796a2868",
+      "text": "La robótica",
+      "file": "c7430704-a7dc-4e19-9ede-9ee1796a2868.mp3"
+    },
+    {
+      "uuid": "a98c27e6-08e4-4f8e-80c0-8efbc289aeb2",
+      "text": "A favor de",
+      "file": "a98c27e6-08e4-4f8e-80c0-8efbc289aeb2.mp3"
+    },
+    {
+      "uuid": "bcdce13a-d0a7-451f-8c73-52ff030b7c9a",
+      "text": "El escenario",
+      "file": "bcdce13a-d0a7-451f-8c73-52ff030b7c9a.mp3"
+    },
+    {
+      "uuid": "c25e7bd7-5e46-4f67-90e0-e13944f0af99",
+      "text": "La falacia",
+      "file": "c25e7bd7-5e46-4f67-90e0-e13944f0af99.mp3"
+    },
+    {
+      "uuid": "2f4e7de8-8bf6-42fc-a8c3-82b95b7a005c",
+      "text": "Demostrar",
+      "file": "2f4e7de8-8bf6-42fc-a8c3-82b95b7a005c.mp3"
+    },
+    {
+      "uuid": "086339c3-3ea9-4631-9220-2736e0bdc58a",
+      "text": "Es necesario que estudies",
+      "file": "086339c3-3ea9-4631-9220-2736e0bdc58a.mp3"
+    },
+    {
+      "uuid": "0a43bcc1-39f8-4d05-84c8-8b21670c7fe7",
+      "text": "La política",
+      "file": "0a43bcc1-39f8-4d05-84c8-8b21670c7fe7.mp3"
+    },
+    {
+      "uuid": "5b584efd-4af3-4464-8218-acc333b377e9",
+      "text": "La refutación",
+      "file": "5b584efd-4af3-4464-8218-acc333b377e9.mp3"
+    },
+    {
+      "uuid": "74266d20-1bd8-4156-8b6a-e0497a6f506f",
+      "text": "El juez",
+      "file": "74266d20-1bd8-4156-8b6a-e0497a6f506f.mp3"
+    },
+    {
+      "uuid": "c7a2bb88-1aaa-4365-afb3-1da9fa60e4a4",
+      "text": "Espero que vengas",
+      "file": "c7a2bb88-1aaa-4365-afb3-1da9fa60e4a4.mp3"
+    },
+    {
+      "uuid": "2a02230d-ca40-4176-97a3-65f85b5d0579",
+      "text": "El testimonio",
+      "file": "2a02230d-ca40-4176-97a3-65f85b5d0579.mp3"
+    },
+    {
+      "uuid": "18775a6b-b525-4554-84e0-bb42147a6eaf",
+      "text": "La acuarela",
+      "file": "18775a6b-b525-4554-84e0-bb42147a6eaf.mp3"
+    },
+    {
+      "uuid": "196d53bd-bb57-4f20-83c0-1fc5f6cf5703",
+      "text": "El préstamo",
+      "file": "196d53bd-bb57-4f20-83c0-1fc5f6cf5703.mp3"
+    },
+    {
+      "uuid": "de7d815c-bfc6-4b63-a173-27546f9cca00",
+      "text": "Ojalá hubieras ido",
+      "file": "de7d815c-bfc6-4b63-a173-27546f9cca00.mp3"
+    },
+    {
+      "uuid": "24b4bf05-b9ed-4ca3-8822-4adb5852f0b1",
+      "text": "La evidencia",
+      "file": "24b4bf05-b9ed-4ca3-8822-4adb5852f0b1.mp3"
+    },
+    {
+      "uuid": "ce1e713f-8e34-4788-b62d-ccbedb66dd85",
+      "text": "La textura",
+      "file": "ce1e713f-8e34-4788-b62d-ccbedb66dd85.mp3"
+    },
+    {
+      "uuid": "f65a122b-c65f-4e3f-97c8-a710e502f563",
+      "text": "En contra de",
+      "file": "f65a122b-c65f-4e3f-97c8-a710e502f563.mp3"
+    },
+    {
+      "uuid": "a5519e0b-91fa-479a-9197-ef1b08910c46",
+      "text": "El retrato",
+      "file": "a5519e0b-91fa-479a-9197-ef1b08910c46.mp3"
+    },
+    {
+      "uuid": "0c874d52-80d2-4837-954f-3b23906908df",
+      "text": "El claroscuro",
+      "file": "0c874d52-80d2-4837-954f-3b23906908df.mp3"
+    },
+    {
+      "uuid": "0fa7b111-1644-4f64-906e-07770227bf11",
+      "text": "La medida",
+      "file": "0fa7b111-1644-4f64-906e-07770227bf11.mp3"
+    },
+    {
+      "uuid": "ff4a159a-8fda-4efa-8182-fc0c7ef1252f",
+      "text": "Me pidió que esperara",
+      "file": "ff4a159a-8fda-4efa-8182-fc0c7ef1252f.mp3"
+    },
+    {
+      "uuid": "1ebe9116-63d9-4509-8d9e-b164299d091d",
+      "text": "La obra",
+      "file": "1ebe9116-63d9-4509-8d9e-b164299d091d.mp3"
+    },
+    {
+      "uuid": "d6611b29-13fa-4183-a30e-ed8735c1a48b",
+      "text": "Saludable",
+      "file": "d6611b29-13fa-4183-a30e-ed8735c1a48b.mp3"
+    },
+    {
+      "uuid": "e95eb489-ffd8-48e8-b18e-091cd21e57bc",
+      "text": "Validar",
+      "file": "e95eb489-ffd8-48e8-b18e-091cd21e57bc.mp3"
+    },
+    {
+      "uuid": "7b6f7b25-c95f-4e95-918e-ab021d4a827d",
+      "text": "Violar",
+      "file": "7b6f7b25-c95f-4e95-918e-ab021d4a827d.mp3"
+    },
+    {
+      "uuid": "6ca65c63-47a7-4392-bc3a-61f6fe2adba5",
+      "text": "Los medios",
+      "file": "6ca65c63-47a7-4392-bc3a-61f6fe2adba5.mp3"
+    },
+    {
+      "uuid": "b05f6e60-6bc8-4793-a150-b0615b5bf745",
+      "text": "Está lloviendo",
+      "file": "b05f6e60-6bc8-4793-a150-b0615b5bf745.mp3"
+    },
+    {
+      "uuid": "ab657d36-c57d-4b69-bcf9-00625342beef",
+      "text": "Incoherente",
+      "file": "ab657d36-c57d-4b69-bcf9-00625342beef.mp3"
+    },
+    {
+      "uuid": "f2b8fec5-7ef4-4d96-beac-5fa4420eae49",
+      "text": "Me alegró que vinieras",
+      "file": "f2b8fec5-7ef4-4d96-beac-5fa4420eae49.mp3"
+    },
+    {
+      "uuid": "00b85e1d-f246-4a07-8a6e-3a6a7c48f0e7",
+      "text": "El hardware",
+      "file": "00b85e1d-f246-4a07-8a6e-3a6a7c48f0e7.mp3"
+    },
+    {
+      "uuid": "d04096cb-88a9-471e-ad78-57fb03ce4264",
+      "text": "La longevidad",
+      "file": "d04096cb-88a9-471e-ad78-57fb03ce4264.mp3"
+    },
+    {
+      "uuid": "74dd14b9-31f1-4f14-b3a9-f32a403732d0",
+      "text": "El mercado",
+      "file": "74dd14b9-31f1-4f14-b3a9-f32a403732d0.mp3"
+    },
+    {
+      "uuid": "f571a16a-c659-405e-86a7-52481f30fae0",
+      "text": "La divisa",
+      "file": "f571a16a-c659-405e-86a7-52481f30fae0.mp3"
+    },
+    {
+      "uuid": "709eb385-18b3-4d10-a285-fe96915f1232",
+      "text": "Equilibrado",
+      "file": "709eb385-18b3-4d10-a285-fe96915f1232.mp3"
+    },
+    {
+      "uuid": "16ecd157-7380-477d-b3a7-8b0c35ec7a8c",
+      "text": "El tema",
+      "file": "16ecd157-7380-477d-b3a7-8b0c35ec7a8c.mp3"
+    },
+    {
+      "uuid": "58806c96-693b-4599-a6e3-7bbb55f4d21b",
+      "text": "El hábito",
+      "file": "58806c96-693b-4599-a6e3-7bbb55f4d21b.mp3"
+    },
+    {
+      "uuid": "b3fd95b6-e8e6-47de-85cf-913b057f68b1",
+      "text": "Dudo que sea verdad",
+      "file": "b3fd95b6-e8e6-47de-85cf-913b057f68b1.mp3"
+    },
+    {
+      "uuid": "84e0acef-e7d9-4642-8255-2386ff019f29",
+      "text": "El acontecimiento",
+      "file": "84e0acef-e7d9-4642-8255-2386ff019f29.mp3"
+    },
+    {
+      "uuid": "40c610cf-30d0-4188-a3b3-b3fc88e2c74f",
+      "text": "La exposición",
+      "file": "40c610cf-30d0-4188-a3b3-b3fc88e2c74f.mp3"
+    },
+    {
+      "uuid": "d18f553e-a027-46a6-89c5-fd3756073766",
+      "text": "La fuerza",
+      "file": "d18f553e-a027-46a6-89c5-fd3756073766.mp3"
+    },
+    {
+      "uuid": "fc92988a-4c7b-40ae-8afb-1e9bdb62d59f",
+      "text": "La innovación",
+      "file": "fc92988a-4c7b-40ae-8afb-1e9bdb62d59f.mp3"
+    },
+    {
+      "uuid": "3b08512c-048b-4860-9df0-533c80c03307",
+      "text": "La hidratación",
+      "file": "3b08512c-048b-4860-9df0-533c80c03307.mp3"
+    },
+    {
+      "uuid": "89febd46-7e8a-4267-8dff-d1c6d64f7cdd",
+      "text": "El presupuesto",
+      "file": "89febd46-7e8a-4267-8dff-d1c6d64f7cdd.mp3"
+    },
+    {
+      "uuid": "e8c9ae75-fcbf-46b2-a1d9-fe302a272e55",
+      "text": "La liquidez",
+      "file": "e8c9ae75-fcbf-46b2-a1d9-fe302a272e55.mp3"
+    },
+    {
+      "uuid": "185c609b-a250-40a6-91d8-6ff080d31683",
+      "text": "Detener",
+      "file": "185c609b-a250-40a6-91d8-6ff080d31683.mp3"
+    },
+    {
+      "uuid": "876ae0e9-223d-40bb-8be8-9e42996b67ed",
+      "text": "La premisa",
+      "file": "876ae0e9-223d-40bb-8be8-9e42996b67ed.mp3"
+    },
+    {
+      "uuid": "1d67bf12-c01b-4749-9a3a-1c764d10bb00",
+      "text": "La galería",
+      "file": "1d67bf12-c01b-4749-9a3a-1c764d10bb00.mp3"
+    },
+    {
+      "uuid": "33fc17f2-ff20-4b76-86df-e40f07e87acb",
+      "text": "Espero que descanses",
+      "file": "33fc17f2-ff20-4b76-86df-e40f07e87acb.mp3"
+    },
+    {
+      "uuid": "2c54ada9-b297-4db3-bd1b-e4761a95fcf4",
+      "text": "Los nutrientes",
+      "file": "2c54ada9-b297-4db3-bd1b-e4761a95fcf4.mp3"
+    },
+    {
+      "uuid": "c7262acf-e1dc-4044-a7c0-69a7b0497133",
+      "text": "Justificar",
+      "file": "c7262acf-e1dc-4044-a7c0-69a7b0497133.mp3"
+    },
+    {
+      "uuid": "b1d14bae-0156-4175-a39d-6a6212da71d0",
+      "text": "Haciendo planes",
+      "file": "b1d14bae-0156-4175-a39d-6a6212da71d0.mp3"
+    },
+    {
+      "uuid": "6f85f788-73b8-48d1-a2f7-c94ed0cf13aa",
+      "text": "El gen",
+      "file": "6f85f788-73b8-48d1-a2f7-c94ed0cf13aa.mp3"
+    },
+    {
+      "uuid": "df94719d-63f4-4da4-ad9e-2221aa2d56a4",
+      "text": "La convicción",
+      "file": "df94719d-63f4-4da4-ad9e-2221aa2d56a4.mp3"
+    },
+    {
+      "uuid": "3fd696d8-1913-4533-a2d8-6d0e0b789a04",
+      "text": "El beneficio",
+      "file": "3fd696d8-1913-4533-a2d8-6d0e0b789a04.mp3"
+    },
+    {
+      "uuid": "530c572d-c8b9-44c3-950e-2c768220e687",
+      "text": "El dibujo",
+      "file": "530c572d-c8b9-44c3-950e-2c768220e687.mp3"
+    },
+    {
+      "uuid": "b640a9ad-ad3d-437c-89a5-4c274cf2eeae",
+      "text": "La flexibilidad",
+      "file": "b640a9ad-ad3d-437c-89a5-4c274cf2eeae.mp3"
+    },
+    {
+      "uuid": "a2987411-83ef-4259-a031-a2bcc915d91f",
+      "text": "Condenar",
+      "file": "a2987411-83ef-4259-a031-a2bcc915d91f.mp3"
+    },
+    {
+      "uuid": "7df520e0-0144-4301-86ac-2f83d0683d66",
+      "text": "Ética científica",
+      "file": "7df520e0-0144-4301-86ac-2f83d0683d66.mp3"
+    },
+    {
+      "uuid": "8d8fa007-151b-4368-97f0-5bb3b6eb3654",
+      "text": "El discurso",
+      "file": "8d8fa007-151b-4368-97f0-5bb3b6eb3654.mp3"
+    },
+    {
+      "uuid": "11604783-9f35-4a62-8e8e-a9cbadb61a00",
+      "text": "La narrativa",
+      "file": "11604783-9f35-4a62-8e8e-a9cbadb61a00.mp3"
+    },
+    {
+      "uuid": "731876a2-c47d-47fe-9cb7-66d3e7202c67",
+      "text": "La receta",
+      "file": "731876a2-c47d-47fe-9cb7-66d3e7202c67.mp3"
+    },
+    {
+      "uuid": "da7a10e0-1b1d-42d8-a210-7a81bf5d4235",
+      "text": "El espectador",
+      "file": "da7a10e0-1b1d-42d8-a210-7a81bf5d4235.mp3"
+    },
+    {
+      "uuid": "cd951244-28f7-48d7-ba83-4ab05e430e19",
+      "text": "La dieta",
+      "file": "cd951244-28f7-48d7-ba83-4ab05e430e19.mp3"
+    },
+    {
+      "uuid": "0775bc6c-302d-4b53-b14e-4de907425e33",
+      "text": "El montaje",
+      "file": "0775bc6c-302d-4b53-b14e-4de907425e33.mp3"
+    },
+    {
+      "uuid": "59698715-36c4-4993-8e29-bf80520c8543",
+      "text": "Inocente",
+      "file": "59698715-36c4-4993-8e29-bf80520c8543.mp3"
+    },
+    {
+      "uuid": "25f80e37-97c7-435d-b7b6-44494e9eb38e",
+      "text": "El conflicto",
+      "file": "25f80e37-97c7-435d-b7b6-44494e9eb38e.mp3"
+    },
+    {
+      "uuid": "49edc005-13e1-49dc-a1d8-2de23ac66881",
+      "text": "Cuestionar",
+      "file": "49edc005-13e1-49dc-a1d8-2de23ac66881.mp3"
+    },
+    {
+      "uuid": "6b4603fc-08bc-40cf-a7b2-c464d7a7b023",
+      "text": "Quizás terminara pronto",
+      "file": "6b4603fc-08bc-40cf-a7b2-c464d7a7b023.mp3"
+    },
+    {
+      "uuid": "89ccf234-834f-4c56-bef6-305430a83243",
+      "text": "La inflación",
+      "file": "89ccf234-834f-4c56-bef6-305430a83243.mp3"
+    },
+    {
+      "uuid": "39ceef84-4dca-4bd4-8514-3735ecfe3310",
+      "text": "La actualidad",
+      "file": "39ceef84-4dca-4bd4-8514-3735ecfe3310.mp3"
+    },
+    {
+      "uuid": "2065bc9e-ddeb-4f59-b942-7d8cfa0a6e1d",
+      "text": "Sin que lo supieras",
+      "file": "2065bc9e-ddeb-4f59-b942-7d8cfa0a6e1d.mp3"
+    },
+    {
+      "uuid": "7dd565b4-3fe2-49a8-85d0-0fa9181fe603",
+      "text": "La rentabilidad",
+      "file": "7dd565b4-3fe2-49a8-85d0-0fa9181fe603.mp3"
+    },
+    {
+      "uuid": "e7ef7519-33d1-4097-b77a-92d4cce79969",
+      "text": "La tasa",
+      "file": "e7ef7519-33d1-4097-b77a-92d4cce79969.mp3"
+    },
+    {
+      "uuid": "8b01d863-7f69-4d77-8910-69ad74170c3b",
+      "text": "Siempre que tuvieras",
+      "file": "8b01d863-7f69-4d77-8910-69ad74170c3b.mp3"
+    },
+    {
+      "uuid": "fdb290c5-7ed2-4a44-b022-e008fc726a36",
+      "text": "Físico",
+      "file": "fdb290c5-7ed2-4a44-b022-e008fc726a36.mp3"
+    },
+    {
+      "uuid": "e125487e-1a5f-46c7-a1da-b29c2bfdab83",
+      "text": "El avance tecnológico",
+      "file": "e125487e-1a5f-46c7-a1da-b29c2bfdab83.mp3"
+    },
+    {
+      "uuid": "b8a8ed5e-de26-4074-9ec3-435a8a761518",
+      "text": "La deuda",
+      "file": "b8a8ed5e-de26-4074-9ec3-435a8a761518.mp3"
+    },
+    {
+      "uuid": "e7abbdc4-f637-4ed3-99fa-68e57a2cfec1",
+      "text": "Exportar",
+      "file": "e7abbdc4-f637-4ed3-99fa-68e57a2cfec1.mp3"
+    },
+    {
+      "uuid": "35878c85-2190-4468-a2bc-81c0b64c382c",
+      "text": "Discrepar",
+      "file": "35878c85-2190-4468-a2bc-81c0b64c382c.mp3"
+    },
+    {
+      "uuid": "2aabb1b6-efe1-4b9f-aa67-7e2eabc669d8",
+      "text": "El derecho",
+      "file": "2aabb1b6-efe1-4b9f-aa67-7e2eabc669d8.mp3"
+    },
+    {
+      "uuid": "d38c89f6-ea5e-416b-a496-d496eef43d4f",
+      "text": "La prueba",
+      "file": "d38c89f6-ea5e-416b-a496-d496eef43d4f.mp3"
+    },
+    {
+      "uuid": "f76922d5-6c5b-4b1a-8359-e8659d087f1e",
+      "text": "La demanda",
+      "file": "f76922d5-6c5b-4b1a-8359-e8659d087f1e.mp3"
+    },
+    {
+      "uuid": "93035b66-0a31-48ab-863c-d8a7f960acf4",
+      "text": "Importar",
+      "file": "93035b66-0a31-48ab-863c-d8a7f960acf4.mp3"
+    },
+    {
+      "uuid": "d429c293-8eb8-4475-aa06-0377f36853cc",
+      "text": "Inspirarse",
+      "file": "d429c293-8eb8-4475-aa06-0377f36853cc.mp3"
+    },
+    {
+      "uuid": "d3909175-ad86-41f2-baab-67eb74f568f2",
+      "text": "El estilo",
+      "file": "d3909175-ad86-41f2-baab-67eb74f568f2.mp3"
+    },
+    {
+      "uuid": "da48c2ed-03f3-4893-8beb-999bd9229573",
+      "text": "La fuente",
+      "file": "da48c2ed-03f3-4893-8beb-999bd9229573.mp3"
+    },
+    {
+      "uuid": "a0ff4caa-219c-4821-bb3b-39e2dd97aef9",
+      "text": "Deducir",
+      "file": "a0ff4caa-219c-4821-bb3b-39e2dd97aef9.mp3"
+    },
+    {
+      "uuid": "48df825c-0a20-4098-b409-f4a9dcda1913",
+      "text": "La diplomacia",
+      "file": "48df825c-0a20-4098-b409-f4a9dcda1913.mp3"
+    },
+    {
+      "uuid": "dcaeb468-68f6-4d02-9460-9cd453a159e9",
+      "text": "El dato",
+      "file": "dcaeb468-68f6-4d02-9460-9cd453a159e9.mp3"
+    },
+    {
+      "uuid": "4c856d1b-3835-4c82-b4fb-cc9623ec9cfc",
+      "text": "Culpable",
+      "file": "4c856d1b-3835-4c82-b4fb-cc9623ec9cfc.mp3"
+    },
+    {
+      "uuid": "8668c44d-d22f-49a3-af0f-2977dec45bb9",
+      "text": "Objetivo/a",
+      "file": "8668c44d-d22f-49a3-af0f-2977dec45bb9.mp3"
+    },
+    {
+      "uuid": "8b19e177-2094-4aea-9aea-ba3ff502a090",
+      "text": "No creía que fuera él",
+      "file": "8b19e177-2094-4aea-9aea-ba3ff502a090.mp3"
+    },
+    {
+      "uuid": "d7743353-e75d-430d-baed-da484dba1f02",
+      "text": "Quería que vinieras",
+      "file": "d7743353-e75d-430d-baed-da484dba1f02.mp3"
+    },
+    {
+      "uuid": "c953677e-dbf1-48da-95f6-df5ca2184023",
+      "text": "Confirmar",
+      "file": "c953677e-dbf1-48da-95f6-df5ca2184023.mp3"
+    },
+    {
+      "uuid": "701c4bcd-5c58-4677-b4e7-8ff5a6611937",
+      "text": "El síntoma",
+      "file": "701c4bcd-5c58-4677-b4e7-8ff5a6611937.mp3"
+    },
+    {
+      "uuid": "71c5c184-3b8d-4756-982a-7ede126fe43a",
+      "text": "El lienzo",
+      "file": "71c5c184-3b8d-4756-982a-7ede126fe43a.mp3"
+    },
+    {
+      "uuid": "41657caf-2e7b-40b1-bc8d-2458b3637847",
+      "text": "Las vitaminas",
+      "file": "41657caf-2e7b-40b1-bc8d-2458b3637847.mp3"
+    },
+    {
+      "uuid": "babc438b-4798-421c-8ad4-a05c087e7284",
+      "text": "Mental",
+      "file": "babc438b-4798-421c-8ad4-a05c087e7284.mp3"
+    },
+    {
+      "uuid": "72a7f898-6708-4800-af73-d585a962c7f8",
+      "text": "La coherencia",
+      "file": "72a7f898-6708-4800-af73-d585a962c7f8.mp3"
+    },
+    {
+      "uuid": "35156be3-09d8-406d-8547-1914b495c905",
+      "text": "Verificar",
+      "file": "35156be3-09d8-406d-8547-1914b495c905.mp3"
+    },
+    {
+      "uuid": "1ff9505e-dc77-4d65-b085-1f9b1a247b2c",
+      "text": "El titular",
+      "file": "1ff9505e-dc77-4d65-b085-1f9b1a247b2c.mp3"
+    },
+    {
+      "uuid": "d6e6427a-b35b-4d56-a14c-34447b2e5ae2",
+      "text": "El bienestar",
+      "file": "d6e6427a-b35b-4d56-a14c-34447b2e5ae2.mp3"
+    },
+    {
+      "uuid": "234cfca2-a682-4935-93b1-0572508f49e8",
+      "text": "La apelación",
+      "file": "234cfca2-a682-4935-93b1-0572508f49e8.mp3"
+    },
+    {
+      "uuid": "4fa6b0b7-2d39-412a-a9c5-e37707bdc5bb",
+      "text": "La patente",
+      "file": "4fa6b0b7-2d39-412a-a9c5-e37707bdc5bb.mp3"
+    },
+    {
+      "uuid": "65da41d6-cc57-48a0-9322-33eaa6e13fbb",
+      "text": "Coincidir",
+      "file": "65da41d6-cc57-48a0-9322-33eaa6e13fbb.mp3"
+    },
+    {
+      "uuid": "beb0c6ea-f709-4e20-b3ca-0adaaee664fb",
+      "text": "La trama",
+      "file": "beb0c6ea-f709-4e20-b3ca-0adaaee664fb.mp3"
+    },
+    {
+      "uuid": "cf71c2c3-88ca-4d41-a741-1cce9e61d9bb",
+      "text": "El activo",
+      "file": "cf71c2c3-88ca-4d41-a741-1cce9e61d9bb.mp3"
+    },
+    {
+      "uuid": "c3385806-097f-4468-9ade-249231400c88",
+      "text": "Diciendo la verdad",
+      "file": "c3385806-097f-4468-9ade-249231400c88.mp3"
+    },
+    {
+      "uuid": "97701a28-2f96-404d-a902-6e77f2065114",
+      "text": "Prevenir",
+      "file": "97701a28-2f96-404d-a902-6e77f2065114.mp3"
+    },
+    {
+      "uuid": "37478196-754b-46bb-a7a3-0eb53c1892f7",
+      "text": "Experimentar",
+      "file": "37478196-754b-46bb-a7a3-0eb53c1892f7.mp3"
+    },
+    {
+      "uuid": "1baea3a6-18dd-4616-b087-728d2866be25",
+      "text": "La retrospectiva",
+      "file": "1baea3a6-18dd-4616-b087-728d2866be25.mp3"
+    },
+    {
+      "uuid": "bf7e12dc-ba76-4ff0-a53b-8300fa899b68",
+      "text": "La pérdida",
+      "file": "bf7e12dc-ba76-4ff0-a53b-8300fa899b68.mp3"
+    },
+    {
+      "uuid": "ce699fe1-0a82-4773-bdb2-032abc782d27",
+      "text": "La sostenibilidad",
+      "file": "ce699fe1-0a82-4773-bdb2-032abc782d27.mp3"
+    },
+    {
+      "uuid": "904757a4-13fd-44e1-bbf7-21e41ebaae68",
+      "text": "La cárcel",
+      "file": "904757a4-13fd-44e1-bbf7-21e41ebaae68.mp3"
+    },
+    {
+      "uuid": "9ac51673-b62a-408d-8460-22180ffe686c",
+      "text": "La ley",
+      "file": "9ac51673-b62a-408d-8460-22180ffe686c.mp3"
+    },
+    {
+      "uuid": "b58b3be0-36ac-4fcc-b0ee-809526e78a9f",
+      "text": "Innovador/a",
+      "file": "b58b3be0-36ac-4fcc-b0ee-809526e78a9f.mp3"
+    },
+    {
+      "uuid": "d1dd4260-a06b-44ca-b5ca-dc01eda7fd1a",
+      "text": "El desarrollo",
+      "file": "d1dd4260-a06b-44ca-b5ca-dc01eda7fd1a.mp3"
+    },
+    {
+      "uuid": "48153e3b-f70d-4ea0-9774-2047ab83663b",
+      "text": "Veraz",
+      "file": "48153e3b-f70d-4ea0-9774-2047ab83663b.mp3"
+    },
+    {
+      "uuid": "fa8ee063-07ea-40c2-8863-35fef02c0a13",
+      "text": "Aseverar",
+      "file": "fa8ee063-07ea-40c2-8863-35fef02c0a13.mp3"
+    },
+    {
+      "uuid": "ab8fd69d-70e7-4726-99f3-22f615f07dcb",
+      "text": "La complicidad",
+      "file": "ab8fd69d-70e7-4726-99f3-22f615f07dcb.mp3"
+    },
+    {
+      "uuid": "4c16060e-2d8a-43ac-b2d2-2badcf4f0a4a",
+      "text": "Justificado",
+      "file": "4c16060e-2d8a-43ac-b2d2-2badcf4f0a4a.mp3"
+    },
+    {
+      "uuid": "c08d4f5c-a4fe-4951-b61d-e0753b4455ae",
+      "text": "Contradictorio",
+      "file": "c08d4f5c-a4fe-4951-b61d-e0753b4455ae.mp3"
+    },
+    {
+      "uuid": "0b1a364b-b20d-475c-add4-5158b30eb3d3",
+      "text": "La negligencia",
+      "file": "0b1a364b-b20d-475c-add4-5158b30eb3d3.mp3"
+    },
+    {
+      "uuid": "720ac324-0992-490b-8328-c04fcaf83c86",
+      "text": "El balance",
+      "file": "720ac324-0992-490b-8328-c04fcaf83c86.mp3"
+    },
+    {
+      "uuid": "0828696e-67a5-4c8d-acaa-de1b123f20e1",
+      "text": "La oferta",
+      "file": "0828696e-67a5-4c8d-acaa-de1b123f20e1.mp3"
+    },
+    {
+      "uuid": "d4d0aa25-26af-40bd-83f7-df51d6b7691d",
+      "text": "Refutar",
+      "file": "d4d0aa25-26af-40bd-83f7-df51d6b7691d.mp3"
+    },
+    {
+      "uuid": "525deb59-d785-43dd-941a-c64e474505d2",
+      "text": "El protagonista",
+      "file": "525deb59-d785-43dd-941a-c64e474505d2.mp3"
+    },
+    {
+      "uuid": "80dc581b-42ee-4a63-ae02-2f9836c8fc56",
+      "text": "Antes de que salieras",
+      "file": "80dc581b-42ee-4a63-ae02-2f9836c8fc56.mp3"
+    },
+    {
+      "uuid": "9f9a5287-9671-41d3-b715-5714ac7edf29",
+      "text": "La resistencia",
+      "file": "9f9a5287-9671-41d3-b715-5714ac7edf29.mp3"
+    },
+    {
+      "uuid": "497e2871-3182-4187-a620-6badcaee10c2",
+      "text": "Polémico/a",
+      "file": "497e2871-3182-4187-a620-6badcaee10c2.mp3"
+    },
+    {
+      "uuid": "8a74d73c-bd02-43e3-b6e7-176c9014e7d9",
+      "text": "Interrogar",
+      "file": "8a74d73c-bd02-43e3-b6e7-176c9014e7d9.mp3"
+    },
+    {
+      "uuid": "cac1080c-0ecc-4126-9719-38e69bfc484e",
+      "text": "Para que entendieras",
+      "file": "cac1080c-0ecc-4126-9719-38e69bfc484e.mp3"
+    },
+    {
+      "uuid": "68e683ee-8e02-4cf2-ae0c-f51617fb6f6d",
+      "text": "El sector",
+      "file": "68e683ee-8e02-4cf2-ae0c-f51617fb6f6d.mp3"
+    },
+    {
+      "uuid": "9b91eab2-be30-4bb4-9038-1369838d369f",
+      "text": "El guion",
+      "file": "9b91eab2-be30-4bb4-9038-1369838d369f.mp3"
+    },
+    {
+      "uuid": "d2fa0315-242e-45d4-b085-8d705fc23e81",
+      "text": "La meditación",
+      "file": "d2fa0315-242e-45d4-b085-8d705fc23e81.mp3"
+    },
+    {
+      "uuid": "b50e971d-8b07-4409-a3a7-0653fcbec8bc",
+      "text": "Electoral",
+      "file": "b50e971d-8b07-4409-a3a7-0653fcbec8bc.mp3"
+    },
+    {
+      "uuid": "7daaefe0-b5c0-44f6-b50a-7648b77efa23",
+      "text": "Las proteínas",
+      "file": "7daaefe0-b5c0-44f6-b50a-7648b77efa23.mp3"
+    },
+    {
+      "uuid": "48436f01-cbf4-4bc8-8ea5-bc9554ea4eed",
+      "text": "El volumen",
+      "file": "48436f01-cbf4-4bc8-8ea5-bc9554ea4eed.mp3"
+    },
+    {
+      "uuid": "82646dd1-b0ac-40ec-a578-84af10e62338",
+      "text": "El software",
+      "file": "82646dd1-b0ac-40ec-a578-84af10e62338.mp3"
+    },
+    {
+      "uuid": "5fb8a8f9-6dec-451e-8b5a-c616a2a2263e",
+      "text": "Él dijo que vendría",
+      "file": "5fb8a8f9-6dec-451e-8b5a-c616a2a2263e.mp3"
+    },
+    {
+      "uuid": "04c3cb31-fab0-4623-8491-d9c9e1e210cb",
+      "text": "Tratamiento",
+      "file": "04c3cb31-fab0-4623-8491-d9c9e1e210cb.mp3"
+    },
+    {
+      "uuid": "7b0d9abe-0d2c-42e3-84f3-20a882df9f5e",
+      "text": "El pigmento",
+      "file": "7b0d9abe-0d2c-42e3-84f3-20a882df9f5e.mp3"
+    },
+    {
+      "uuid": "8f6e5b36-f1ce-4405-8b44-30231a71eabd",
+      "text": "La corriente",
+      "file": "8f6e5b36-f1ce-4405-8b44-30231a71eabd.mp3"
+    },
+    {
+      "uuid": "a9cf8f3d-2f21-46d6-9927-d7590a58acad",
+      "text": "Cardiovascular",
+      "file": "a9cf8f3d-2f21-46d6-9927-d7590a58acad.mp3"
+    },
+    {
+      "uuid": "68371827-927e-4c5a-944b-a87eeadcd7f7",
+      "text": "La afirmación",
+      "file": "68371827-927e-4c5a-944b-a87eeadcd7f7.mp3"
+    }
+  ],
+  "skipped": [],
+  "failed": []
+}
