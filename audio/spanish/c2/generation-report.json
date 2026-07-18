@@ -1,0 +1,761 @@
+{
+  "generated": [
+    {
+      "uuid": "4ad75ca5-a323-4041-9038-f4f8cabe6cd3",
+      "text": "Sustentar",
+      "file": "4ad75ca5-a323-4041-9038-f4f8cabe6cd3.mp3"
+    },
+    {
+      "uuid": "ca0a4de3-c8c4-4b57-8a11-6b95e5258014",
+      "text": "Objetividad",
+      "file": "ca0a4de3-c8c4-4b57-8a11-6b95e5258014.mp3"
+    },
+    {
+      "uuid": "b356dd90-baf4-4187-a29c-a30ea6224858",
+      "text": "Connotación",
+      "file": "b356dd90-baf4-4187-a29c-a30ea6224858.mp3"
+    },
+    {
+      "uuid": "d37227dc-e109-4e19-9d36-88757ad37bb2",
+      "text": "Eudaimonía",
+      "file": "d37227dc-e109-4e19-9d36-88757ad37bb2.mp3"
+    },
+    {
+      "uuid": "15585f88-805b-467d-99e6-7d0f594c6174",
+      "text": "Estructura ética",
+      "file": "15585f88-805b-467d-99e6-7d0f594c6174.mp3"
+    },
+    {
+      "uuid": "ffd2b398-6471-4da6-ad43-c3150acd75e5",
+      "text": "Sutileza",
+      "file": "ffd2b398-6471-4da6-ad43-c3150acd75e5.mp3"
+    },
+    {
+      "uuid": "f9a2007b-3ae3-4950-bd82-c22202c32948",
+      "text": "Sobrentendido",
+      "file": "f9a2007b-3ae3-4950-bd82-c22202c32948.mp3"
+    },
+    {
+      "uuid": "686b89bb-9c83-42b6-84ce-fdbbc79c816d",
+      "text": "Estar al pie del cañón",
+      "file": "686b89bb-9c83-42b6-84ce-fdbbc79c816d.mp3"
+    },
+    {
+      "uuid": "1285b54e-c41b-4dbc-8f12-9ee573421137",
+      "text": "Estructura",
+      "file": "1285b54e-c41b-4dbc-8f12-9ee573421137.mp3"
+    },
+    {
+      "uuid": "85631a41-f447-44d0-b8fe-a446bb35e0d0",
+      "text": "Hipótesis",
+      "file": "85631a41-f447-44d0-b8fe-a446bb35e0d0.mp3"
+    },
+    {
+      "uuid": "0999e73a-95d9-4c66-934a-cfb85343aa34",
+      "text": "Justicia restaurativa",
+      "file": "0999e73a-95d9-4c66-934a-cfb85343aa34.mp3"
+    },
+    {
+      "uuid": "c9604dd6-6cc6-42fa-a1cd-82bfaa76d4fa",
+      "text": "Perspectiva",
+      "file": "c9604dd6-6cc6-42fa-a1cd-82bfaa76d4fa.mp3"
+    },
+    {
+      "uuid": "3a555ceb-3ef3-45d8-a0fa-baf7ef7d005c",
+      "text": "Elocuencia",
+      "file": "3a555ceb-3ef3-45d8-a0fa-baf7ef7d005c.mp3"
+    },
+    {
+      "uuid": "3680d268-cde3-4ec6-bd1a-0d152f33a1c7",
+      "text": "Realismo",
+      "file": "3680d268-cde3-4ec6-bd1a-0d152f33a1c7.mp3"
+    },
+    {
+      "uuid": "8de2d503-9c61-4469-85e5-ce29cbab22cb",
+      "text": "Ironía",
+      "file": "8de2d503-9c61-4469-85e5-ce29cbab22cb.mp3"
+    },
+    {
+      "uuid": "2e9e9bb0-29b4-4fcf-8b3d-76960143e457",
+      "text": "Libre albedrío",
+      "file": "2e9e9bb0-29b4-4fcf-8b3d-76960143e457.mp3"
+    },
+    {
+      "uuid": "c5cae42e-0d32-406d-83dc-0b3d17a377e0",
+      "text": "Alegoría",
+      "file": "c5cae42e-0d32-406d-83dc-0b3d17a377e0.mp3"
+    },
+    {
+      "uuid": "dad3cc47-5945-4fcc-bdcd-152ce3ddfeee",
+      "text": "Imparcialidad",
+      "file": "dad3cc47-5945-4fcc-bdcd-152ce3ddfeee.mp3"
+    },
+    {
+      "uuid": "26d95a78-5e09-4c77-b64f-2416febce148",
+      "text": "Axiología",
+      "file": "26d95a78-5e09-4c77-b64f-2416febce148.mp3"
+    },
+    {
+      "uuid": "6d1d69dd-21c6-4cbd-8de9-72a57fc7c2f2",
+      "text": "Sanción administrativa",
+      "file": "6d1d69dd-21c6-4cbd-8de9-72a57fc7c2f2.mp3"
+    },
+    {
+      "uuid": "ac0cdd80-2a9c-44c8-aca6-941717ec347e",
+      "text": "Implícito",
+      "file": "ac0cdd80-2a9c-44c8-aca6-941717ec347e.mp3"
+    },
+    {
+      "uuid": "c6aad65b-65d1-4f65-b8b7-a11b7ca10eef",
+      "text": "Paradoja",
+      "file": "c6aad65b-65d1-4f65-b8b7-a11b7ca10eef.mp3"
+    },
+    {
+      "uuid": "2e73ad2a-1d12-476b-ae3f-b7bf94d7fee3",
+      "text": "Echar leña al fuego",
+      "file": "2e73ad2a-1d12-476b-ae3f-b7bf94d7fee3.mp3"
+    },
+    {
+      "uuid": "fdd7ca80-e94d-4730-9ca4-5bdb9cbf0bcd",
+      "text": "Ser un cero a la izquierda",
+      "file": "fdd7ca80-e94d-4730-9ca4-5bdb9cbf0bcd.mp3"
+    },
+    {
+      "uuid": "421ed374-2d31-40c0-89ed-e881f095909a",
+      "text": "Género",
+      "file": "421ed374-2d31-40c0-89ed-e881f095909a.mp3"
+    },
+    {
+      "uuid": "e0a41e37-f91b-4173-9361-a8fd613595b7",
+      "text": "Altruismo",
+      "file": "e0a41e37-f91b-4173-9361-a8fd613595b7.mp3"
+    },
+    {
+      "uuid": "8a1f7d51-f216-4208-8907-d9ae6433da7a",
+      "text": "Dicotomía",
+      "file": "8a1f7d51-f216-4208-8907-d9ae6433da7a.mp3"
+    },
+    {
+      "uuid": "22fb4e92-2d8c-4999-afcc-5e48fdf258d8",
+      "text": "Syllogismo",
+      "file": "22fb4e92-2d8c-4999-afcc-5e48fdf258d8.mp3"
+    },
+    {
+      "uuid": "de4a8e6f-2786-4b10-9754-9b8f5e360b5e",
+      "text": "Dubitativo",
+      "file": "de4a8e6f-2786-4b10-9754-9b8f5e360b5e.mp3"
+    },
+    {
+      "uuid": "2e888f33-aa56-45a7-9f61-60f53be5a03f",
+      "text": "Alineación estratégica",
+      "file": "2e888f33-aa56-45a7-9f61-60f53be5a03f.mp3"
+    },
+    {
+      "uuid": "d3cbd9b2-2255-4ca2-a865-9d3ac9182d96",
+      "text": "Negociación integrativa",
+      "file": "d3cbd9b2-2255-4ca2-a865-9d3ac9182d96.mp3"
+    },
+    {
+      "uuid": "12541387-2f8a-4ce3-8029-9e32bf159d46",
+      "text": "Epistemología",
+      "file": "12541387-2f8a-4ce3-8029-9e32bf159d46.mp3"
+    },
+    {
+      "uuid": "bac60048-9870-46a9-a189-a8f13dce8b7d",
+      "text": "Imperativo categórico",
+      "file": "bac60048-9870-46a9-a189-a8f13dce8b7d.mp3"
+    },
+    {
+      "uuid": "0b208bb7-e8bd-411c-8e21-c8edd80d5299",
+      "text": "Clímax",
+      "file": "0b208bb7-e8bd-411c-8e21-c8edd80d5299.mp3"
+    },
+    {
+      "uuid": "5c171d62-5472-4ca2-a3d2-504cc8d4fbe2",
+      "text": "Punto muerto",
+      "file": "5c171d62-5472-4ca2-a3d2-504cc8d4fbe2.mp3"
+    },
+    {
+      "uuid": "0c029c56-95d4-4d80-a6fb-76de63c30226",
+      "text": "Cláusula penal",
+      "file": "0c029c56-95d4-4d80-a6fb-76de63c30226.mp3"
+    },
+    {
+      "uuid": "0119faaa-dc5c-4bae-8034-d321c8a2afaa",
+      "text": "Negociación distributiva",
+      "file": "0119faaa-dc5c-4bae-8034-d321c8a2afaa.mp3"
+    },
+    {
+      "uuid": "bf3947e4-0be5-46e5-9daa-dade65f07895",
+      "text": "Entrelíneas",
+      "file": "bf3947e4-0be5-46e5-9daa-dade65f07895.mp3"
+    },
+    {
+      "uuid": "9fecb8b5-40dd-4c17-b1c7-486835898f3d",
+      "text": "Acta de acuerdo",
+      "file": "9fecb8b5-40dd-4c17-b1c7-486835898f3d.mp3"
+    },
+    {
+      "uuid": "067bb1d1-8ad8-44aa-8c8a-3dac87111dc6",
+      "text": "Cláusula de indemnización",
+      "file": "067bb1d1-8ad8-44aa-8c8a-3dac87111dc6.mp3"
+    },
+    {
+      "uuid": "2825f2e8-d493-4a31-84f3-46ea309413b4",
+      "text": "Hipérbole",
+      "file": "2825f2e8-d493-4a31-84f3-46ea309413b4.mp3"
+    },
+    {
+      "uuid": "39f1b4f5-6bed-4c9f-9f3b-9666d9898b66",
+      "text": "Interpretación",
+      "file": "39f1b4f5-6bed-4c9f-9f3b-9666d9898b66.mp3"
+    },
+    {
+      "uuid": "31833327-12d5-427b-a4c9-b20231fe4fc6",
+      "text": "Estar en babia",
+      "file": "31833327-12d5-427b-a4c9-b20231fe4fc6.mp3"
+    },
+    {
+      "uuid": "78e4ac1d-6008-4aa9-9cfe-55939f4f239d",
+      "text": "Existencia",
+      "file": "78e4ac1d-6008-4aa9-9cfe-55939f4f239d.mp3"
+    },
+    {
+      "uuid": "a0a408db-5200-48f4-b126-62a7dc5fe2cd",
+      "text": "Narrativa",
+      "file": "a0a408db-5200-48f4-b126-62a7dc5fe2cd.mp3"
+    },
+    {
+      "uuid": "a7ca0e74-f4d4-45c4-805b-4107fef33f4a",
+      "text": "Estilo",
+      "file": "a7ca0e74-f4d4-45c4-805b-4107fef33f4a.mp3"
+    },
+    {
+      "uuid": "c1db988c-2166-4a3a-86a0-72be0d9a24a6",
+      "text": "Cláusula de exclusividad",
+      "file": "c1db988c-2166-4a3a-86a0-72be0d9a24a6.mp3"
+    },
+    {
+      "uuid": "4078558b-c167-4b3b-8ba8-fcdca2a20241",
+      "text": "Sarcasmo",
+      "file": "4078558b-c167-4b3b-8ba8-fcdca2a20241.mp3"
+    },
+    {
+      "uuid": "433c178d-a7ee-469f-b5f3-114196d848f9",
+      "text": "Deontología",
+      "file": "433c178d-a7ee-469f-b5f3-114196d848f9.mp3"
+    },
+    {
+      "uuid": "c125ec6c-56f2-4633-8fae-78670231a398",
+      "text": "Dormirse en los laureles",
+      "file": "c125ec6c-56f2-4633-8fae-78670231a398.mp3"
+    },
+    {
+      "uuid": "8ebff51a-94e6-4c15-ae9d-9cf092d89c69",
+      "text": "Postura",
+      "file": "8ebff51a-94e6-4c15-ae9d-9cf092d89c69.mp3"
+    },
+    {
+      "uuid": "2e7ca9fd-74bb-4186-90a8-e49c4dbf87ce",
+      "text": "Inferencia",
+      "file": "2e7ca9fd-74bb-4186-90a8-e49c4dbf87ce.mp3"
+    },
+    {
+      "uuid": "d5d00be0-702a-48ec-97bb-b2f0811df73d",
+      "text": "Propuesta de valor",
+      "file": "d5d00be0-702a-48ec-97bb-b2f0811df73d.mp3"
+    },
+    {
+      "uuid": "3b757f8a-9a2f-4b6e-babb-f0f883bdc6fc",
+      "text": "Justicia distributiva",
+      "file": "3b757f8a-9a2f-4b6e-babb-f0f883bdc6fc.mp3"
+    },
+    {
+      "uuid": "f8a672d8-a151-4819-a479-7beaf84a7e6e",
+      "text": "Objeción de conciencia",
+      "file": "f8a672d8-a151-4819-a479-7beaf84a7e6e.mp3"
+    },
+    {
+      "uuid": "0e1c1448-6a54-4d0b-b05d-29164f281728",
+      "text": "Esencia",
+      "file": "0e1c1448-6a54-4d0b-b05d-29164f281728.mp3"
+    },
+    {
+      "uuid": "52835300-a5d7-4a19-986f-61a943e24ceb",
+      "text": "Romanticismo",
+      "file": "52835300-a5d7-4a19-986f-61a943e24ceb.mp3"
+    },
+    {
+      "uuid": "b2055d20-c367-44c6-9235-8ee2ecd464f9",
+      "text": "No tener abuela",
+      "file": "b2055d20-c367-44c6-9235-8ee2ecd464f9.mp3"
+    },
+    {
+      "uuid": "670dd5ac-a346-4bd3-b67b-8a06513572c7",
+      "text": "Utilitarismo",
+      "file": "670dd5ac-a346-4bd3-b67b-8a06513572c7.mp3"
+    },
+    {
+      "uuid": "92e07bd8-b404-48cf-8cc0-0db6502f3a87",
+      "text": "Coherencia",
+      "file": "92e07bd8-b404-48cf-8cc0-0db6502f3a87.mp3"
+    },
+    {
+      "uuid": "b8ed4c08-6990-44b0-9be8-09bd8e4514a5",
+      "text": "Mediación",
+      "file": "b8ed4c08-6990-44b0-9be8-09bd8e4514a5.mp3"
+    },
+    {
+      "uuid": "4d3eafdb-169d-49d1-87b3-7e41b89d6d6c",
+      "text": "Ficción",
+      "file": "4d3eafdb-169d-49d1-87b3-7e41b89d6d6c.mp3"
+    },
+    {
+      "uuid": "94b5f6d9-b6c2-434c-9c9b-129526186af9",
+      "text": "Vigencia del contrato",
+      "file": "94b5f6d9-b6c2-434c-9c9b-129526186af9.mp3"
+    },
+    {
+      "uuid": "7cf8e69e-869f-4c42-bb19-158fe5f9a2ef",
+      "text": "Deconstrucción",
+      "file": "7cf8e69e-869f-4c42-bb19-158fe5f9a2ef.mp3"
+    },
+    {
+      "uuid": "f744f794-1339-41a9-b522-b448a6329380",
+      "text": "Matiz",
+      "file": "f744f794-1339-41a9-b522-b448a6329380.mp3"
+    },
+    {
+      "uuid": "e5527f68-e255-4cf2-b195-3f7001c0e0ab",
+      "text": "Modernismo",
+      "file": "e5527f68-e255-4cf2-b195-3f7001c0e0ab.mp3"
+    },
+    {
+      "uuid": "bb02ed8a-4bce-44dc-99b9-14ee328f2725",
+      "text": "Hacer la vista gorda",
+      "file": "bb02ed8a-4bce-44dc-99b9-14ee328f2725.mp3"
+    },
+    {
+      "uuid": "f52acafe-2210-4ccd-8538-590a96671061",
+      "text": "Trama",
+      "file": "f52acafe-2210-4ccd-8538-590a96671061.mp3"
+    },
+    {
+      "uuid": "70f57ac2-d114-4d69-9168-fd929a48b7b4",
+      "text": "Cláusula de jurisdicción",
+      "file": "70f57ac2-d114-4d69-9168-fd929a48b7b4.mp3"
+    },
+    {
+      "uuid": "1593a353-61f7-4eb8-93ab-149846be1d87",
+      "text": "No tener ni pies ni cabeza",
+      "file": "1593a353-61f7-4eb8-93ab-149846be1d87.mp3"
+    },
+    {
+      "uuid": "926ac24d-ec66-406f-9b17-d4b42a01bd6b",
+      "text": "Estar en el quinto pino",
+      "file": "926ac24d-ec66-406f-9b17-d4b42a01bd6b.mp3"
+    },
+    {
+      "uuid": "7a1d6efe-be62-4f4e-b337-2b5111efaa81",
+      "text": "Principio de utilidad",
+      "file": "7a1d6efe-be62-4f4e-b337-2b5111efaa81.mp3"
+    },
+    {
+      "uuid": "ebd4e2d9-794d-4730-b489-3f74f52a75c2",
+      "text": "Términos y condiciones",
+      "file": "ebd4e2d9-794d-4730-b489-3f74f52a75c2.mp3"
+    },
+    {
+      "uuid": "b89dca0b-571c-4083-b716-8e66cd27cb84",
+      "text": "Taciturno",
+      "file": "b89dca0b-571c-4083-b716-8e66cd27cb84.mp3"
+    },
+    {
+      "uuid": "e03657af-af76-4711-ab77-882765978575",
+      "text": "Sujeto trascendental",
+      "file": "e03657af-af76-4711-ab77-882765978575.mp3"
+    },
+    {
+      "uuid": "fb8cef1f-076b-4fb1-b9f4-a34e7219a927",
+      "text": "Premisa",
+      "file": "fb8cef1f-076b-4fb1-b9f4-a34e7219a927.mp3"
+    },
+    {
+      "uuid": "0d926f6e-e4ae-4d1e-87e2-b2072be8e2d1",
+      "text": "Símil",
+      "file": "0d926f6e-e4ae-4d1e-87e2-b2072be8e2d1.mp3"
+    },
+    {
+      "uuid": "369eed96-5933-4d7a-bda2-ed2a2b954691",
+      "text": "Ética de la virtud",
+      "file": "369eed96-5933-4d7a-bda2-ed2a2b954691.mp3"
+    },
+    {
+      "uuid": "1491c73a-b6fb-47ec-8bcc-d93d97346d67",
+      "text": "Exégesis",
+      "file": "1491c73a-b6fb-47ec-8bcc-d93d97346d67.mp3"
+    },
+    {
+      "uuid": "af02d86b-1d1a-43b5-9f07-7c381b9a1ecf",
+      "text": "Antítesis",
+      "file": "af02d86b-1d1a-43b5-9f07-7c381b9a1ecf.mp3"
+    },
+    {
+      "uuid": "2d34ffa5-7bd2-48c9-9bee-559d674426d3",
+      "text": "Denotación",
+      "file": "2d34ffa5-7bd2-48c9-9bee-559d674426d3.mp3"
+    },
+    {
+      "uuid": "75fc5d36-b6c2-4b25-a678-c299f54189e8",
+      "text": "A buenas horas, mangas verdes",
+      "file": "75fc5d36-b6c2-4b25-a678-c299f54189e8.mp3"
+    },
+    {
+      "uuid": "8153876e-bafd-4c29-bac6-b1d0501f551d",
+      "text": "Ambigüedad",
+      "file": "8153876e-bafd-4c29-bac6-b1d0501f551d.mp3"
+    },
+    {
+      "uuid": "cea08e53-c480-44ca-bc74-a5dc1959009a",
+      "text": "Renegociación",
+      "file": "cea08e53-c480-44ca-bc74-a5dc1959009a.mp3"
+    },
+    {
+      "uuid": "cbf32b0c-7d32-456b-95f9-1c0eb592bb3b",
+      "text": "Temática",
+      "file": "cbf32b0c-7d32-456b-95f9-1c0eb592bb3b.mp3"
+    },
+    {
+      "uuid": "3f3e45ea-56f1-4de1-957f-df08d83bb8a2",
+      "text": "Cláusula de confidencialidad",
+      "file": "3f3e45ea-56f1-4de1-957f-df08d83bb8a2.mp3"
+    },
+    {
+      "uuid": "2b88f760-1997-4b96-b893-1f1e9d6b37b6",
+      "text": "Cosmovisión",
+      "file": "2b88f760-1997-4b96-b893-1f1e9d6b37b6.mp3"
+    },
+    {
+      "uuid": "22ab9f2d-84d9-4dee-afe8-86e003b1836a",
+      "text": "Indiferencia",
+      "file": "22ab9f2d-84d9-4dee-afe8-86e003b1836a.mp3"
+    },
+    {
+      "uuid": "c51ecb90-693f-42cd-b40d-6ad6b9b9cf05",
+      "text": "Desenlace",
+      "file": "c51ecb90-693f-42cd-b40d-6ad6b9b9cf05.mp3"
+    },
+    {
+      "uuid": "35df14d8-b8fc-45d4-8557-b6e65461e9f7",
+      "text": "Perspicacia",
+      "file": "35df14d8-b8fc-45d4-8557-b6e65461e9f7.mp3"
+    },
+    {
+      "uuid": "1cfb91fb-ef20-49dd-8f4a-4e01c61ed1d4",
+      "text": "Simbolismo",
+      "file": "1cfb91fb-ef20-49dd-8f4a-4e01c61ed1d4.mp3"
+    },
+    {
+      "uuid": "890fac9c-987a-46e9-9e0f-d5cb4f7e11b6",
+      "text": "Metáfora",
+      "file": "890fac9c-987a-46e9-9e0f-d5cb4f7e11b6.mp3"
+    },
+    {
+      "uuid": "2e55891e-6588-4889-b7f8-1a262b8a5376",
+      "text": "Salvaguardia",
+      "file": "2e55891e-6588-4889-b7f8-1a262b8a5376.mp3"
+    },
+    {
+      "uuid": "d0c26d02-11f0-4610-b7a6-6c65698efd44",
+      "text": "Explícito",
+      "file": "d0c26d02-11f0-4610-b7a6-6c65698efd44.mp3"
+    },
+    {
+      "uuid": "73227db1-d30a-4449-9025-55c16ea41a4a",
+      "text": "Protocolo de intenciones",
+      "file": "73227db1-d30a-4449-9025-55c16ea41a4a.mp3"
+    },
+    {
+      "uuid": "3170608a-34ce-4d90-a5e9-912796252e66",
+      "text": "Vanguardismo",
+      "file": "3170608a-34ce-4d90-a5e9-912796252e66.mp3"
+    },
+    {
+      "uuid": "93fbf089-8f1b-4ac4-a864-1bfc80ff77ad",
+      "text": "Aceptación tácita",
+      "file": "93fbf089-8f1b-4ac4-a864-1bfc80ff77ad.mp3"
+    },
+    {
+      "uuid": "458a6eaa-4ef2-4075-b496-e6b3cbe63d4c",
+      "text": "Bioética",
+      "file": "458a6eaa-4ef2-4075-b496-e6b3cbe63d4c.mp3"
+    },
+    {
+      "uuid": "62b36d0d-b33f-4fe9-852a-b254f0f77a69",
+      "text": "Protagonista",
+      "file": "62b36d0d-b33f-4fe9-852a-b254f0f77a69.mp3"
+    },
+    {
+      "uuid": "8db4865e-3b2b-4457-b6aa-21ec4062acd5",
+      "text": "Contradicción",
+      "file": "8db4865e-3b2b-4457-b6aa-21ec4062acd5.mp3"
+    },
+    {
+      "uuid": "f03fe8e5-6604-4348-8ab0-c745e6993baf",
+      "text": "Argumentación",
+      "file": "f03fe8e5-6604-4348-8ab0-c745e6993baf.mp3"
+    },
+    {
+      "uuid": "2838a7d9-f04c-431a-8277-49ec4cbfd9e8",
+      "text": "Resarcimiento de daños",
+      "file": "2838a7d9-f04c-431a-8277-49ec4cbfd9e8.mp3"
+    },
+    {
+      "uuid": "da976096-fc49-4cb1-8d12-3fc1b5673575",
+      "text": "Énfasis",
+      "file": "da976096-fc49-4cb1-8d12-3fc1b5673575.mp3"
+    },
+    {
+      "uuid": "39fc2543-7cf0-428a-b165-fc6bf0275d62",
+      "text": "Tergiversar",
+      "file": "39fc2543-7cf0-428a-b165-fc6bf0275d62.mp3"
+    },
+    {
+      "uuid": "36c39ed2-dea1-4f8e-89a9-f0a9ab8711e1",
+      "text": "Poner los puntos sobre las íes",
+      "file": "36c39ed2-dea1-4f8e-89a9-f0a9ab8711e1.mp3"
+    },
+    {
+      "uuid": "05f625b6-1114-42c2-9ad3-971f08f60878",
+      "text": "Discreción",
+      "file": "05f625b6-1114-42c2-9ad3-971f08f60878.mp3"
+    },
+    {
+      "uuid": "d8a30174-c5cf-4894-9865-f26a9c3e2f33",
+      "text": "Personificación",
+      "file": "d8a30174-c5cf-4894-9865-f26a9c3e2f33.mp3"
+    },
+    {
+      "uuid": "30de7b67-bbbe-489f-aba1-e4fd35e09d2f",
+      "text": "Sentido figurado",
+      "file": "30de7b67-bbbe-489f-aba1-e4fd35e09d2f.mp3"
+    },
+    {
+      "uuid": "507a5d12-66cd-4d54-9f7d-7a5804eee4df",
+      "text": "Evidencia",
+      "file": "507a5d12-66cd-4d54-9f7d-7a5804eee4df.mp3"
+    },
+    {
+      "uuid": "0814718d-bd3a-4598-afb4-cd715d937d5d",
+      "text": "Llegar a un consenso",
+      "file": "0814718d-bd3a-4598-afb4-cd715d937d5d.mp3"
+    },
+    {
+      "uuid": "0a6192a9-ab71-4955-82e4-7b4b4fd31205",
+      "text": "Compromiso vinculante",
+      "file": "0a6192a9-ab71-4955-82e4-7b4b4fd31205.mp3"
+    },
+    {
+      "uuid": "6a0bb42e-39c4-4100-8ab4-25e4c639a80e",
+      "text": "Conjetura",
+      "file": "6a0bb42e-39c4-4100-8ab4-25e4c639a80e.mp3"
+    },
+    {
+      "uuid": "6c569f34-ce50-4cf6-9c80-9834b0f6dd6a",
+      "text": "Antagonista",
+      "file": "6c569f34-ce50-4cf6-9c80-9834b0f6dd6a.mp3"
+    },
+    {
+      "uuid": "861caac9-20d9-4a2b-a2c6-c98623191cde",
+      "text": "Derivación",
+      "file": "861caac9-20d9-4a2b-a2c6-c98623191cde.mp3"
+    },
+    {
+      "uuid": "c0146e84-3cad-48ed-9958-45feb5b4bedd",
+      "text": "Verificabilidad",
+      "file": "c0146e84-3cad-48ed-9958-45feb5b4bedd.mp3"
+    },
+    {
+      "uuid": "b663816a-0f01-4703-8223-6f8ad2fa3140",
+      "text": "Contrato social",
+      "file": "b663816a-0f01-4703-8223-6f8ad2fa3140.mp3"
+    },
+    {
+      "uuid": "9482fd4e-d74a-47ed-92f3-3d6a267ea576",
+      "text": "Bien común",
+      "file": "9482fd4e-d74a-47ed-92f3-3d6a267ea576.mp3"
+    },
+    {
+      "uuid": "913ae10e-3f3a-4abd-b8bd-4608ad6edc2f",
+      "text": "Ambivalencia",
+      "file": "913ae10e-3f3a-4abd-b8bd-4608ad6edc2f.mp3"
+    },
+    {
+      "uuid": "4e6fabfe-1711-4664-a021-b6a94642f67d",
+      "text": "Crítica",
+      "file": "4e6fabfe-1711-4664-a021-b6a94642f67d.mp3"
+    },
+    {
+      "uuid": "d4f2f3bf-a711-4f38-aae3-e96359c5feb2",
+      "text": "Acuerdo marco",
+      "file": "d4f2f3bf-a711-4f38-aae3-e96359c5feb2.mp3"
+    },
+    {
+      "uuid": "d4841433-060a-43fb-b396-9648c971041c",
+      "text": "Correlación",
+      "file": "d4841433-060a-43fb-b396-9648c971041c.mp3"
+    },
+    {
+      "uuid": "9cc1fa0c-e417-4d58-b465-40661450b6ae",
+      "text": "Falacia",
+      "file": "9cc1fa0c-e417-4d58-b465-40661450b6ae.mp3"
+    },
+    {
+      "uuid": "0b29d19f-9b63-4aea-aee4-243b5394cc68",
+      "text": "A ojo de buen cubero",
+      "file": "0b29d19f-9b63-4aea-aee4-243b5394cc68.mp3"
+    },
+    {
+      "uuid": "08066781-e026-417a-bb45-eb3a820258d3",
+      "text": "Aliteración",
+      "file": "08066781-e026-417a-bb45-eb3a820258d3.mp3"
+    },
+    {
+      "uuid": "59ab6110-f165-47d1-8147-f87464565c65",
+      "text": "Plazo de entrega",
+      "file": "59ab6110-f165-47d1-8147-f87464565c65.mp3"
+    },
+    {
+      "uuid": "abd7e5ba-2453-49a4-a9aa-045c9a81c102",
+      "text": "Fuerza mayor",
+      "file": "abd7e5ba-2453-49a4-a9aa-045c9a81c102.mp3"
+    },
+    {
+      "uuid": "83130038-93f7-4cd7-87f3-adbbf63dab89",
+      "text": "Sagacidad",
+      "file": "83130038-93f7-4cd7-87f3-adbbf63dab89.mp3"
+    },
+    {
+      "uuid": "843b0dc3-f9a0-4205-a610-54a3b28a4401",
+      "text": "Ser harina de otro costal",
+      "file": "843b0dc3-f9a0-4205-a610-54a3b28a4401.mp3"
+    },
+    {
+      "uuid": "5f394d77-eec2-414a-a15e-2d8632eb233e",
+      "text": "Conciliar",
+      "file": "5f394d77-eec2-414a-a15e-2d8632eb233e.mp3"
+    },
+    {
+      "uuid": "cc9450a4-14a1-40e5-9993-154b5fda2084",
+      "text": "Cláusula de rescisión",
+      "file": "cc9450a4-14a1-40e5-9993-154b5fda2084.mp3"
+    },
+    {
+      "uuid": "08592ff9-ab4e-406e-bcbd-db251fb36835",
+      "text": "Universalismo",
+      "file": "08592ff9-ab4e-406e-bcbd-db251fb36835.mp3"
+    },
+    {
+      "uuid": "6046e9f2-653a-4a78-ab8c-dce2bdf3b199",
+      "text": "Estar hasta los topes",
+      "file": "6046e9f2-653a-4a78-ab8c-dce2bdf3b199.mp3"
+    },
+    {
+      "uuid": "f2471a02-19b0-417b-a2d6-c57d4e4eab67",
+      "text": "Relativismo moral",
+      "file": "f2471a02-19b0-417b-a2d6-c57d4e4eab67.mp3"
+    },
+    {
+      "uuid": "8ce8d17e-44d9-423c-9cad-a82a9e980db4",
+      "text": "Veracidad",
+      "file": "8ce8d17e-44d9-423c-9cad-a82a9e980db4.mp3"
+    },
+    {
+      "uuid": "04eaf416-8e8b-43dc-996b-af210419913d",
+      "text": "Dar el brazo a torcer",
+      "file": "04eaf416-8e8b-43dc-996b-af210419913d.mp3"
+    },
+    {
+      "uuid": "c3837590-4fae-4c8a-92a1-3ad9253efc4e",
+      "text": "Confidencialidad",
+      "file": "c3837590-4fae-4c8a-92a1-3ad9253efc4e.mp3"
+    },
+    {
+      "uuid": "169059ff-1687-46f0-b9fe-221fdccfb2d1",
+      "text": "Poner toda la carne en el asador",
+      "file": "169059ff-1687-46f0-b9fe-221fdccfb2d1.mp3"
+    },
+    {
+      "uuid": "824bdc93-be4b-4509-a8f9-98a165b6b6cc",
+      "text": "Incumplimiento contractual",
+      "file": "824bdc93-be4b-4509-a8f9-98a165b6b6cc.mp3"
+    },
+    {
+      "uuid": "7641596d-cc1e-421f-9a13-9ea1ca87e62b",
+      "text": "Arbitraje",
+      "file": "7641596d-cc1e-421f-9a13-9ea1ca87e62b.mp3"
+    },
+    {
+      "uuid": "b6424d9f-2e7d-4ddc-8b29-ab9f35bde76c",
+      "text": "Tener pájaros en la cabeza",
+      "file": "b6424d9f-2e7d-4ddc-8b29-ab9f35bde76c.mp3"
+    },
+    {
+      "uuid": "841cec3e-a8ec-4161-96bf-b86d2655bb7c",
+      "text": "Andar con pies de plomo",
+      "file": "841cec3e-a8ec-4161-96bf-b86d2655bb7c.mp3"
+    },
+    {
+      "uuid": "ae0e2dba-f1b4-4258-9d89-1f61d61a6865",
+      "text": "Irse por las ramas",
+      "file": "ae0e2dba-f1b4-4258-9d89-1f61d61a6865.mp3"
+    },
+    {
+      "uuid": "3f93afa1-9e02-41d7-b492-a56a2fa65d5c",
+      "text": "Tirar la casa por la ventana",
+      "file": "3f93afa1-9e02-41d7-b492-a56a2fa65d5c.mp3"
+    },
+    {
+      "uuid": "1430f0cc-7a0c-43ce-8487-24f78525e889",
+      "text": "Dar gato por liebre",
+      "file": "1430f0cc-7a0c-43ce-8487-24f78525e889.mp3"
+    },
+    {
+      "uuid": "d7a6e0df-0fcc-4526-873e-b2802677e1ab",
+      "text": "Contexto",
+      "file": "d7a6e0df-0fcc-4526-873e-b2802677e1ab.mp3"
+    },
+    {
+      "uuid": "ea141f46-bcb0-4e0f-8dd8-8445b5be0693",
+      "text": "Análisis",
+      "file": "ea141f46-bcb0-4e0f-8dd8-8445b5be0693.mp3"
+    },
+    {
+      "uuid": "e01ed9f9-67cb-496d-9846-78bd0f0b4fc4",
+      "text": "Estrategia de concesiones",
+      "file": "e01ed9f9-67cb-496d-9846-78bd0f0b4fc4.mp3"
+    },
+    {
+      "uuid": "a2fdbe25-764f-4449-aee1-b6657786c0c2",
+      "text": "Poética",
+      "file": "a2fdbe25-764f-4449-aee1-b6657786c0c2.mp3"
+    },
+    {
+      "uuid": "a93997c3-26f6-4490-b92d-d711c9609f30",
+      "text": "Eufemismo",
+      "file": "a93997c3-26f6-4490-b92d-d711c9609f30.mp3"
+    },
+    {
+      "uuid": "56fef44a-e198-4398-b8a3-9fa3e09791be",
+      "text": "Inconsistencia",
+      "file": "56fef44a-e198-4398-b8a3-9fa3e09791be.mp3"
+    },
+    {
+      "uuid": "ed69056e-114c-4d6b-aca7-8f236e286444",
+      "text": "Aseveración",
+      "file": "ed69056e-114c-4d6b-aca7-8f236e286444.mp3"
+    }
+  ],
+  "skipped": [],
+  "failed": []
+}
