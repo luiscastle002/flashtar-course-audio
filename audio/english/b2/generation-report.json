@@ -1,0 +1,1046 @@
+{
+  "generated": [
+    {
+      "uuid": "c9da6a22-3de8-4690-920e-61fe852c5415",
+      "text": "Audit",
+      "file": "c9da6a22-3de8-4690-920e-61fe852c5415.mp3"
+    },
+    {
+      "uuid": "9f477567-1edb-4455-9a52-d8981855e950",
+      "text": "Perspectice",
+      "file": "9f477567-1edb-4455-9a52-d8981855e950.mp3"
+    },
+    {
+      "uuid": "65fc1319-8b31-40b2-8fd6-3095e691bc0e",
+      "text": "Implementation",
+      "file": "65fc1319-8b31-40b2-8fd6-3095e691bc0e.mp3"
+    },
+    {
+      "uuid": "960eaacf-8581-47c6-87d9-dad31ff4ed5c",
+      "text": "Installation",
+      "file": "960eaacf-8581-47c6-87d9-dad31ff4ed5c.mp3"
+    },
+    {
+      "uuid": "8cbed30b-62c3-4062-bbe6-03c799145dfe",
+      "text": "Artifact",
+      "file": "8cbed30b-62c3-4062-bbe6-03c799145dfe.mp3"
+    },
+    {
+      "uuid": "c8f84086-b373-4540-8285-4f117f827532",
+      "text": "Discovery",
+      "file": "c8f84086-b373-4540-8285-4f117f827532.mp3"
+    },
+    {
+      "uuid": "f09cff0a-e24e-403b-93ca-ea1663d22335",
+      "text": "Censorship",
+      "file": "f09cff0a-e24e-403b-93ca-ea1663d22335.mp3"
+    },
+    {
+      "uuid": "e6210b12-75c5-4517-8364-d400889d4a62",
+      "text": "Publicity",
+      "file": "e6210b12-75c5-4517-8364-d400889d4a62.mp3"
+    },
+    {
+      "uuid": "06774420-a851-4e43-9d47-5fcda10af8d9",
+      "text": "Mainstream",
+      "file": "06774420-a851-4e43-9d47-5fcda10af8d9.mp3"
+    },
+    {
+      "uuid": "7758766b-3778-416a-9c1e-69a9ead25491",
+      "text": "Metabolism",
+      "file": "7758766b-3778-416a-9c1e-69a9ead25491.mp3"
+    },
+    {
+      "uuid": "1b9ce573-02cf-4868-bd3e-746c89d9452b",
+      "text": "Cardiovascular",
+      "file": "1b9ce573-02cf-4868-bd3e-746c89d9452b.mp3"
+    },
+    {
+      "uuid": "0c9ba983-4368-4b80-8884-c7c6170f540d",
+      "text": "Debate",
+      "file": "0c9ba983-4368-4b80-8884-c7c6170f540d.mp3"
+    },
+    {
+      "uuid": "7291b73b-eae1-4b85-b375-3362696a066c",
+      "text": "Endurance",
+      "file": "7291b73b-eae1-4b85-b375-3362696a066c.mp3"
+    },
+    {
+      "uuid": "24ddb519-e384-49d5-b9b6-12131e65d936",
+      "text": "Hydration",
+      "file": "24ddb519-e384-49d5-b9b6-12131e65d936.mp3"
+    },
+    {
+      "uuid": "7dcc199f-bb5a-4874-ab1e-68190a7e5c25",
+      "text": "Flexibility",
+      "file": "7dcc199f-bb5a-4874-ab1e-68190a7e5c25.mp3"
+    },
+    {
+      "uuid": "c9198fd6-ca05-4ce0-9d8c-c13b39033c06",
+      "text": "Counterargument",
+      "file": "c9198fd6-ca05-4ce0-9d8c-c13b39033c06.mp3"
+    },
+    {
+      "uuid": "122edd7c-6831-4461-9f18-c3100a6dadf0",
+      "text": "Justify",
+      "file": "122edd7c-6831-4461-9f18-c3100a6dadf0.mp3"
+    },
+    {
+      "uuid": "2561d4d0-80a4-4fb7-b2b8-cc1f661a7cef",
+      "text": "Inherent",
+      "file": "2561d4d0-80a4-4fb7-b2b8-cc1f661a7cef.mp3"
+    },
+    {
+      "uuid": "04670439-14af-473e-9408-07d46a2e63d7",
+      "text": "Plaintiff",
+      "file": "04670439-14af-473e-9408-07d46a2e63d7.mp3"
+    },
+    {
+      "uuid": "0dcfb3f8-b747-4540-a1ff-c6a33cf16040",
+      "text": "Attorney",
+      "file": "0dcfb3f8-b747-4540-a1ff-c6a33cf16040.mp3"
+    },
+    {
+      "uuid": "da0681cc-9eb9-490b-bc59-2f26eea3817f",
+      "text": "Inference",
+      "file": "da0681cc-9eb9-490b-bc59-2f26eea3817f.mp3"
+    },
+    {
+      "uuid": "313aef83-a80b-45ea-b41a-1923a30b94a0",
+      "text": "Propose",
+      "file": "313aef83-a80b-45ea-b41a-1923a30b94a0.mp3"
+    },
+    {
+      "uuid": "939a6338-217e-4aee-9d06-941b1b3b0d04",
+      "text": "Perspective",
+      "file": "939a6338-217e-4aee-9d06-941b1b3b0d04.mp3"
+    },
+    {
+      "uuid": "28e6122b-53c6-422f-b6d0-5b7567347c21",
+      "text": "Refute",
+      "file": "28e6122b-53c6-422f-b6d0-5b7567347c21.mp3"
+    },
+    {
+      "uuid": "263bf38a-7ac9-4b51-a61d-fb817434eb63",
+      "text": "Defendant",
+      "file": "263bf38a-7ac9-4b51-a61d-fb817434eb63.mp3"
+    },
+    {
+      "uuid": "e4399a3a-ef49-45b2-bd53-c3f69a2d80f8",
+      "text": "Witness",
+      "file": "e4399a3a-ef49-45b2-bd53-c3f69a2d80f8.mp3"
+    },
+    {
+      "uuid": "41dd5c8e-6fcf-4e89-bc12-53e75567266d",
+      "text": "Adverbs",
+      "file": "41dd5c8e-6fcf-4e89-bc12-53e75567266d.mp3"
+    },
+    {
+      "uuid": "e3e5f901-6f54-42d7-9af3-79f3fe70d001",
+      "text": "Diversify",
+      "file": "e3e5f901-6f54-42d7-9af3-79f3fe70d001.mp3"
+    },
+    {
+      "uuid": "bfdad4d3-2bb6-4ba9-b5da-bff95e55da8a",
+      "text": "Overhead",
+      "file": "bfdad4d3-2bb6-4ba9-b5da-bff95e55da8a.mp3"
+    },
+    {
+      "uuid": "3fcb9990-bda6-4aef-9275-36df324ddd17",
+      "text": "Concede",
+      "file": "3fcb9990-bda6-4aef-9275-36df324ddd17.mp3"
+    },
+    {
+      "uuid": "02d2b06e-91b8-49fb-b0ff-6a3e881fea7a",
+      "text": "Solvency",
+      "file": "02d2b06e-91b8-49fb-b0ff-6a3e881fea7a.mp3"
+    },
+    {
+      "uuid": "c75e662d-a9b4-4ec7-ba68-d36b7431d934",
+      "text": "Stanza",
+      "file": "c75e662d-a9b4-4ec7-ba68-d36b7431d934.mp3"
+    },
+    {
+      "uuid": "366265cf-8be4-4fac-b4bd-331cf608b99f",
+      "text": "Aesthetic",
+      "file": "366265cf-8be4-4fac-b4bd-331cf608b99f.mp3"
+    },
+    {
+      "uuid": "5a7ec692-57a4-4f9f-9695-d2f6f4535d9a",
+      "text": "Choreography",
+      "file": "5a7ec692-57a4-4f9f-9695-d2f6f4535d9a.mp3"
+    },
+    {
+      "uuid": "a7b173f2-acdf-47ff-9829-1d2421de7993",
+      "text": "Premise",
+      "file": "a7b173f2-acdf-47ff-9829-1d2421de7993.mp3"
+    },
+    {
+      "uuid": "102d8bfc-2592-4cb3-9620-87b6450aeed9",
+      "text": "Statute",
+      "file": "102d8bfc-2592-4cb3-9620-87b6450aeed9.mp3"
+    },
+    {
+      "uuid": "ffc2177f-354d-41ee-8c53-13ae20eb9862",
+      "text": "Acquit",
+      "file": "ffc2177f-354d-41ee-8c53-13ae20eb9862.mp3"
+    },
+    {
+      "uuid": "cd1634c4-189b-4c9d-bbb8-43439def0ec7",
+      "text": "ROI",
+      "file": "cd1634c4-189b-4c9d-bbb8-43439def0ec7.mp3"
+    },
+    {
+      "uuid": "6faf79f9-9b40-45aa-a5f5-37dede2a6895",
+      "text": "Prose",
+      "file": "6faf79f9-9b40-45aa-a5f5-37dede2a6895.mp3"
+    },
+    {
+      "uuid": "f5bdb38a-72bd-425c-9712-aa72a1272117",
+      "text": "Fitness",
+      "file": "f5bdb38a-72bd-425c-9712-aa72a1272117.mp3"
+    },
+    {
+      "uuid": "4c26aeda-fca0-4b22-bcd8-51a043c35bdb",
+      "text": "Reliability",
+      "file": "4c26aeda-fca0-4b22-bcd8-51a043c35bdb.mp3"
+    },
+    {
+      "uuid": "ce56a191-e8f4-401d-b268-81011674b6d9",
+      "text": "Accountability",
+      "file": "ce56a191-e8f4-401d-b268-81011674b6d9.mp3"
+    },
+    {
+      "uuid": "0b245460-df62-4159-977e-8f959bc72dd5",
+      "text": "Verify",
+      "file": "0b245460-df62-4159-977e-8f959bc72dd5.mp3"
+    },
+    {
+      "uuid": "798f6c0f-9467-4af5-81c0-3e3cba23d868",
+      "text": "Collateral",
+      "file": "798f6c0f-9467-4af5-81c0-3e3cba23d868.mp3"
+    },
+    {
+      "uuid": "c0cf87a2-8386-4915-88d5-ca0640d71a8b",
+      "text": "Climax",
+      "file": "c0cf87a2-8386-4915-88d5-ca0640d71a8b.mp3"
+    },
+    {
+      "uuid": "06db46fb-f719-4594-b46d-8561042d2261",
+      "text": "Fallacy",
+      "file": "06db46fb-f719-4594-b46d-8561042d2261.mp3"
+    },
+    {
+      "uuid": "54d8f263-5671-446a-b2a7-57e3e9d2f9d4",
+      "text": "Nutrient",
+      "file": "54d8f263-5671-446a-b2a7-57e3e9d2f9d4.mp3"
+    },
+    {
+      "uuid": "fb59a115-08e6-4dfd-83ed-0c4284266250",
+      "text": "Neutrality",
+      "file": "fb59a115-08e6-4dfd-83ed-0c4284266250.mp3"
+    },
+    {
+      "uuid": "3bdbe3cf-1ba9-4e4d-b15d-2dc395b8f362",
+      "text": "Indictment",
+      "file": "3bdbe3cf-1ba9-4e4d-b15d-2dc395b8f362.mp3"
+    },
+    {
+      "uuid": "1377bdf3-246e-4b7f-a5e0-fc35cffb98dc",
+      "text": "Source",
+      "file": "1377bdf3-246e-4b7f-a5e0-fc35cffb98dc.mp3"
+    },
+    {
+      "uuid": "6b60eb40-26c9-4134-b17e-ca6311684158",
+      "text": "Synthesis",
+      "file": "6b60eb40-26c9-4134-b17e-ca6311684158.mp3"
+    },
+    {
+      "uuid": "69c9ce02-a40e-4a23-80d7-ddbd13798f94",
+      "text": "Misinformation",
+      "file": "69c9ce02-a40e-4a23-80d7-ddbd13798f94.mp3"
+    },
+    {
+      "uuid": "2a77e023-a1ae-4ed1-babd-efa586c7bb2d",
+      "text": "Balanced",
+      "file": "2a77e023-a1ae-4ed1-babd-efa586c7bb2d.mp3"
+    },
+    {
+      "uuid": "5b01a4af-7b3d-4df6-b1d2-32c3e1a34671",
+      "text": "Commentary",
+      "file": "5b01a4af-7b3d-4df6-b1d2-32c3e1a34671.mp3"
+    },
+    {
+      "uuid": "d362f3d8-2a1a-4511-9f4b-8ec7e143ed68",
+      "text": "Logic",
+      "file": "d362f3d8-2a1a-4511-9f4b-8ec7e143ed68.mp3"
+    },
+    {
+      "uuid": "281db148-87b7-4db1-b35b-073f700f4be0",
+      "text": "Plea",
+      "file": "281db148-87b7-4db1-b35b-073f700f4be0.mp3"
+    },
+    {
+      "uuid": "713ecc8a-68a7-40f5-a6a6-10d1ccf62a3e",
+      "text": "Justice",
+      "file": "713ecc8a-68a7-40f5-a6a6-10d1ccf62a3e.mp3"
+    },
+    {
+      "uuid": "d6d57f88-4842-43b2-930e-ea03b649b673",
+      "text": "Market Share",
+      "file": "d6d57f88-4842-43b2-930e-ea03b649b673.mp3"
+    },
+    {
+      "uuid": "621cc32f-de2c-41bf-b512-7dc14fd0546f",
+      "text": "Felony",
+      "file": "621cc32f-de2c-41bf-b512-7dc14fd0546f.mp3"
+    },
+    {
+      "uuid": "cc499f76-6b3c-4397-91b2-ba66b54e5298",
+      "text": "Equity",
+      "file": "cc499f76-6b3c-4397-91b2-ba66b54e5298.mp3"
+    },
+    {
+      "uuid": "f26e114a-8caf-40d6-aaea-9b4b91071edd",
+      "text": "Portfolio",
+      "file": "f26e114a-8caf-40d6-aaea-9b4b91071edd.mp3"
+    },
+    {
+      "uuid": "f638abf7-8d53-41c6-b4b4-f820106df1e9",
+      "text": "Investigative",
+      "file": "f638abf7-8d53-41c6-b4b4-f820106df1e9.mp3"
+    },
+    {
+      "uuid": "5a6a120a-be80-471c-bb87-cdb6385de2e8",
+      "text": "Prototype",
+      "file": "5a6a120a-be80-471c-bb87-cdb6385de2e8.mp3"
+    },
+    {
+      "uuid": "373d2338-d6d1-4115-bb1d-370418de021a",
+      "text": "Parole",
+      "file": "373d2338-d6d1-4115-bb1d-370418de021a.mp3"
+    },
+    {
+      "uuid": "c090f98e-3dae-4e96-9224-715db01b5aca",
+      "text": "Defining Clause",
+      "file": "c090f98e-3dae-4e96-9224-715db01b5aca.mp3"
+    },
+    {
+      "uuid": "bbd3d417-39c4-4df7-ad33-144cf244a1b8",
+      "text": "Posture",
+      "file": "bbd3d417-39c4-4df7-ad33-144cf244a1b8.mp3"
+    },
+    {
+      "uuid": "2bc3abde-5cfe-4f8c-8f99-81d4cd736537",
+      "text": "Peer Review",
+      "file": "2bc3abde-5cfe-4f8c-8f99-81d4cd736537.mp3"
+    },
+    {
+      "uuid": "c85fac55-537a-400a-be5b-247f09d60db0",
+      "text": "Habit",
+      "file": "c85fac55-537a-400a-be5b-247f09d60db0.mp3"
+    },
+    {
+      "uuid": "e32a51f1-af49-4d93-a460-c41274034e44",
+      "text": "Dividend",
+      "file": "e32a51f1-af49-4d93-a460-c41274034e44.mp3"
+    },
+    {
+      "uuid": "53bcd455-8f03-4d12-a3ee-3ff2afa2625d",
+      "text": "Subsidiary",
+      "file": "53bcd455-8f03-4d12-a3ee-3ff2afa2625d.mp3"
+    },
+    {
+      "uuid": "87af3d52-9d30-4f89-9788-8247ee66bb84",
+      "text": "Depreciation",
+      "file": "87af3d52-9d30-4f89-9788-8247ee66bb84.mp3"
+    },
+    {
+      "uuid": "bf516391-8d0a-49ea-8e59-7696cff75278",
+      "text": "Coverage",
+      "file": "bf516391-8d0a-49ea-8e59-7696cff75278.mp3"
+    },
+    {
+      "uuid": "fb3af818-74ef-4b86-9ada-469016ed643a",
+      "text": "Substantiate",
+      "file": "fb3af818-74ef-4b86-9ada-469016ed643a.mp3"
+    },
+    {
+      "uuid": "36dc8040-a996-493f-86cc-62ad4cbe62a6",
+      "text": "Curator",
+      "file": "36dc8040-a996-493f-86cc-62ad4cbe62a6.mp3"
+    },
+    {
+      "uuid": "29f36c30-9d2c-4aff-befc-9278ef2f4f34",
+      "text": "Metaphor",
+      "file": "29f36c30-9d2c-4aff-befc-9278ef2f4f34.mp3"
+    },
+    {
+      "uuid": "5c32768e-ad90-4385-8d6b-d7da532713bd",
+      "text": "Sculpture",
+      "file": "5c32768e-ad90-4385-8d6b-d7da532713bd.mp3"
+    },
+    {
+      "uuid": "a7f6b7a3-96e3-43f5-9c1f-a2ad4da1a5bd",
+      "text": "Phrasal Verbs",
+      "file": "a7f6b7a3-96e3-43f5-9c1f-a2ad4da1a5bd.mp3"
+    },
+    {
+      "uuid": "f20c1579-2a79-493a-89a9-13bda825c75a",
+      "text": "Gallery",
+      "file": "f20c1579-2a79-493a-89a9-13bda825c75a.mp3"
+    },
+    {
+      "uuid": "740dbe92-08f1-464e-91c3-47ebac8e5713",
+      "text": "Portrait",
+      "file": "740dbe92-08f1-464e-91c3-47ebac8e5713.mp3"
+    },
+    {
+      "uuid": "a25c4d77-5724-4a0e-9edf-3148184f745c",
+      "text": "Fable",
+      "file": "a25c4d77-5724-4a0e-9edf-3148184f745c.mp3"
+    },
+    {
+      "uuid": "afd5b02e-1715-4fbe-b9af-3c8a00b739be",
+      "text": "Coherent",
+      "file": "afd5b02e-1715-4fbe-b9af-3c8a00b739be.mp3"
+    },
+    {
+      "uuid": "c4099c51-9a3c-4b35-8b23-77e25e45f644",
+      "text": "Sedentary",
+      "file": "c4099c51-9a3c-4b35-8b23-77e25e45f644.mp3"
+    },
+    {
+      "uuid": "c2bcb670-eaa6-4ef7-8319-25b151f61d29",
+      "text": "Convict",
+      "file": "c2bcb670-eaa6-4ef7-8319-25b151f61d29.mp3"
+    },
+    {
+      "uuid": "fc2370a6-934c-4f43-8eb9-0701b0a78bf5",
+      "text": "Consensus",
+      "file": "fc2370a6-934c-4f43-8eb9-0701b0a78bf5.mp3"
+    },
+    {
+      "uuid": "7d868033-4ec1-4140-8db6-0ac30e2dc335",
+      "text": "Offense",
+      "file": "7d868033-4ec1-4140-8db6-0ac30e2dc335.mp3"
+    },
+    {
+      "uuid": "812f22c0-eb24-4e7a-9c19-f73b6253c796",
+      "text": "Liquidity",
+      "file": "812f22c0-eb24-4e7a-9c19-f73b6253c796.mp3"
+    },
+    {
+      "uuid": "0d98ad3a-da66-4f37-bc31-8bbf74bb701e",
+      "text": "Empirical",
+      "file": "0d98ad3a-da66-4f37-bc31-8bbf74bb701e.mp3"
+    },
+    {
+      "uuid": "a8ee3ae5-b2ff-43a2-883f-1e7b55c16886",
+      "text": "Metabolic",
+      "file": "a8ee3ae5-b2ff-43a2-883f-1e7b55c16886.mp3"
+    },
+    {
+      "uuid": "9778126c-695a-46df-9cae-0a831e792045",
+      "text": "Discourse",
+      "file": "9778126c-695a-46df-9cae-0a831e792045.mp3"
+    },
+    {
+      "uuid": "4e763995-b888-4cc7-b466-dbe45c4daebb",
+      "text": "Composition",
+      "file": "4e763995-b888-4cc7-b466-dbe45c4daebb.mp3"
+    },
+    {
+      "uuid": "ec5b5fa1-30a3-4602-9e43-4c2b0800327d",
+      "text": "Deduce",
+      "file": "ec5b5fa1-30a3-4602-9e43-4c2b0800327d.mp3"
+    },
+    {
+      "uuid": "e08b6dce-2d45-4068-acff-96e237f94b6f",
+      "text": "Theory",
+      "file": "e08b6dce-2d45-4068-acff-96e237f94b6f.mp3"
+    },
+    {
+      "uuid": "9972f9de-c077-4b16-978c-db9b4c5c1948",
+      "text": "Sentence",
+      "file": "9972f9de-c077-4b16-978c-db9b4c5c1948.mp3"
+    },
+    {
+      "uuid": "245605ac-cb38-4856-84f1-577085a11241",
+      "text": "Startup",
+      "file": "245605ac-cb38-4856-84f1-577085a11241.mp3"
+    },
+    {
+      "uuid": "8e4b3771-f82e-44ec-bbf5-be580d2a483d",
+      "text": "Expenditure",
+      "file": "8e4b3771-f82e-44ec-bbf5-be580d2a483d.mp3"
+    },
+    {
+      "uuid": "f5bece4f-bcfd-4abe-97a8-fb6b45936dd4",
+      "text": "Accounting",
+      "file": "f5bece4f-bcfd-4abe-97a8-fb6b45936dd4.mp3"
+    },
+    {
+      "uuid": "ab53f579-f460-4c1b-a81c-92d98f16fd32",
+      "text": "Editorial",
+      "file": "ab53f579-f460-4c1b-a81c-92d98f16fd32.mp3"
+    },
+    {
+      "uuid": "a868b703-c1c3-4447-bee0-f8e73dc50e28",
+      "text": "Validation",
+      "file": "a868b703-c1c3-4447-bee0-f8e73dc50e28.mp3"
+    },
+    {
+      "uuid": "c24cb37b-34dc-44f3-a632-1a247e9578eb",
+      "text": "Correspondent",
+      "file": "c24cb37b-34dc-44f3-a632-1a247e9578eb.mp3"
+    },
+    {
+      "uuid": "6226a393-23cc-4d65-b3f0-5d75944dffc5",
+      "text": "Implicit",
+      "file": "6226a393-23cc-4d65-b3f0-5d75944dffc5.mp3"
+    },
+    {
+      "uuid": "fee3142d-d84c-411b-80f4-c98743c183f6",
+      "text": "Well-being",
+      "file": "fee3142d-d84c-411b-80f4-c98743c183f6.mp3"
+    },
+    {
+      "uuid": "19a91f4e-ffcc-4602-862d-e363e05b53ed",
+      "text": "Stance",
+      "file": "19a91f4e-ffcc-4602-862d-e363e05b53ed.mp3"
+    },
+    {
+      "uuid": "c1a49d6f-3e9f-4078-88f1-f5748bf46200",
+      "text": "Revenue",
+      "file": "c1a49d6f-3e9f-4078-88f1-f5748bf46200.mp3"
+    },
+    {
+      "uuid": "6348b17d-bb32-42fb-8add-b75bf88207eb",
+      "text": "Informed",
+      "file": "6348b17d-bb32-42fb-8add-b75bf88207eb.mp3"
+    },
+    {
+      "uuid": "a205bb71-559c-40ba-b9f7-1f1473f99928",
+      "text": "Interest",
+      "file": "a205bb71-559c-40ba-b9f7-1f1473f99928.mp3"
+    },
+    {
+      "uuid": "cad9716a-2b01-4aa7-b73a-532f5dda674a",
+      "text": "Palette",
+      "file": "cad9716a-2b01-4aa7-b73a-532f5dda674a.mp3"
+    },
+    {
+      "uuid": "e91cef70-c03d-42cf-bfea-8ea29ec367a3",
+      "text": "Rebuttal",
+      "file": "e91cef70-c03d-42cf-bfea-8ea29ec367a3.mp3"
+    },
+    {
+      "uuid": "297a0718-521d-4d90-ba0b-4df4ee1cf0fb",
+      "text": "Moderation",
+      "file": "297a0718-521d-4d90-ba0b-4df4ee1cf0fb.mp3"
+    },
+    {
+      "uuid": "f2a7bcff-39be-4215-9134-185e2e438e96",
+      "text": "Volatility",
+      "file": "f2a7bcff-39be-4215-9134-185e2e438e96.mp3"
+    },
+    {
+      "uuid": "04b9b24e-eac2-4d59-97c1-5aafc928b36c",
+      "text": "Insomnia",
+      "file": "04b9b24e-eac2-4d59-97c1-5aafc928b36c.mp3"
+    },
+    {
+      "uuid": "fc9fe782-03eb-495c-b5f3-7e69c1f886ca",
+      "text": "Bias",
+      "file": "fc9fe782-03eb-495c-b5f3-7e69c1f886ca.mp3"
+    },
+    {
+      "uuid": "174aa9ab-aa05-47b6-9242-71c3a2766b8e",
+      "text": "Evidence",
+      "file": "174aa9ab-aa05-47b6-9242-71c3a2766b8e.mp3"
+    },
+    {
+      "uuid": "348a0b47-d032-4bd2-91dd-379d20eb98e9",
+      "text": "Press Freedom",
+      "file": "348a0b47-d032-4bd2-91dd-379d20eb98e9.mp3"
+    },
+    {
+      "uuid": "5f26a5d3-c96f-49ec-a734-29fd3f08d6c6",
+      "text": "Gerund Review",
+      "file": "5f26a5d3-c96f-49ec-a734-29fd3f08d6c6.mp3"
+    },
+    {
+      "uuid": "753167ea-9ac7-4049-924c-ee3b343f2c69",
+      "text": "Nuance",
+      "file": "753167ea-9ac7-4049-924c-ee3b343f2c69.mp3"
+    },
+    {
+      "uuid": "b6b4b6c3-e7dc-4586-865f-8a1c7d189c27",
+      "text": "Chronic",
+      "file": "b6b4b6c3-e7dc-4586-865f-8a1c7d189c27.mp3"
+    },
+    {
+      "uuid": "e5eb5be8-12b1-4bdf-981b-e1902171599b",
+      "text": "Advancement",
+      "file": "e5eb5be8-12b1-4bdf-981b-e1902171599b.mp3"
+    },
+    {
+      "uuid": "69f3a0b4-e71d-4e3d-ae25-dc0b23c1cab0",
+      "text": "Vitality",
+      "file": "69f3a0b4-e71d-4e3d-ae25-dc0b23c1cab0.mp3"
+    },
+    {
+      "uuid": "e9c781c2-5264-45b2-a537-6848d20c1c1e",
+      "text": "Allegation",
+      "file": "e9c781c2-5264-45b2-a537-6848d20c1c1e.mp3"
+    },
+    {
+      "uuid": "c5e720db-5cd3-477d-abd8-86013e1e534a",
+      "text": "Narrative",
+      "file": "c5e720db-5cd3-477d-abd8-86013e1e534a.mp3"
+    },
+    {
+      "uuid": "8df14770-acd7-4543-b6d7-ddc54f7850e9",
+      "text": "Appeal",
+      "file": "8df14770-acd7-4543-b6d7-ddc54f7850e9.mp3"
+    },
+    {
+      "uuid": "ff08cb36-b866-4cb8-8f41-0cf14ed7bdcb",
+      "text": "Theme",
+      "file": "ff08cb36-b866-4cb8-8f41-0cf14ed7bdcb.mp3"
+    },
+    {
+      "uuid": "dcabbbae-0861-493d-b67f-7c2e67291db5",
+      "text": "Conclusion",
+      "file": "dcabbbae-0861-493d-b67f-7c2e67291db5.mp3"
+    },
+    {
+      "uuid": "3eb324d9-19eb-4c43-afcb-c2780389ba39",
+      "text": "Dissemination",
+      "file": "3eb324d9-19eb-4c43-afcb-c2780389ba39.mp3"
+    },
+    {
+      "uuid": "8077c199-57e1-43be-8dd0-f6a59108591b",
+      "text": "Breakthrough",
+      "file": "8077c199-57e1-43be-8dd0-f6a59108591b.mp3"
+    },
+    {
+      "uuid": "41b86f25-291a-43eb-9c48-8c91e4755de8",
+      "text": "Turnover",
+      "file": "41b86f25-291a-43eb-9c48-8c91e4755de8.mp3"
+    },
+    {
+      "uuid": "79b4340d-9b5a-4080-b684-41d7739be207",
+      "text": "Nutrition",
+      "file": "79b4340d-9b5a-4080-b684-41d7739be207.mp3"
+    },
+    {
+      "uuid": "d3bc3c80-cae3-4756-a686-dcef5a0751e8",
+      "text": "Satire",
+      "file": "d3bc3c80-cae3-4756-a686-dcef5a0751e8.mp3"
+    },
+    {
+      "uuid": "d5b74e59-b049-4120-b494-3fbf356ec1ac",
+      "text": "Assertion",
+      "file": "d5b74e59-b049-4120-b494-3fbf356ec1ac.mp3"
+    },
+    {
+      "uuid": "7ac56f65-6f8d-4c14-9ffc-d248079d54dc",
+      "text": "Genre",
+      "file": "7ac56f65-6f8d-4c14-9ffc-d248079d54dc.mp3"
+    },
+    {
+      "uuid": "4e802874-5520-4235-95e1-a451e1c84040",
+      "text": "Quantifiers",
+      "file": "4e802874-5520-4235-95e1-a451e1c84040.mp3"
+    },
+    {
+      "uuid": "c227676f-a26d-4dc1-8a5a-27bae887c6c9",
+      "text": "Dialogue",
+      "file": "c227676f-a26d-4dc1-8a5a-27bae887c6c9.mp3"
+    },
+    {
+      "uuid": "03cabb97-9d26-4fd7-815c-4a973755028a",
+      "text": "Jurisdiction",
+      "file": "03cabb97-9d26-4fd7-815c-4a973755028a.mp3"
+    },
+    {
+      "uuid": "0d630aae-b6b5-401e-b93b-4f3013909455",
+      "text": "Articles",
+      "file": "0d630aae-b6b5-401e-b93b-4f3013909455.mp3"
+    },
+    {
+      "uuid": "6af200a7-f6d6-4c57-b57d-37378652f623",
+      "text": "Dietary",
+      "file": "6af200a7-f6d6-4c57-b57d-37378652f623.mp3"
+    },
+    {
+      "uuid": "e30be0ca-e9e7-4b03-926e-377b949c595f",
+      "text": "Backshift",
+      "file": "e30be0ca-e9e7-4b03-926e-377b949c595f.mp3"
+    },
+    {
+      "uuid": "3f6e6b17-f8ab-4c6a-bd83-25b5ae4be7bf",
+      "text": "Separable Verbs",
+      "file": "3f6e6b17-f8ab-4c6a-bd83-25b5ae4be7bf.mp3"
+    },
+    {
+      "uuid": "6f7bc2f6-159d-47b6-97e7-2e2a6de8eb40",
+      "text": "Scrutiny",
+      "file": "6f7bc2f6-159d-47b6-97e7-2e2a6de8eb40.mp3"
+    },
+    {
+      "uuid": "aef1443a-d8a1-4c12-8bd4-4262715b02b1",
+      "text": "Prosecution",
+      "file": "aef1443a-d8a1-4c12-8bd4-4262715b02b1.mp3"
+    },
+    {
+      "uuid": "3e08ca8d-a236-4018-90c5-ad43d81ab2db",
+      "text": "Public Opinion",
+      "file": "3e08ca8d-a236-4018-90c5-ad43d81ab2db.mp3"
+    },
+    {
+      "uuid": "b9af4a25-e04c-485a-af4a-886a4171fabf",
+      "text": "Conditionals Review",
+      "file": "b9af4a25-e04c-485a-af4a-886a4171fabf.mp3"
+    },
+    {
+      "uuid": "b08de90a-4189-4a12-96de-a4359050a0bd",
+      "text": "Observe",
+      "file": "b08de90a-4189-4a12-96de-a4359050a0bd.mp3"
+    },
+    {
+      "uuid": "423501d4-8871-4457-8c31-4297121c168d",
+      "text": "Agility",
+      "file": "423501d4-8871-4457-8c31-4297121c168d.mp3"
+    },
+    {
+      "uuid": "b55fb8f1-ff76-431b-91d0-23eb820faf3a",
+      "text": "Rhetoric",
+      "file": "b55fb8f1-ff76-431b-91d0-23eb820faf3a.mp3"
+    },
+    {
+      "uuid": "4f2dcf4d-a602-4583-8a7a-563d2db198e0",
+      "text": "Verdict",
+      "file": "4f2dcf4d-a602-4583-8a7a-563d2db198e0.mp3"
+    },
+    {
+      "uuid": "8450241a-46d3-442d-9283-13e0e0ad7959",
+      "text": "Application",
+      "file": "8450241a-46d3-442d-9283-13e0e0ad7959.mp3"
+    },
+    {
+      "uuid": "9e40f0bc-73f5-40cb-ad72-fa081342a549",
+      "text": "Misdemeanor",
+      "file": "9e40f0bc-73f5-40cb-ad72-fa081342a549.mp3"
+    },
+    {
+      "uuid": "c1dfbb8b-9a8e-496a-9392-3659f6fa9171",
+      "text": "Incarceration",
+      "file": "c1dfbb8b-9a8e-496a-9392-3659f6fa9171.mp3"
+    },
+    {
+      "uuid": "73204830-b343-4094-8a1d-70b20f660668",
+      "text": "Inseparable Verbs",
+      "file": "73204830-b343-4094-8a1d-70b20f660668.mp3"
+    },
+    {
+      "uuid": "f9a12ed4-2d12-4db0-a4b2-1ec2fba132f0",
+      "text": "Sensationalism",
+      "file": "f9a12ed4-2d12-4db0-a4b2-1ec2fba132f0.mp3"
+    },
+    {
+      "uuid": "f352b6c5-5bc8-4979-a401-2f58648bc201",
+      "text": "Non-defining Clause",
+      "file": "f352b6c5-5bc8-4979-a401-2f58648bc201.mp3"
+    },
+    {
+      "uuid": "acc61530-1b74-4db3-9090-9b5ba864e570",
+      "text": "Variable",
+      "file": "acc61530-1b74-4db3-9090-9b5ba864e570.mp3"
+    },
+    {
+      "uuid": "22e01d65-4023-47cd-9124-cbe2e0c01719",
+      "text": "Correlation",
+      "file": "22e01d65-4023-47cd-9124-cbe2e0c01719.mp3"
+    },
+    {
+      "uuid": "5383d20e-9116-4044-b324-38d0eba24750",
+      "text": "Bail",
+      "file": "5383d20e-9116-4044-b324-38d0eba24750.mp3"
+    },
+    {
+      "uuid": "c0a976b7-7b4f-4038-a585-5b3e40c7af31",
+      "text": "Ethics",
+      "file": "c0a976b7-7b4f-4038-a585-5b3e40c7af31.mp3"
+    },
+    {
+      "uuid": "5b860a11-8223-4efb-90fe-f780fb514559",
+      "text": "Current Affairs",
+      "file": "5b860a11-8223-4efb-90fe-f780fb514559.mp3"
+    },
+    {
+      "uuid": "a595680e-1792-4499-8d73-a0086b362212",
+      "text": "Breaking News",
+      "file": "a595680e-1792-4499-8d73-a0086b362212.mp3"
+    },
+    {
+      "uuid": "a1ac3bb2-b27f-48d6-883a-bb59a446d287",
+      "text": "Wellness",
+      "file": "a1ac3bb2-b27f-48d6-883a-bb59a446d287.mp3"
+    },
+    {
+      "uuid": "8c05efa7-1a12-49af-aa03-3b176291238f",
+      "text": "Capacity",
+      "file": "8c05efa7-1a12-49af-aa03-3b176291238f.mp3"
+    },
+    {
+      "uuid": "45ee2c6e-a281-437f-bfaa-75fb9b4fc2a2",
+      "text": "Supplement",
+      "file": "45ee2c6e-a281-437f-bfaa-75fb9b4fc2a2.mp3"
+    },
+    {
+      "uuid": "914f522b-f1d0-4e80-b5b7-0d6799935215",
+      "text": "Fiscal",
+      "file": "914f522b-f1d0-4e80-b5b7-0d6799935215.mp3"
+    },
+    {
+      "uuid": "f5d81200-7ed5-4425-98d4-275598531787",
+      "text": "Appreciation",
+      "file": "f5d81200-7ed5-4425-98d4-275598531787.mp3"
+    },
+    {
+      "uuid": "872b04aa-6f05-455c-8151-4e78a2d16169",
+      "text": "Replicate",
+      "file": "872b04aa-6f05-455c-8151-4e78a2d16169.mp3"
+    },
+    {
+      "uuid": "40756228-de92-40fb-a5c4-a8a98fa5259c",
+      "text": "Active",
+      "file": "40756228-de92-40fb-a5c4-a8a98fa5259c.mp3"
+    },
+    {
+      "uuid": "ca6e5adc-9281-47d6-a3bb-2b79602427a5",
+      "text": "Subjective",
+      "file": "ca6e5adc-9281-47d6-a3bb-2b79602427a5.mp3"
+    },
+    {
+      "uuid": "7bb9bd3e-01b7-4cbc-a260-d12cc794426f",
+      "text": "Argument",
+      "file": "7bb9bd3e-01b7-4cbc-a260-d12cc794426f.mp3"
+    },
+    {
+      "uuid": "46060a6e-5dd1-4ee6-a54e-f71c5b867a45",
+      "text": "Assets",
+      "file": "46060a6e-5dd1-4ee6-a54e-f71c5b867a45.mp3"
+    },
+    {
+      "uuid": "e1feab12-570b-4600-92cb-ae8293004d48",
+      "text": "Litigation",
+      "file": "e1feab12-570b-4600-92cb-ae8293004d48.mp3"
+    },
+    {
+      "uuid": "f23d8f47-0075-4fa7-a3d2-b7b8c642d917",
+      "text": "Canvas",
+      "file": "f23d8f47-0075-4fa7-a3d2-b7b8c642d917.mp3"
+    },
+    {
+      "uuid": "463ec491-6000-4410-8d8f-4e6f5e172f5b",
+      "text": "Protagonist",
+      "file": "463ec491-6000-4410-8d8f-4e6f5e172f5b.mp3"
+    },
+    {
+      "uuid": "a577f1a4-720d-4afd-a880-b9b693f8222f",
+      "text": "Budget",
+      "file": "a577f1a4-720d-4afd-a880-b9b693f8222f.mp3"
+    },
+    {
+      "uuid": "bc26c3d1-ddc6-42d2-b14b-150efa56ef41",
+      "text": "Transparency",
+      "file": "bc26c3d1-ddc6-42d2-b14b-150efa56ef41.mp3"
+    },
+    {
+      "uuid": "ff445895-a99a-4fe3-961c-b2cd4ba89bbd",
+      "text": "Causality",
+      "file": "ff445895-a99a-4fe3-961c-b2cd4ba89bbd.mp3"
+    },
+    {
+      "uuid": "77f9ec2f-a3bb-4750-a531-01a474419b55",
+      "text": "Ambiguous",
+      "file": "77f9ec2f-a3bb-4750-a531-01a474419b55.mp3"
+    },
+    {
+      "uuid": "662382a2-3a71-41e5-9d63-20295bc04428",
+      "text": "Vignette",
+      "file": "662382a2-3a71-41e5-9d63-20295bc04428.mp3"
+    },
+    {
+      "uuid": "e8b8a3fc-0442-4314-8354-554e645a56df",
+      "text": "Fact-checking",
+      "file": "e8b8a3fc-0442-4314-8354-554e645a56df.mp3"
+    },
+    {
+      "uuid": "dd4c10f6-db51-4ef3-89cb-77c1c2f27436",
+      "text": "Journalism",
+      "file": "dd4c10f6-db51-4ef3-89cb-77c1c2f27436.mp3"
+    },
+    {
+      "uuid": "ea7ff2ed-65a9-4070-8fb5-f75df6f20c29",
+      "text": "Grammar Synthesis",
+      "file": "ea7ff2ed-65a9-4070-8fb5-f75df6f20c29.mp3"
+    },
+    {
+      "uuid": "023bde22-ef7a-4518-94bd-c731456c4d0c",
+      "text": "Methodology",
+      "file": "023bde22-ef7a-4518-94bd-c731456c4d0c.mp3"
+    },
+    {
+      "uuid": "d2206592-2f0f-4531-9609-a6f33ea94063",
+      "text": "Paradigm",
+      "file": "d2206592-2f0f-4531-9609-a6f33ea94063.mp3"
+    },
+    {
+      "uuid": "c51a5b2a-a5fc-433a-b405-c90e50414014",
+      "text": "Abstract",
+      "file": "c51a5b2a-a5fc-433a-b405-c90e50414014.mp3"
+    },
+    {
+      "uuid": "36a138ef-9602-4bfe-b1c9-a82c7fab205b",
+      "text": "Manuscript",
+      "file": "36a138ef-9602-4bfe-b1c9-a82c7fab205b.mp3"
+    },
+    {
+      "uuid": "6c20f512-56ad-4ae9-8efb-02c117ea11a6",
+      "text": "Hypothesis",
+      "file": "6c20f512-56ad-4ae9-8efb-02c117ea11a6.mp3"
+    },
+    {
+      "uuid": "eebd2c6a-69fb-48a7-90f5-2e9bb3fbe2d7",
+      "text": "Tense Review",
+      "file": "eebd2c6a-69fb-48a7-90f5-2e9bb3fbe2d7.mp3"
+    },
+    {
+      "uuid": "59660215-decd-47b0-a5e6-2bd996a748fc",
+      "text": "Experiment",
+      "file": "59660215-decd-47b0-a5e6-2bd996a748fc.mp3"
+    },
+    {
+      "uuid": "9a1b6c62-decb-4a69-b33a-4b7beffb9158",
+      "text": "Immunity",
+      "file": "9a1b6c62-decb-4a69-b33a-4b7beffb9158.mp3"
+    },
+    {
+      "uuid": "63dd9f69-86dd-437b-a9f7-2a8b8fd4d72a",
+      "text": "Feasibility",
+      "file": "63dd9f69-86dd-437b-a9f7-2a8b8fd4d72a.mp3"
+    },
+    {
+      "uuid": "946a4080-3f80-41fd-8c88-a6b783926937",
+      "text": "Recovery",
+      "file": "946a4080-3f80-41fd-8c88-a6b783926937.mp3"
+    },
+    {
+      "uuid": "c900d618-ae44-48ad-96b1-0abf0d658fd5",
+      "text": "Obesity",
+      "file": "c900d618-ae44-48ad-96b1-0abf0d658fd5.mp3"
+    },
+    {
+      "uuid": "4605d9fd-6043-4d16-80f0-d75f1d0b2223",
+      "text": "Controversial",
+      "file": "4605d9fd-6043-4d16-80f0-d75f1d0b2223.mp3"
+    },
+    {
+      "uuid": "b5f5e0db-856f-4765-bdeb-5e7a87a92068",
+      "text": "Persuade",
+      "file": "b5f5e0db-856f-4765-bdeb-5e7a87a92068.mp3"
+    },
+    {
+      "uuid": "f9f02dda-40f1-4c95-8f70-a0d3b6409013",
+      "text": "Validity",
+      "file": "f9f02dda-40f1-4c95-8f70-a0d3b6409013.mp3"
+    },
+    {
+      "uuid": "b35b7378-8a35-4e08-918f-cf71a08fbb85",
+      "text": "Probation",
+      "file": "b35b7378-8a35-4e08-918f-cf71a08fbb85.mp3"
+    },
+    {
+      "uuid": "a2258c6b-f8c5-4612-83ed-e809fb06dd39",
+      "text": "Jury",
+      "file": "a2258c6b-f8c5-4612-83ed-e809fb06dd39.mp3"
+    },
+    {
+      "uuid": "5f70862f-4aa1-443e-8e40-3a55b510fdb9",
+      "text": "Precedent",
+      "file": "5f70862f-4aa1-443e-8e40-3a55b510fdb9.mp3"
+    },
+    {
+      "uuid": "131d59a6-1acd-4165-947f-3bd07ef427e0",
+      "text": "Liability",
+      "file": "131d59a6-1acd-4165-947f-3bd07ef427e0.mp3"
+    },
+    {
+      "uuid": "b00f8f95-03c3-472d-b369-2e0927ac45c5",
+      "text": "Capital",
+      "file": "b00f8f95-03c3-472d-b369-2e0927ac45c5.mp3"
+    },
+    {
+      "uuid": "79673241-64f4-4281-abbb-a894a5af6448",
+      "text": "Analysis",
+      "file": "79673241-64f4-4281-abbb-a894a5af6448.mp3"
+    },
+    {
+      "uuid": "e5038f56-ca93-4240-aff5-2098c473595b",
+      "text": "Explicit",
+      "file": "e5038f56-ca93-4240-aff5-2098c473595b.mp3"
+    },
+    {
+      "uuid": "957c7d61-a4a5-4594-928a-bbe8d3daaab9",
+      "text": "Benchmark",
+      "file": "957c7d61-a4a5-4594-928a-bbe8d3daaab9.mp3"
+    },
+    {
+      "uuid": "0aa546f2-9c96-4c50-99d3-8d87053b9b15",
+      "text": "Merger",
+      "file": "0aa546f2-9c96-4c50-99d3-8d87053b9b15.mp3"
+    },
+    {
+      "uuid": "00c2010a-c19f-46fc-8ea3-d832b32816e5",
+      "text": "Insolvency",
+      "file": "00c2010a-c19f-46fc-8ea3-d832b32816e5.mp3"
+    },
+    {
+      "uuid": "c8e74e1c-c418-4d92-8274-26ca96b31d2c",
+      "text": "Exhibition",
+      "file": "c8e74e1c-c418-4d92-8274-26ca96b31d2c.mp3"
+    },
+    {
+      "uuid": "969dc8b9-4da8-463f-9126-d736e25c25cb",
+      "text": "Imagery",
+      "file": "969dc8b9-4da8-463f-9126-d736e25c25cb.mp3"
+    },
+    {
+      "uuid": "c9177478-e263-453e-9f37-8504c43bec84",
+      "text": "Testimony",
+      "file": "c9177478-e263-453e-9f37-8504c43bec84.mp3"
+    },
+    {
+      "uuid": "1d033542-a670-4f92-9122-036c148a32f6",
+      "text": "Modal Verbs",
+      "file": "1d033542-a670-4f92-9122-036c148a32f6.mp3"
+    },
+    {
+      "uuid": "43d702c8-1847-4977-b57d-35a5538806f8",
+      "text": "Inflation",
+      "file": "43d702c8-1847-4977-b57d-35a5538806f8.mp3"
+    },
+    {
+      "uuid": "63bb962e-ef56-4114-9d48-63cc023acf89",
+      "text": "Routine",
+      "file": "63bb962e-ef56-4114-9d48-63cc023acf89.mp3"
+    }
+  ],
+  "skipped": [],
+  "failed": []
+}
