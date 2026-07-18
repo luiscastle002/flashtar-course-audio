@@ -1,0 +1,771 @@
+{
+  "generated": [
+    {
+      "uuid": "c5aba072-2374-4ee6-b803-6dbf191f159d",
+      "text": "Epicureanism",
+      "file": "c5aba072-2374-4ee6-b803-6dbf191f159d.mp3"
+    },
+    {
+      "uuid": "c56fad00-9d5a-48e4-8865-93f001855089",
+      "text": "Objective Correlative",
+      "file": "c56fad00-9d5a-48e4-8865-93f001855089.mp3"
+    },
+    {
+      "uuid": "62f8c9fc-132a-4725-a54c-dba028a170f5",
+      "text": "Quid Pro Quo",
+      "file": "62f8c9fc-132a-4725-a54c-dba028a170f5.mp3"
+    },
+    {
+      "uuid": "647218bd-eb3e-4794-a19e-b851068d291c",
+      "text": "Yellow Journalism",
+      "file": "647218bd-eb3e-4794-a19e-b851068d291c.mp3"
+    },
+    {
+      "uuid": "6a70ffc0-7e9a-41a5-82ce-1a1645c040a9",
+      "text": "Quixotic",
+      "file": "6a70ffc0-7e9a-41a5-82ce-1a1645c040a9.mp3"
+    },
+    {
+      "uuid": "2cc0a540-8134-4e83-afa7-011ea561f0c7",
+      "text": "Meritocracy",
+      "file": "2cc0a540-8134-4e83-afa7-011ea561f0c7.mp3"
+    },
+    {
+      "uuid": "b04cd26f-529b-4012-bc79-813cba457f0a",
+      "text": "Elephant in the Room",
+      "file": "b04cd26f-529b-4012-bc79-813cba457f0a.mp3"
+    },
+    {
+      "uuid": "bc7e5936-ee98-47f1-9e43-10c36bf91eae",
+      "text": "Left-Handed Compliment",
+      "file": "bc7e5936-ee98-47f1-9e43-10c36bf91eae.mp3"
+    },
+    {
+      "uuid": "b91c6976-e584-4191-ab4b-74cb49fd258f",
+      "text": "Accord",
+      "file": "b91c6976-e584-4191-ab4b-74cb49fd258f.mp3"
+    },
+    {
+      "uuid": "5de18307-9622-4b2a-9fa8-88fe2821f28b",
+      "text": "Skepticism",
+      "file": "5de18307-9622-4b2a-9fa8-88fe2821f28b.mp3"
+    },
+    {
+      "uuid": "5883475f-18e2-4bc3-ba55-8fc4be7d8c5a",
+      "text": "Implied",
+      "file": "5883475f-18e2-4bc3-ba55-8fc4be7d8c5a.mp3"
+    },
+    {
+      "uuid": "a5c9b18c-1123-470d-8c4b-a9f7efafcc6e",
+      "text": "Xenophobia",
+      "file": "a5c9b18c-1123-470d-8c4b-a9f7efafcc6e.mp3"
+    },
+    {
+      "uuid": "74dd961c-d048-4929-939e-966048bcdad1",
+      "text": "Vicious Circle",
+      "file": "74dd961c-d048-4929-939e-966048bcdad1.mp3"
+    },
+    {
+      "uuid": "53d3d40b-8bca-49a1-9b91-f61d252e27c6",
+      "text": "In the Doldrums",
+      "file": "53d3d40b-8bca-49a1-9b91-f61d252e27c6.mp3"
+    },
+    {
+      "uuid": "0a110eea-9176-4fe8-b623-90358052d78c",
+      "text": "Absurdism",
+      "file": "0a110eea-9176-4fe8-b623-90358052d78c.mp3"
+    },
+    {
+      "uuid": "622c3388-865c-43f8-a21d-4e99e5fa4237",
+      "text": "Vested Interest",
+      "file": "622c3388-865c-43f8-a21d-4e99e5fa4237.mp3"
+    },
+    {
+      "uuid": "cae9ddc3-63a4-4a20-82ca-744a094894d6",
+      "text": "Equivocation",
+      "file": "cae9ddc3-63a4-4a20-82ca-744a094894d6.mp3"
+    },
+    {
+      "uuid": "468c1357-bf03-401e-a4f5-08b590ffb3f8",
+      "text": "Modulation",
+      "file": "468c1357-bf03-401e-a4f5-08b590ffb3f8.mp3"
+    },
+    {
+      "uuid": "0b244318-0167-420f-a3f0-6507a2696e32",
+      "text": "Signifier",
+      "file": "0b244318-0167-420f-a3f0-6507a2696e32.mp3"
+    },
+    {
+      "uuid": "ba002139-f6db-4f5b-9925-d52babcf5806",
+      "text": "Ultimatum",
+      "file": "ba002139-f6db-4f5b-9925-d52babcf5806.mp3"
+    },
+    {
+      "uuid": "f9b9fdaa-16df-4b77-bf04-d41d2306a18d",
+      "text": "Vernacular",
+      "file": "f9b9fdaa-16df-4b77-bf04-d41d2306a18d.mp3"
+    },
+    {
+      "uuid": "92c2c080-ea55-46ab-9039-d180246916be",
+      "text": "Syllogism",
+      "file": "92c2c080-ea55-46ab-9039-d180246916be.mp3"
+    },
+    {
+      "uuid": "6651cad8-9c09-4799-a572-86a14bb8d9de",
+      "text": "Deconstruction",
+      "file": "6651cad8-9c09-4799-a572-86a14bb8d9de.mp3"
+    },
+    {
+      "uuid": "38afb960-0997-42ac-9ed6-9e7a02c34115",
+      "text": "Impasse",
+      "file": "38afb960-0997-42ac-9ed6-9e7a02c34115.mp3"
+    },
+    {
+      "uuid": "627d4b7a-4cad-44a5-be52-e678be6057db",
+      "text": "Bilateral",
+      "file": "627d4b7a-4cad-44a5-be52-e678be6057db.mp3"
+    },
+    {
+      "uuid": "720638aa-9c41-4f57-a46c-2f4de4f429d6",
+      "text": "Veiled",
+      "file": "720638aa-9c41-4f57-a46c-2f4de4f429d6.mp3"
+    },
+    {
+      "uuid": "c31e051c-128d-4d24-a25f-40ae8400132e",
+      "text": "Liminality",
+      "file": "c31e051c-128d-4d24-a25f-40ae8400132e.mp3"
+    },
+    {
+      "uuid": "827424b4-56b3-4bc0-ab1e-b8d2a31e7ef1",
+      "text": "Zero-Sum",
+      "file": "827424b4-56b3-4bc0-ab1e-b8d2a31e7ef1.mp3"
+    },
+    {
+      "uuid": "c805ba2d-2ea0-41ab-a209-3245b5da51e3",
+      "text": "Sarcasm",
+      "file": "c805ba2d-2ea0-41ab-a209-3245b5da51e3.mp3"
+    },
+    {
+      "uuid": "cf3eaf07-db28-45bb-aae2-34b3b801ae5d",
+      "text": "Unreliable Narrator",
+      "file": "cf3eaf07-db28-45bb-aae2-34b3b801ae5d.mp3"
+    },
+    {
+      "uuid": "779c7664-8b65-4084-91c0-25d4f32cc7b2",
+      "text": "Nullify",
+      "file": "779c7664-8b65-4084-91c0-25d4f32cc7b2.mp3"
+    },
+    {
+      "uuid": "b4699d7b-ae1f-4636-b8ae-9c4fc5ca7847",
+      "text": "Logos",
+      "file": "b4699d7b-ae1f-4636-b8ae-9c4fc5ca7847.mp3"
+    },
+    {
+      "uuid": "d9f9f9d6-5cca-479b-a0d6-8d6731994ea2",
+      "text": "Contention",
+      "file": "d9f9f9d6-5cca-479b-a0d6-8d6731994ea2.mp3"
+    },
+    {
+      "uuid": "30c83474-dfc7-405b-9ed5-dd2dbf35a699",
+      "text": "Innuendo",
+      "file": "30c83474-dfc7-405b-9ed5-dd2dbf35a699.mp3"
+    },
+    {
+      "uuid": "82a80d82-6e5a-48d5-9f22-3496d5f11d93",
+      "text": "Clause",
+      "file": "82a80d82-6e5a-48d5-9f22-3496d5f11d93.mp3"
+    },
+    {
+      "uuid": "90e0dd47-a4b8-4a74-9621-842b780395ec",
+      "text": "Warrant",
+      "file": "90e0dd47-a4b8-4a74-9621-842b780395ec.mp3"
+    },
+    {
+      "uuid": "d24f6032-3c49-4841-9085-3a713680a6d8",
+      "text": "Didacticism",
+      "file": "d24f6032-3c49-4841-9085-3a713680a6d8.mp3"
+    },
+    {
+      "uuid": "37c152d8-693d-442c-ae4a-3545e623340a",
+      "text": "Zeitgeist",
+      "file": "37c152d8-693d-442c-ae4a-3545e623340a.mp3"
+    },
+    {
+      "uuid": "5cedcd09-ae4e-4405-960f-1056a1ed6410",
+      "text": "Concession",
+      "file": "5cedcd09-ae4e-4405-960f-1056a1ed6410.mp3"
+    },
+    {
+      "uuid": "52782319-4333-473d-8d7b-3900896b1624",
+      "text": "Deontology",
+      "file": "52782319-4333-473d-8d7b-3900896b1624.mp3"
+    },
+    {
+      "uuid": "4e107c91-5db2-411d-8a3c-e7f5aff3274b",
+      "text": "Hyperbole",
+      "file": "4e107c91-5db2-411d-8a3c-e7f5aff3274b.mp3"
+    },
+    {
+      "uuid": "4053f106-19bc-4dd4-893c-eeb9a055cf75",
+      "text": "Protocol",
+      "file": "4053f106-19bc-4dd4-893c-eeb9a055cf75.mp3"
+    },
+    {
+      "uuid": "ce471ab5-46aa-487d-8ca8-fe27403adcbb",
+      "text": "Obliquity",
+      "file": "ce471ab5-46aa-487d-8ca8-fe27403adcbb.mp3"
+    },
+    {
+      "uuid": "f83062f0-b9ed-45f7-a6b7-dbba21e17839",
+      "text": "Dénouement",
+      "file": "f83062f0-b9ed-45f7-a6b7-dbba21e17839.mp3"
+    },
+    {
+      "uuid": "d90330a9-9766-43a4-a634-867bd3ed636c",
+      "text": "Pass the Buck",
+      "file": "d90330a9-9766-43a4-a634-867bd3ed636c.mp3"
+    },
+    {
+      "uuid": "3d3f9470-7547-4c5e-85ee-4ab3d08e1f29",
+      "text": "Reciprocal",
+      "file": "3d3f9470-7547-4c5e-85ee-4ab3d08e1f29.mp3"
+    },
+    {
+      "uuid": "8823c4c4-56d9-4274-8012-0f4170a41f96",
+      "text": "Phenomenology",
+      "file": "8823c4c4-56d9-4274-8012-0f4170a41f96.mp3"
+    },
+    {
+      "uuid": "c0636307-7d5c-4117-8085-21776fab455d",
+      "text": "Inherent Bias",
+      "file": "c0636307-7d5c-4117-8085-21776fab455d.mp3"
+    },
+    {
+      "uuid": "03fc71a4-51c4-484c-8093-bddf2dda791c",
+      "text": "Axiology",
+      "file": "03fc71a4-51c4-484c-8093-bddf2dda791c.mp3"
+    },
+    {
+      "uuid": "3c436ac6-aca3-41dc-b57e-fd376ff3d843",
+      "text": "Subtext",
+      "file": "3c436ac6-aca3-41dc-b57e-fd376ff3d843.mp3"
+    },
+    {
+      "uuid": "df91e44f-71aa-4a53-b480-a285ceef2ff6",
+      "text": "Paradigm Shift",
+      "file": "df91e44f-71aa-4a53-b480-a285ceef2ff6.mp3"
+    },
+    {
+      "uuid": "1fd1802b-3ad5-4b7d-8248-e27fbaab0af1",
+      "text": "Gild the Lily",
+      "file": "1fd1802b-3ad5-4b7d-8248-e27fbaab0af1.mp3"
+    },
+    {
+      "uuid": "a6fb22ef-169b-4681-ba09-2c3fccf73510",
+      "text": "Discretion",
+      "file": "a6fb22ef-169b-4681-ba09-2c3fccf73510.mp3"
+    },
+    {
+      "uuid": "abec7f69-387e-4e06-85c2-dc4fc487b4e1",
+      "text": "Virtue Ethics",
+      "file": "abec7f69-387e-4e06-85c2-dc4fc487b4e1.mp3"
+    },
+    {
+      "uuid": "d4c68007-cc74-471c-aba5-84918a46881f",
+      "text": "Dead Ringer",
+      "file": "d4c68007-cc74-471c-aba5-84918a46881f.mp3"
+    },
+    {
+      "uuid": "d5cd9383-635d-4616-9740-a918b016cee3",
+      "text": "Symbolism",
+      "file": "d5cd9383-635d-4616-9740-a918b016cee3.mp3"
+    },
+    {
+      "uuid": "d9928a05-4f42-4c13-880e-da071efb6e2e",
+      "text": "Elliptical",
+      "file": "d9928a05-4f42-4c13-880e-da071efb6e2e.mp3"
+    },
+    {
+      "uuid": "9a2c295d-af53-4603-91c2-f4bb2e7a1272",
+      "text": "Uphill Battle",
+      "file": "9a2c295d-af53-4603-91c2-f4bb2e7a1272.mp3"
+    },
+    {
+      "uuid": "f1f9af6b-1967-4e1b-917c-2add75b8794e",
+      "text": "Hoist with His Own Petard",
+      "file": "f1f9af6b-1967-4e1b-917c-2add75b8794e.mp3"
+    },
+    {
+      "uuid": "5ca97626-37df-4add-ac80-97f4f51a59dc",
+      "text": "Materialism",
+      "file": "5ca97626-37df-4add-ac80-97f4f51a59dc.mp3"
+    },
+    {
+      "uuid": "225ed603-62c0-4722-bdbe-00a575856c4b",
+      "text": "Nip in the Bud",
+      "file": "225ed603-62c0-4722-bdbe-00a575856c4b.mp3"
+    },
+    {
+      "uuid": "87a102cc-82ae-4aed-9ca1-01b892d434d2",
+      "text": "Ambivalence",
+      "file": "87a102cc-82ae-4aed-9ca1-01b892d434d2.mp3"
+    },
+    {
+      "uuid": "07acb365-1ddb-4684-8d1c-1052b041b167",
+      "text": "Born with a Silver Spoon",
+      "file": "07acb365-1ddb-4684-8d1c-1052b041b167.mp3"
+    },
+    {
+      "uuid": "75cb5485-a9d4-4ce3-ace4-ea8c71f9d2a5",
+      "text": "Tautology",
+      "file": "75cb5485-a9d4-4ce3-ace4-ea8c71f9d2a5.mp3"
+    },
+    {
+      "uuid": "4ef48824-4acb-4f99-987e-cb10e8e92806",
+      "text": "Hedonism",
+      "file": "4ef48824-4acb-4f99-987e-cb10e8e92806.mp3"
+    },
+    {
+      "uuid": "8516d2bb-0ef0-41fb-9cc1-03f00eacea45",
+      "text": "Zeugma",
+      "file": "8516d2bb-0ef0-41fb-9cc1-03f00eacea45.mp3"
+    },
+    {
+      "uuid": "4c5b9629-2f48-4eeb-bcd3-d45676dcd034",
+      "text": "Categorical Imperative",
+      "file": "4c5b9629-2f48-4eeb-bcd3-d45676dcd034.mp3"
+    },
+    {
+      "uuid": "0bee40fd-417d-4f64-bf6d-5a97c47e031f",
+      "text": "Juxtaposition",
+      "file": "0bee40fd-417d-4f64-bf6d-5a97c47e031f.mp3"
+    },
+    {
+      "uuid": "6c729bab-5876-4149-8e0c-751d60f8d8c7",
+      "text": "Non Sequitur",
+      "file": "6c729bab-5876-4149-8e0c-751d60f8d8c7.mp3"
+    },
+    {
+      "uuid": "1bd33568-df4e-4260-b795-ddfa0af1fb4e",
+      "text": "Yield",
+      "file": "1bd33568-df4e-4260-b795-ddfa0af1fb4e.mp3"
+    },
+    {
+      "uuid": "eab0ef31-e4be-481d-a3ec-31c78081bd50",
+      "text": "Irony",
+      "file": "eab0ef31-e4be-481d-a3ec-31c78081bd50.mp3"
+    },
+    {
+      "uuid": "f1704287-f726-4fd3-9c8d-1115b59f9545",
+      "text": "On the Horns of a Dilemma",
+      "file": "f1704287-f726-4fd3-9c8d-1115b59f9545.mp3"
+    },
+    {
+      "uuid": "acd31da9-a69f-4fe6-ad9c-82c10ad0d223",
+      "text": "Analogy",
+      "file": "acd31da9-a69f-4fe6-ad9c-82c10ad0d223.mp3"
+    },
+    {
+      "uuid": "32820c42-6f06-4514-937f-27207ea8975b",
+      "text": "Existentialism",
+      "file": "32820c42-6f06-4514-937f-27207ea8975b.mp3"
+    },
+    {
+      "uuid": "57712c86-1c8b-40f9-a24e-76acedc2c5d1",
+      "text": "Wry",
+      "file": "57712c86-1c8b-40f9-a24e-76acedc2c5d1.mp3"
+    },
+    {
+      "uuid": "9ba208cb-aa7a-41d9-b101-7829ec418cd7",
+      "text": "Yonic",
+      "file": "9ba208cb-aa7a-41d9-b101-7829ec418cd7.mp3"
+    },
+    {
+      "uuid": "f53e9353-7433-46ad-8232-806fae98672f",
+      "text": "Bargaining",
+      "file": "f53e9353-7433-46ad-8232-806fae98672f.mp3"
+    },
+    {
+      "uuid": "24aa0284-85e8-437c-9377-5ed47a5df171",
+      "text": "Reductio ad Absurdum",
+      "file": "24aa0284-85e8-437c-9377-5ed47a5df171.mp3"
+    },
+    {
+      "uuid": "c6cdb5a5-35d5-47b7-b179-8ca9d19d2982",
+      "text": "Euphemism",
+      "file": "c6cdb5a5-35d5-47b7-b179-8ca9d19d2982.mp3"
+    },
+    {
+      "uuid": "c75a936f-abb7-4030-b962-731541f5ed94",
+      "text": "Sword of Damocles",
+      "file": "c75a936f-abb7-4030-b962-731541f5ed94.mp3"
+    },
+    {
+      "uuid": "f3f3592e-74a5-4662-bdbf-d370e08d70b8",
+      "text": "Connotation",
+      "file": "f3f3592e-74a5-4662-bdbf-d370e08d70b8.mp3"
+    },
+    {
+      "uuid": "2f8330ae-6d33-445f-8824-34302ef229f5",
+      "text": "Xenoglossy",
+      "file": "2f8330ae-6d33-445f-8824-34302ef229f5.mp3"
+    },
+    {
+      "uuid": "92c2cd6a-c44b-40be-819e-dfe4434dced0",
+      "text": "Weltanschauung",
+      "file": "92c2cd6a-c44b-40be-819e-dfe4434dced0.mp3"
+    },
+    {
+      "uuid": "7b4fdce2-bd19-48e3-ab09-2d72082d15c9",
+      "text": "Fiddle While Rome Burns",
+      "file": "7b4fdce2-bd19-48e3-ab09-2d72082d15c9.mp3"
+    },
+    {
+      "uuid": "6986ddaf-5354-4574-a962-dfbebadc6321",
+      "text": "Red Herring",
+      "file": "6986ddaf-5354-4574-a962-dfbebadc6321.mp3"
+    },
+    {
+      "uuid": "01b661ce-9f0a-451a-969c-62d519f62a24",
+      "text": "Catharsis",
+      "file": "01b661ce-9f0a-451a-969c-62d519f62a24.mp3"
+    },
+    {
+      "uuid": "74c722e8-600a-4e2f-986c-6413cfa80fe8",
+      "text": "Exegesis",
+      "file": "74c722e8-600a-4e2f-986c-6413cfa80fe8.mp3"
+    },
+    {
+      "uuid": "6e5c4141-422d-47d2-9408-d561868d83a6",
+      "text": "Narratology",
+      "file": "6e5c4141-422d-47d2-9408-d561868d83a6.mp3"
+    },
+    {
+      "uuid": "f15bbb67-e428-4ad9-a58e-e423752f2abb",
+      "text": "Conciliation",
+      "file": "f15bbb67-e428-4ad9-a58e-e423752f2abb.mp3"
+    },
+    {
+      "uuid": "f375f479-f081-4e15-8d38-6012272b6d6a",
+      "text": "Keep Your Own Counsel",
+      "file": "f375f479-f081-4e15-8d38-6012272b6d6a.mp3"
+    },
+    {
+      "uuid": "f67687e0-def5-418e-a438-63521e632b3d",
+      "text": "Albatross Around One's Neck",
+      "file": "f67687e0-def5-418e-a438-63521e632b3d.mp3"
+    },
+    {
+      "uuid": "720b4ab3-c71a-4a79-8671-bf69b055caca",
+      "text": "Bildungsroman",
+      "file": "720b4ab3-c71a-4a79-8671-bf69b055caca.mp3"
+    },
+    {
+      "uuid": "49dbefb1-a602-40c0-8df5-8672ab349817",
+      "text": "Proviso",
+      "file": "49dbefb1-a602-40c0-8df5-8672ab349817.mp3"
+    },
+    {
+      "uuid": "46d61bc9-f7fa-46ac-81b9-703c0f50f21a",
+      "text": "Mediator",
+      "file": "46d61bc9-f7fa-46ac-81b9-703c0f50f21a.mp3"
+    },
+    {
+      "uuid": "1f94eb42-9980-4600-89ce-b6cf3cec808e",
+      "text": "Stylistic",
+      "file": "1f94eb42-9980-4600-89ce-b6cf3cec808e.mp3"
+    },
+    {
+      "uuid": "5e590d17-0741-4d58-ba38-0bca1899ab65",
+      "text": "Tacit",
+      "file": "5e590d17-0741-4d58-ba38-0bca1899ab65.mp3"
+    },
+    {
+      "uuid": "12a9aa72-c3b3-439b-98cf-4c184583cff8",
+      "text": "A Fool's Errand",
+      "file": "12a9aa72-c3b3-439b-98cf-4c184583cff8.mp3"
+    },
+    {
+      "uuid": "9dcb1522-1e48-4e89-a076-885a090b8c43",
+      "text": "Hamartia",
+      "file": "9dcb1522-1e48-4e89-a076-885a090b8c43.mp3"
+    },
+    {
+      "uuid": "02a34ab9-be4f-4255-8b64-d8b15ae9f1d3",
+      "text": "Burden of Proof",
+      "file": "02a34ab9-be4f-4255-8b64-d8b15ae9f1d3.mp3"
+    },
+    {
+      "uuid": "8676d974-d099-4746-b8f8-0842418f072c",
+      "text": "Foreshadowing",
+      "file": "8676d974-d099-4746-b8f8-0842418f072c.mp3"
+    },
+    {
+      "uuid": "df427d65-cd7e-4fb6-ba83-d7b953d4021e",
+      "text": "Unilateral",
+      "file": "df427d65-cd7e-4fb6-ba83-d7b953d4021e.mp3"
+    },
+    {
+      "uuid": "ae00be6a-90e1-4882-a2e0-4943527c6518",
+      "text": "Stoicism",
+      "file": "ae00be6a-90e1-4882-a2e0-4943527c6518.mp3"
+    },
+    {
+      "uuid": "9227f78e-565e-4c85-8c10-84ac9299c153",
+      "text": "Overtones",
+      "file": "9227f78e-565e-4c85-8c10-84ac9299c153.mp3"
+    },
+    {
+      "uuid": "510ed6ce-af7e-474b-aa09-37add6ab298e",
+      "text": "Obfuscation",
+      "file": "510ed6ce-af7e-474b-aa09-37add6ab298e.mp3"
+    },
+    {
+      "uuid": "2151c65a-9830-47af-af48-8df76a6a00c7",
+      "text": "Dogma",
+      "file": "2151c65a-9830-47af-af48-8df76a6a00c7.mp3"
+    },
+    {
+      "uuid": "902d95f0-88cd-40c2-a613-1fe18133b934",
+      "text": "Humanism",
+      "file": "902d95f0-88cd-40c2-a613-1fe18133b934.mp3"
+    },
+    {
+      "uuid": "12faef40-a5a0-490b-a23a-d81d8a0f229e",
+      "text": "Jurisprudence",
+      "file": "12faef40-a5a0-490b-a23a-d81d8a0f229e.mp3"
+    },
+    {
+      "uuid": "48a19fed-b021-437a-8112-e1a723fbf67a",
+      "text": "Throw Down the Gauntlet",
+      "file": "48a19fed-b021-437a-8112-e1a723fbf67a.mp3"
+    },
+    {
+      "uuid": "a82a5eff-d6d0-4ce9-8676-161187023cc1",
+      "text": "Altruism",
+      "file": "a82a5eff-d6d0-4ce9-8676-161187023cc1.mp3"
+    },
+    {
+      "uuid": "15b24693-45ed-4520-add9-fe96736f9c9b",
+      "text": "Enforcement",
+      "file": "15b24693-45ed-4520-add9-fe96736f9c9b.mp3"
+    },
+    {
+      "uuid": "28cbbbe7-6818-49ea-8224-e7e7a98b8ea2",
+      "text": "Zero-Sum Game",
+      "file": "28cbbbe7-6818-49ea-8224-e7e7a98b8ea2.mp3"
+    },
+    {
+      "uuid": "9eb57450-6d2f-4838-baf2-74f9f50b8bca",
+      "text": "Monism",
+      "file": "9eb57450-6d2f-4838-baf2-74f9f50b8bca.mp3"
+    },
+    {
+      "uuid": "fad7f43a-e8ed-49a8-810e-6ba5b80d093f",
+      "text": "Indemnify",
+      "file": "fad7f43a-e8ed-49a8-810e-6ba5b80d093f.mp3"
+    },
+    {
+      "uuid": "92502486-d70f-43d5-9e2b-8c829a913a63",
+      "text": "Utilitarianism",
+      "file": "92502486-d70f-43d5-9e2b-8c829a913a63.mp3"
+    },
+    {
+      "uuid": "e30144e7-b717-4721-9fab-73e17b149aff",
+      "text": "Facetious",
+      "file": "e30144e7-b717-4721-9fab-73e17b149aff.mp3"
+    },
+    {
+      "uuid": "6bc6fb14-7c74-479e-95d1-026758d18038",
+      "text": "Resolution",
+      "file": "6bc6fb14-7c74-479e-95d1-026758d18038.mp3"
+    },
+    {
+      "uuid": "4d6b1d21-89f4-4a0b-a1bf-5a4435314246",
+      "text": "Cut the Gordian Knot",
+      "file": "4d6b1d21-89f4-4a0b-a1bf-5a4435314246.mp3"
+    },
+    {
+      "uuid": "bbf3c5f4-d12d-4a56-8112-43dc35048bc3",
+      "text": "Idealism",
+      "file": "bbf3c5f4-d12d-4a56-8112-43dc35048bc3.mp3"
+    },
+    {
+      "uuid": "c0c819b9-d868-4306-9be8-fca86e3d2c0d",
+      "text": "Provision",
+      "file": "c0c819b9-d868-4306-9be8-fca86e3d2c0d.mp3"
+    },
+    {
+      "uuid": "e1a094a2-0dd9-40c0-9ad2-23602c474fa7",
+      "text": "Semantic",
+      "file": "e1a094a2-0dd9-40c0-9ad2-23602c474fa7.mp3"
+    },
+    {
+      "uuid": "e052af68-7ad2-40e5-bc69-c1321f3c382f",
+      "text": "Deadlock",
+      "file": "e052af68-7ad2-40e5-bc69-c1321f3c382f.mp3"
+    },
+    {
+      "uuid": "a9538502-14fa-45cc-8846-229a670fcaa5",
+      "text": "Archetype",
+      "file": "a9538502-14fa-45cc-8846-229a670fcaa5.mp3"
+    },
+    {
+      "uuid": "49d1f62e-5f19-4a67-aac9-21586654fa33",
+      "text": "Intertextuality",
+      "file": "49d1f62e-5f19-4a67-aac9-21586654fa33.mp3"
+    },
+    {
+      "uuid": "9d61c4f2-dc56-4cbb-9249-4a78df970891",
+      "text": "Allegory",
+      "file": "9d61c4f2-dc56-4cbb-9249-4a78df970891.mp3"
+    },
+    {
+      "uuid": "63f92f86-82ec-4695-a7c1-6e5b957e9c87",
+      "text": "Arbitration",
+      "file": "63f92f86-82ec-4695-a7c1-6e5b957e9c87.mp3"
+    },
+    {
+      "uuid": "68cbd35e-da83-4e8a-8c1e-2a856b46d4b0",
+      "text": "Verisimilitude",
+      "file": "68cbd35e-da83-4e8a-8c1e-2a856b46d4b0.mp3"
+    },
+    {
+      "uuid": "76051288-163d-450f-b84d-baf51d8a43d4",
+      "text": "Circumstantial Evidence",
+      "file": "76051288-163d-450f-b84d-baf51d8a43d4.mp3"
+    },
+    {
+      "uuid": "350d309b-ac77-4e9b-ae42-a2f73ad685b8",
+      "text": "Nihilism",
+      "file": "350d309b-ac77-4e9b-ae42-a2f73ad685b8.mp3"
+    },
+    {
+      "uuid": "3f505fcc-d2d9-40cb-8d28-b9531b07198a",
+      "text": "Ad Hominem",
+      "file": "3f505fcc-d2d9-40cb-8d28-b9531b07198a.mp3"
+    },
+    {
+      "uuid": "b78d9338-a8d8-4216-9c82-6668ba8692fb",
+      "text": "Trope",
+      "file": "b78d9338-a8d8-4216-9c82-6668ba8692fb.mp3"
+    },
+    {
+      "uuid": "e76bf086-e7c1-4667-ab76-a3a3c1f644ef",
+      "text": "Stipulate",
+      "file": "e76bf086-e7c1-4667-ab76-a3a3c1f644ef.mp3"
+    },
+    {
+      "uuid": "cea4ffed-b0af-4448-9a02-aa4522dd0bbb",
+      "text": "Gerrymandering",
+      "file": "cea4ffed-b0af-4448-9a02-aa4522dd0bbb.mp3"
+    },
+    {
+      "uuid": "ac53d6c8-eb0b-4606-a8d7-a1fb65d60663",
+      "text": "Midas Touch",
+      "file": "ac53d6c8-eb0b-4606-a8d7-a1fb65d60663.mp3"
+    },
+    {
+      "uuid": "b6ca7985-3481-4615-9122-e639f7177869",
+      "text": "Sanction",
+      "file": "b6ca7985-3481-4615-9122-e639f7177869.mp3"
+    },
+    {
+      "uuid": "80d5d99e-fa29-41b5-a48a-a86036ed7f98",
+      "text": "Realism",
+      "file": "80d5d99e-fa29-41b5-a48a-a86036ed7f98.mp3"
+    },
+    {
+      "uuid": "10ea1121-8457-45b7-b755-c58efdb14be1",
+      "text": "Ratify",
+      "file": "10ea1121-8457-45b7-b755-c58efdb14be1.mp3"
+    },
+    {
+      "uuid": "198c5eeb-99ee-43af-b071-386eb01ebf52",
+      "text": "Dualism",
+      "file": "198c5eeb-99ee-43af-b071-386eb01ebf52.mp3"
+    },
+    {
+      "uuid": "6a673c81-f605-4c03-a1a9-136675244dac",
+      "text": "Coy",
+      "file": "6a673c81-f605-4c03-a1a9-136675244dac.mp3"
+    },
+    {
+      "uuid": "ed7ff828-b459-4874-8ac0-130296b16b6c",
+      "text": "Tone",
+      "file": "ed7ff828-b459-4874-8ac0-130296b16b6c.mp3"
+    },
+    {
+      "uuid": "11e7c2e2-91d3-4e15-8884-2f5d0daf3784",
+      "text": "A Pyrrhic Victory",
+      "file": "11e7c2e2-91d3-4e15-8884-2f5d0daf3784.mp3"
+    },
+    {
+      "uuid": "f209682e-3589-401f-8c4c-3ae2f30c6ac6",
+      "text": "Water Under the Bridge",
+      "file": "f209682e-3589-401f-8c4c-3ae2f30c6ac6.mp3"
+    },
+    {
+      "uuid": "86df8982-43e1-443f-833d-529ab9658506",
+      "text": "Stream of Consciousness",
+      "file": "86df8982-43e1-443f-833d-529ab9658506.mp3"
+    },
+    {
+      "uuid": "a7586558-0151-4630-800a-59ae6d9684bd",
+      "text": "Understatement",
+      "file": "a7586558-0151-4630-800a-59ae6d9684bd.mp3"
+    },
+    {
+      "uuid": "44e5b06f-9a5e-4c92-9ccb-f3a419f884c5",
+      "text": "Xenocentrism",
+      "file": "44e5b06f-9a5e-4c92-9ccb-f3a419f884c5.mp3"
+    },
+    {
+      "uuid": "844d2472-5ce1-4d8b-9fb7-18fa21271dcd",
+      "text": "Reticence",
+      "file": "844d2472-5ce1-4d8b-9fb7-18fa21271dcd.mp3"
+    },
+    {
+      "uuid": "4c849797-5e39-4065-a617-b3086dbed7c5",
+      "text": "Compromise",
+      "file": "4c849797-5e39-4065-a617-b3086dbed7c5.mp3"
+    },
+    {
+      "uuid": "bacef738-be5f-4bc0-8022-1c7cb770abf3",
+      "text": "Relativism",
+      "file": "bacef738-be5f-4bc0-8022-1c7cb770abf3.mp3"
+    },
+    {
+      "uuid": "ffc34739-6541-4cf1-ab91-931be04f52cf",
+      "text": "Litotes",
+      "file": "ffc34739-6541-4cf1-ab91-931be04f52cf.mp3"
+    },
+    {
+      "uuid": "cefa0280-52d8-4123-ad47-a0e47ded181e",
+      "text": "Kantian Ethics",
+      "file": "cefa0280-52d8-4123-ad47-a0e47ded181e.mp3"
+    },
+    {
+      "uuid": "9deabb6b-81af-4c01-a329-dc906d9ba90b",
+      "text": "Metaphysics",
+      "file": "9deabb6b-81af-4c01-a329-dc906d9ba90b.mp3"
+    },
+    {
+      "uuid": "632140d6-69c9-400c-901c-e6175a18c421",
+      "text": "Jump the Shark",
+      "file": "632140d6-69c9-400c-901c-e6175a18c421.mp3"
+    },
+    {
+      "uuid": "8577cb50-1f95-4384-bae3-018597661cea",
+      "text": "Pastiche",
+      "file": "8577cb50-1f95-4384-bae3-018597661cea.mp3"
+    },
+    {
+      "uuid": "1658c9ea-1478-4be4-876b-8933d3f93303",
+      "text": "Chasing Windmills",
+      "file": "1658c9ea-1478-4be4-876b-8933d3f93303.mp3"
+    }
+  ],
+  "skipped": [],
+  "failed": []
+}
